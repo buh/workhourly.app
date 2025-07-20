@@ -11,9 +11,10 @@
     --bg-primary: #FFFFFF;
     --bg-secondary: #F8F9FB;
     --bg-accent: #F0F2F5;
-    --bg-trust: rgba(0, 102, 255, 0.03);
+    --bg-trust: rgba(0, 102, 255, 0.15);
     --border: rgba(0, 0, 0, 0.06);
     --shadow-soft: drop-shadow(0 8px 32px rgba(0, 0, 0, 0.12));
+    --pdf-opacity: 1.0;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -28,9 +29,10 @@
         --bg-primary: #000000;
         --bg-secondary: #0A0A0A;
         --bg-accent: #111111;
-        --bg-trust: rgba(10, 132, 255, 0.08);
+        --bg-trust: rgba(10, 132, 255, 0.2);
         --border: rgba(255, 255, 255, 0.08);
         --shadow-soft: drop-shadow(0 8px 32px rgba(0, 0, 0, 0.5));
+        --pdf-opacity: 0.7;
     }
 }
 
@@ -59,8 +61,8 @@ body::before {
     right: 0;
     height: 100vh;
     background: 
-        radial-gradient(ellipse at top left, rgba(0, 102, 255, 0.03) 0%, transparent 50%),
-        radial-gradient(ellipse at bottom right, rgba(0, 212, 255, 0.03) 0%, transparent 50%);
+        radial-gradient(ellipse at top left, rgba(0, 102, 255, 0.05) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom right, rgba(0, 212, 255, 0.05) 0%, transparent 50%);
     pointer-events: none;
     z-index: -1;
 }
@@ -281,7 +283,6 @@ a.download-nav:hover {
 .trust-section {
     padding: 120px 0;
     text-align: center;
-    background: linear-gradient(135deg, var(--bg-trust) 0%, var(--bg-secondary) 100%);
     position: relative;
 }
 
@@ -293,9 +294,23 @@ a.download-nav:hover {
     right: 0;
     bottom: 0;
     background: 
-        radial-gradient(circle at 20% 50%, var(--bg-trust) 0%, transparent 40%),
-        radial-gradient(circle at 80% 50%, var(--bg-trust) 0%, transparent 40%);
+        radial-gradient(circle at 20% 50%, var(--bg-trust) 0%, transparent 50%),
+        radial-gradient(circle at 80% 50%, var(--bg-trust) 0%, transparent 50%);
+    opacity: 0.3;
     pointer-events: none;
+}
+
+.trust-section,
+.pricing-section {
+    background: linear-gradient(135deg, var(--bg-trust) 0%, var(--bg-secondary) 50%);
+}
+
+.pricing-section::before,
+.trust-section::before {
+    background:
+        radial-gradient(circle at 20% 50%, var(--bg-trust) 0%, transparent 50%),
+        radial-gradient(circle at 80% 50%, var(--bg-trust) 0%, transparent 50%);
+    opacity: 0.3;
 }
 
 .trust-content {
@@ -373,6 +388,7 @@ a.download-nav:hover {
 /* Features Section */
 .features {
     padding: 120px 0;
+    background: var(--bg-secondary);
 }
 
 .features-header {
@@ -398,7 +414,7 @@ a.download-nav:hover {
 .features-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 48px;
+    gap: 80px 40px;
 }
 
 .feature {
@@ -416,7 +432,6 @@ a.download-nav:hover {
 /* Pricing Section */
 .pricing-section {
     padding: 120px 0;
-    background: var(--bg-secondary);
 }
 
 .pricing-header {
@@ -599,6 +614,7 @@ a.download-nav:hover {
     color: var(--text-muted);
     font-size: 14px;
     filter: var(--shadow-soft);
+    opacity: var(--pdf-opacity);
 }
 
 /* FAQ Section */
