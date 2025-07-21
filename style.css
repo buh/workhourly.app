@@ -423,11 +423,12 @@ a.download-nav:hover {
 }
 
 .feature h3 {
-    margin: 24px 0 12px;
+    margin: 0 0 12px;
 }
 
 .feature p {
     font-size: 16px;
+    min-height: 100px;
 }
 
 /* Pricing Section */
