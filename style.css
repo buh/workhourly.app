@@ -169,6 +169,7 @@ a.download-nav {
 
 a.download-nav:hover {
     background: var(--primary-dark);
+    color: white;
     transform: translateY(-1px);
 }
 
@@ -690,6 +691,7 @@ a.download-nav:hover {
 .cta-section {
     padding: 120px 0;
     text-align: center;
+    background: radial-gradient(circle at 50% 100%, var(--bg-trust) 0%, transparent 75%);
 }
 
 .cta-section h2 {
