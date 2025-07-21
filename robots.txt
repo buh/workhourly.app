@@ -1,0 +1,27 @@
+# WorkHourly robots.txt
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /style.css
+Allow: /images/
+
+# Block legal pages from all robots
+Disallow: /terms_of_service.html
+Disallow: /privacy_policy.html
+Disallow: /docs_style.css
+
+# Block specific aggressive bots
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
