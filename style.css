@@ -363,10 +363,8 @@ a.download-nav:hover {
 }
 
 .trust-feature-icon {
-    width: 32px;
     height: 32px;
     color: white;
-    border-radius: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -711,6 +709,17 @@ a.download-nav:hover {
     align-items: center;
 }
 
+.footer-icon {
+    display: inline-block;
+    height: 20px;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-bottom: -4px;
+    margin-right: 4px;
+    filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+    opacity: 0.7;
+}
+
 .footer-links {
     display: flex;
     gap: 32px;
@@ -726,6 +735,10 @@ a.download-nav:hover {
 
 .footer-links a:hover {
     color: var(--text-primary);
+}
+
+.footer-links a:hover .footer-icon {
+    opacity: 1;
 }
 
 .copyright {
