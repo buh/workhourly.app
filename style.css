@@ -690,9 +690,9 @@ a.download-nav:hover {
 
 /* CTA Section */
 .cta-section {
-    padding: 120px 0;
+    padding: 120px 0 0;
     text-align: center;
-    background: radial-gradient(circle at 50% 100%, var(--bg-trust) 0%, transparent 75%);
+    background: radial-gradient(circle at 50% 100%, var(--bg-trust) 0%, transparent 100%);
 }
 
 .cta-section h2 {
@@ -704,14 +704,8 @@ a.download-nav:hover {
     margin-bottom: 48px;
 }
 
-/* Footer */
-footer {
-    padding: 64px 0;
-    background: var(--bg-accent);
-    border-top: 1px solid var(--border);
-}
-
 .footer-content {
+    padding: 120px 0 64px;
     display: flex;
     justify-content: space-between;
     align-items: center;
