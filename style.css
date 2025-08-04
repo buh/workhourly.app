@@ -264,7 +264,7 @@ a.download-nav:hover {
 
 .screenshot {
     width: 320px;
-    min-height: 693px;
+    height: 695px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -273,11 +273,18 @@ a.download-nav:hover {
     font-weight: 500;
     filter: var(--shadow-soft);
     overflow: hidden;
+    border-radius: 48px;
 }
 
 .screenshot.small {
     width: 300px;
-    min-height: 650px;
+    height: 652px;
+    border-radius: 45px;
+}
+
+.widgets-preview .screenshot {
+    height: 185px;
+    border-radius: 40px;
 }
 
 /* Trust Section */
