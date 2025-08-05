@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>WorkHourly - ติดตามเวลาทำงานสำหรับผู้เชี่ยวชาญ | บันทึกเวลา รับค่าจ้าง</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    
+    <meta name="description" content="ติดตามเวลาทำงานแบบมืออาชีพพร้อมใบแจ้งหนี้ PDF การจัดการค่าใช้จ่าย และการบันทึกภาพ ไม่เสียค่าจ้างล่วงเวลา ทำงานแบบออฟไลน์ รองรับ 33 ภาษา">
+    <meta name="keywords" content="time tracking, invoice generator, freelancer app, contractor tools, PDF invoices, expense tracker, work hours, overtime calculator, professional time tracker, iOS app">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="WorkHourly">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://workhourly.app/">
+    <meta property="og:title" content="WorkHourly - ติดตามเวลาทำงานสำหรับผู้เชี่ยวชาญ">
+    <meta property="og:description" content="ติดตามเวลาทำงานสำหรับลูกค้าทุกคน คำนวณรายได้ทันที และไม่ลืมเรียกเก็บค่าล่วงเวลา ทำงานแบบออฟไลน์พร้อมสำรองข้อมูล iCloud">
+    <meta property="og:image" content="https://workhourly.app/images/og-image.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://workhourly.app/">
+    <meta property="twitter:title" content="WorkHourly - Time Tracking for Professionals">
+    <meta property="twitter:description" content="Track time for all your clients, calculate earnings instantly, and never forget to bill for overtime.">
+    <meta property="twitter:image" content="https://workhourly.app/images/twitter-image.png">
+    
+    <!-- Apple App Store -->
+    <meta name="apple-itunes-app" content="app-id=6749011205">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://workhourly.app/">
+    <!-- Update the URL above with your actual domain -->
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "WorkHourly",
+        "operatingSystem": "iOS",
+        "applicationCategory": "BusinessApplication",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "description": "Professional time tracking with PDF invoicing, expense management, and photo documentation.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "ratingCount": "1024"
+        }
+    }
+    </script>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/style.css?v=1.4">
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo">WorkHourly</div>
+            <ul class="nav-links">
+                <li><a href="#features">คุณสมบัติ</a></li>
+                <li><a href="#invoices">ใบแจ้งหนี้</a></li>
+                <li><a href="#widgets">วิดเจ็ต</a></li>
+                <li><a href="#pricing">ฟรี กับ Pro</a></li>
+                <li><a href="#faq">คำถามที่พบบ่อย</a></li>
+                <!-- Desktop Navigation Actions -->
+<li><a href="https://apps.apple.com/app/id6749011205" class="download-nav">ดาวน์โหลด</a></li>
+<li class="language-switcher desktop-language-switcher">
+    <button class="language-button" onclick="toggleLanguageMenu('desktop')">
+        <span class="flag">🇹🇭</span>
+        <span class="chevron">▼</span>
+    </button>
+    <div class="language-menu" id="desktopLanguageMenu">
+        <div class="language-grid">
+    <a href="/" class="language-flag" title="English">
+        <span class="flag">🇺🇸</span>
+    </a>
+    <a href="/es/" class="language-flag" title="Español">
+        <span class="flag">🇪🇸</span>
+    </a>
+    <a href="/fr/" class="language-flag" title="Français">
+        <span class="flag">🇫🇷</span>
+    </a>
+    <a href="/de/" class="language-flag" title="Deutsch">
+        <span class="flag">🇩🇪</span>
+    </a>
+    <a href="/it/" class="language-flag" title="Italiano">
+        <span class="flag">🇮🇹</span>
+    </a>
+    <a href="/nl/" class="language-flag" title="Nederlands">
+        <span class="flag">🇳🇱</span>    
+    </a>
+    <a href="/pt/" class="language-flag" title="Português">
+        <span class="flag">🇵🇹</span>
+    </a>
+    <a href="/ru/" class="language-flag" title="Русский">
+        <span class="flag">🇷🇺</span>
+    </a>
+    <a href="/pl/" class="language-flag" title="Polski">
+        <span class="flag">🇵🇱</span>
+    </a>
+    <a href="/sv/" class="language-flag" title="Svenska">
+        <span class="flag">🇸🇪</span>
+    </a>
+    <a href="/uk/" class="language-flag" title="Українська">
+        <span class="flag">🇺🇦</span>
+    </a>
+    <a href="/cs/" class="language-flag" title="Čeština">
+        <span class="flag">🇨🇿</span>
+    </a>
+    <a href="/hu/" class="language-flag" title="Magyar">
+        <span class="flag">🇭🇺</span>
+    </a>
+    <a href="/bg/" class="language-flag" title="Български">
+        <span class="flag">🇧🇬</span>
+    </a>
+    <a href="/ja/" class="language-flag" title="日本語">
+        <span class="flag">🇯🇵</span>
+    </a>
+    <a href="/ko/" class="language-flag" title="한국어">
+        <span class="flag">🇰🇷</span>
+    </a>
+    <a href="/zh-cn/" class="language-flag" title="简体中文">
+        <span class="flag">🇨🇳</span>
+    </a>
+    <a href="/zh-tw/" class="language-flag" title="繁體中文">
+        <span class="flag">🇹🇼</span>
+    </a>
+</div>
+    </div>
+</li>
+            </ul>
+            <!-- Mobile Navigation -->
+<div class="mobile-nav">
+    <a href="https://apps.apple.com/app/id6749011205" class="mobile-download">ดาวน์โหลด</a>
+    <div class="language-switcher mobile-language-switcher">
+        <button class="language-button" onclick="toggleLanguageMenu('mobile')">
+            <span class="flag">🇹🇭</span>
+            <span class="chevron">▼</span>
+        </button>
+        <div class="language-menu" id="mobileLanguageMenu">
+            <div class="language-grid">
+    <a href="/" class="language-flag" title="English">
+        <span class="flag">🇺🇸</span>
+    </a>
+    <a href="/es/" class="language-flag" title="Español">
+        <span class="flag">🇪🇸</span>
+    </a>
+    <a href="/fr/" class="language-flag" title="Français">
+        <span class="flag">🇫🇷</span>
+    </a>
+    <a href="/de/" class="language-flag" title="Deutsch">
+        <span class="flag">🇩🇪</span>
+    </a>
+    <a href="/it/" class="language-flag" title="Italiano">
+        <span class="flag">🇮🇹</span>
+    </a>
+    <a href="/nl/" class="language-flag" title="Nederlands">
+        <span class="flag">🇳🇱</span>    
+    </a>
+    <a href="/pt/" class="language-flag" title="Português">
+        <span class="flag">🇵🇹</span>
+    </a>
+    <a href="/ru/" class="language-flag" title="Русский">
+        <span class="flag">🇷🇺</span>
+    </a>
+    <a href="/pl/" class="language-flag" title="Polski">
+        <span class="flag">🇵🇱</span>
+    </a>
+    <a href="/sv/" class="language-flag" title="Svenska">
+        <span class="flag">🇸🇪</span>
+    </a>
+    <a href="/uk/" class="language-flag" title="Українська">
+        <span class="flag">🇺🇦</span>
+    </a>
+    <a href="/cs/" class="language-flag" title="Čeština">
+        <span class="flag">🇨🇿</span>
+    </a>
+    <a href="/hu/" class="language-flag" title="Magyar">
+        <span class="flag">🇭🇺</span>
+    </a>
+    <a href="/bg/" class="language-flag" title="Български">
+        <span class="flag">🇧🇬</span>
+    </a>
+    <a href="/ja/" class="language-flag" title="日本語">
+        <span class="flag">🇯🇵</span>
+    </a>
+    <a href="/ko/" class="language-flag" title="한국어">
+        <span class="flag">🇰🇷</span>
+    </a>
+    <a href="/zh-cn/" class="language-flag" title="简体中文">
+        <span class="flag">🇨🇳</span>
+    </a>
+    <a href="/zh-tw/" class="language-flag" title="繁體中文">
+        <span class="flag">🇹🇼</span>
+    </a>
+</div>
+        </div>
+    </div>
+</div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>รับค่าจ้างทุก<span class="gradient">ชั่วโมง</span><br>ที่คุณ<span class="gradient">ทำงาน</span></h1>
+                <p class="hero-subtitle">ติดตามเวลา คำนวณรายได้ทันที สร้างใบแจ้งหนี้ PDF และไม่เสียเวลาล่วงเวลา ทุกอย่างในแอปเดียวสำหรับผู้เชี่ยวชาญที่ต้องการความแม่นยำ</p>
+                <div class="cta-group">
+                    <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
+                        <span>เริ่มต้น</span>
+                        <span>→</span>
+                    </a>
+                    <a href="#features" class="cta-secondary">วิธีการทำงาน</a>
+                </div>
+                
+                <div class="screenshots-intro">
+                    <picture>
+                          <source srcset="/images/today@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/today@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/today@light.png" class="screenshot" alt="Today Screen" />
+                    </picture>
+                    <picture>
+                          <source srcset="/images/analytics_charts@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/analytics_charts@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/analytics_charts@light.png" class="screenshot" alt="Analytics Charts Screen" />
+                    </picture>
+                    <picture>
+                          <source srcset="/images/reports_months@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/reports_months@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/reports_months@light.png" class="screenshot" alt="Reports Monthly Screen" />
+                    </picture>
+                </div>
+            </div>
+        </section>
+
+        <section class="trust-section">
+            <div class="container" style="max-width: 850px">
+                <div class="trust-content">
+                    <h2>พร้อมใช้งานเสมอ เป็นส่วนตัวเสมอ</h2>
+                    <p>ข้อมูลของคุณอยู่ในอุปกรณ์ของคุณ ไม่มีเซิร์ฟเวอร์ ไม่มีการหยุดทำงาน ไม่มีความกังวล</p>
+                    <div class="trust-badges">
+                        <div class="trust-badge">
+                            <div class="trust-number">100%</div>
+                            <div class="trust-label">ออฟไลน์เป็นหลัก</div>
+                        </div>
+                        <div class="trust-badge">
+                            <div class="trust-number">33</div>
+                            <div class="trust-label">ภาษา</div>
+                        </div>
+                        <div class="trust-badge">
+                            <div class="trust-number">80+</div>
+                            <div class="trust-label">ประเทศ</div>
+                        </div>
+                    </div>
+                    
+                    <div class="trust-features">
+                        <div class="trust-feature">
+                            <img src="/icons/no_wifi.png" class="trust-feature-icon" />
+                            <div class="trust-feature-content">
+                                <h4>ทำงานโดยไม่ต้องใช้อินเทอร์เน็ต</h4>
+                                <p>ติดตามเวลา สร้างรายงาน และจัดการลูกค้าแบบออฟไลน์สมบูรณ์</p>
+                            </div>
+                        </div>
+                        <div class="trust-feature">
+                            <img src="/icons/icloud_lock.png" class="trust-feature-icon" />
+                            <div class="trust-feature-content">
+                                <h4>สำรองข้อมูล iCloud <span class="gradient">(Pro)</span></h4>
+                                <p>ข้อมูลของคุณซิงค์แบบส่วนตัวผ่านบัญชี iCloud ของคุณ</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features" id="features">
+            <div class="container">
+                <div class="features-header">
+                    <h2>ทุกสิ่งที่คุณต้องการ<br>ไม่มีสิ่งที่คุณไม่ต้องการ</h2>
+                    <p>ห้าหน้าจอง่ายๆ ออกแบบมาสำหรับวิธีที่คุณทำงานจริงๆ</p>
+                </div>
+                <div class="features-grid">
+                    <div class="feature">
+                        <h3>วันนี้ - ติดตามตอนนี้</h3>
+                        <p>เริ่มต้นวันทำงานอย่างรวดเร็ว ติดตามเวลาจริงเทียบกับเวลาที่วางแผน เพิ่มบันทึก ค่าใช้จ่าย และรูปภาพขณะทำงาน</p>
+                        <picture>
+                              <source srcset="/images/today_start@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/today_start@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/today_start@light.png" class="screenshot small" alt="Today Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>ตารางงาน - วางแผนล่วงหน้า</h3>
+                        <p>ดูสัปดาห์ของคุณได้ในหนึ่งมุมมอง เพิ่มการประชุมงานในอนาคต หลีกเลี่ยงการจองซ้ำ</p>
+                        <picture>
+                              <source srcset="/images/schedule@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/schedule@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/schedule@light.png" class="screenshot small" alt="Schedule Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>รายงาน - รับค่าจ้าง</h3>
+                        <p>สร้างใบแจ้งหนี้ PDF ทันที รายงานรายสัปดาห์หรือรายเดือน รวมค่าใช้จ่ายและบันทึกการทำงาน</p>
+                        <picture>
+                              <source srcset="/images/reports@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/reports@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/reports@light.png" class="screenshot small" alt="Reports Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>การวิเคราะห์ - รู้จักมูลค่าของคุณ</h3>
+                        <p>ดูแนวโน้มและรูปแบบรายได้ เข้าใจว่าลูกค้าคนไหนจ่ายดีที่สุด ติดตามการเติบโตของธุรกิจ</p>
+                        <picture>
+                              <source srcset="/images/analytics@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/analytics@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/analytics@light.png" class="screenshot small" alt="Analytics Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>การตั้งค่า - แบบของคุณ</h3>
+                        <p>ตั้งอัตราค่าจ้างสำหรับลูกค้าแต่ละคน ปรับแต่งรายละเอียดใบแจ้งหนี้</p>
+                        <picture>
+                              <source srcset="/images/settings@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/settings@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/settings@light.png" class="screenshot small" alt="Settings Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>หลายลูกค้า</h3>
+                        <p>แยกลูกค้าแต่ละคน อัตราค่าจ้างและสัญญาแต่ละคน เปลี่ยนระหว่างโปรเจกต์ได้อย่างราบรื่น</p>
+                        <picture>
+                              <source srcset="/images/payrolls@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/payrolls@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/payrolls@light.png" class="screenshot small" alt="Multi-Client Screen" />
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="pdf-section" id="invoices">
+            <div class="container">
+                <div class="pdf-content">
+                    <div class="pdf-text">
+                        <h2>ใบแจ้งหนี้ PDF มืออาชีพในไม่กี่วินาที</h2>
+                        <p>สร้างใบแจ้งหนี้คุณภาพสูงที่สร้างความประทับใจให้ลูกค้าและเร่งการจ่ายเงิน รายละเอียดทุกอย่างถูกจัดรูปแบบอย่างสมบูรณ์และพร้อมส่ง</p>
+                        <ul class="pdf-features">
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>แยกภาษีและค่าล่วงเวลาอย่างชาญฉลาด</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>ค่าใช้จ่าย บันทึกเพิ่มเติม และลายเซ็นของคุณ</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>ข้อมูลธุรกิจและรายละเอียดการชำระเงิน</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>ช่วงวันที่รายสัปดาห์ รายเดือน หรือกำหนดเอง</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>ส่งออก PDF ทันที</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="pdf-preview">
+                        <img src="/images/invoices.png" class="pdf-image" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="widgets-section" id="widgets">
+            <div class="container">
+                <div class="widgets-content">
+                    <div class="widgets-text">
+                        <h2>ตารางงานของคุณในหนึ่งมุมมอง</h2>
+                        <p>ติดตามงานที่จะมาถึงโดยไม่ต้องเปิดแอป วิดเจ็ตตารางงานแสดงกะงานถัดไป สถานะงานปัจจุบัน และการนับถอยหลังแบบสด - ทุกอย่างอัปเดตอัตโนมัติบนหน้าจอหลักและหน้าจอล็อค</p>
+                                                
+                        <div class="widget-sizes">
+                            <h4>ขนาดวิดเจ็ตที่มี</h4>
+                            <div class="widget-size-badges">
+                                <span class="widget-badge">เล็ก</span>
+                                <span class="widget-badge">กลาง</span>
+                                <span class="widget-badge">หน้าจอล็อค</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="widgets-preview">
+                        <picture>
+                            <source srcset="/images/widgets@light.png" media="(prefers-color-scheme: light)">
+                            <source srcset="/images/widgets@dark.png" media="(prefers-color-scheme: dark)">
+                            <img src="/images/widgets@light.png" class="widget-image" alt="WorkHourly Widgets" />
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="pricing-section" id="pricing">
+            <div class="container">
+                <div class="pricing-header">
+                    <h2>เริ่มตอนนี้ อัปเกรดเมื่อคุณ<br><span class="gradient">เติบโต</span></h2>
+                    <p>ทุกสิ่งที่คุณต้องการในการติดตามลูกค้าหนึ่งคนฟรี ตลอดไป</p>
+                </div>
+                <div class="pricing-comparison">
+                    <div class="pricing-card">
+                        <div class="pricing-price">ฟรี</div>
+                        <div class="pricing-subtitle">เหมาะสำหรับการเริ่มต้น</div>
+                        <ul class="pricing-features">
+                            <li><span class="icon">✓</span> 1 ลูกค้า</li>
+                            <li><span class="icon">✓</span> ติดตามเวลาและล่วงเวลา</li>
+                            <li><span class="icon">✓</span> ติดตามค่าใช้จ่าย</li>
+                            <li><span class="icon">✓</span> บันทึกการทำงาน</li>
+                            <li><span class="icon">✓</span> การบันทึกภาพ</li>
+                            <li><span class="icon">✓</span> การแจ้งเตือนอัจฉริยะ</li>
+                            <li><span class="icon">✓</span> รายงานรายสัปดาห์</li>
+                        </ul>
+                    </div>
+                    <div class="pricing-card featured">
+                        <div class="pricing-price">Pro</div>
+                        <div class="pricing-subtitle">สำหรับผู้เชี่ยวชาญที่กำลังเติบโต</div>
+                        <ul class="pricing-features">
+                            <li><span class="icon">✓</span> ลูกค้าไม่จำกัด</li>
+                            <li><span class="icon">✓</span> ทุกอย่างในแบบฟรี</li>
+                            <li><span class="icon">✓</span> ส่งออกใบแจ้งหนี้ PDF</li>
+                            <li><span class="icon">✓</span> การวิเคราะห์ขั้นสูง</li>
+                            <li><span class="icon">✓</span> สำรองข้อมูลและซิงค์ iCloud</li>
+                            <li><span class="icon">✓</span> ข้อมูลเชิงลึกรายได้</li>
+                            <li><span class="icon">✓</span> รายงานรายเดือน</li>
+                        </ul>
+                        <div class="hero-badge">
+                            <span>✓</span>
+                            <span>ทดลองใช้ฟรี 2 สัปดาห์</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq" id="faq">
+            <div class="container">
+                <div class="faq-header">
+                    <h2>คำถามที่พบบ่อย</h2>
+                </div>
+                <div class="faq-container">
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>อะไรทำให้ WorkHourly แตกต่างจากแอปติดตามเวลาอื่นๆ?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                แอปติดตามเวลาส่วนใหญ่สร้างมาสำหรับพนักงานหรือโปรเจกต์เดียว WorkHourly สร้างมาเป็นพิเศษสำหรับผู้เชี่ยวชาญด้านบริการที่ทำงานกับลูกค้าหลายคนที่มีอัตราค่าจ้างและตารางงานต่างกัน เราจัดการกับความซับซ้อนจริงของงานคุณ: ติดตามค่าใช้จ่ายต่องาน (ไม่ใช่ต่อวัน) บันทึกงานด้วยภาพถ่าย ตรวจจับล่วงเวลาอัตโนมัติ และสร้างใบแจ้งหนี้มืออาชีพที่จริงๆ แล้วทำให้คุณได้รับเงิน ทุกอย่างทำงานแบบออฟไลน์เป็นหลัก ดังนั้นไม่ว่าคุณจะอยู่ในห้องใต้ดินหรือบนหลังคา การติดตามเวลาของคุณจะไม่หยุด
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>WorkHourly เหมาะกับประเภทงานของฉันไหม?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                หากคุณสงสัยว่า 'นี่สำหรับคนอย่างฉันไหม?' คำตอบน่าจะใช่ พี่เลี้ยงเด็กที่ดูแลสามครอบครัว ช่างฝีมือที่ทำงานแบบชั่วโมงและโปรเจกต์ผสม ครูส่วนตัวที่สอนวิชาต่างๆ ในอัตราต่างๆ คนทำความสะอาดที่จัดการลูกค้ารายสัปดาห์และรายเดือน - WorkHourly เข้าใจ ตัวหารร่วมไม่ใช่สิ่งที่คุณทำ แต่เป็นวิธีที่คุณทำงาน: ลูกค้าหลายคน อัตราต่างกัน ตารางงานที่แปรผัน และความต้องการที่จะได้รับค่าจ้างอย่างแม่นยำสำหรับทุกนาที นั่นคือสิ่งที่เราสร้างมาเพื่อ
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>ฉันสามารถติดตามค่าใช้จ่ายแยกสำหรับแต่ละงานได้ไหม?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                แน่นอน และนี่คือจุดที่ WorkHourly เปล่งประกายจริงๆ แอปส่วนใหญ่จัดกลุ่มค่าใช้จ่ายตามวัน แต่งานจริงไม่ทำงานแบบนั้น หากตอนเช้าคุณซ่อมอ่างล้างจานของคุนแม่สมศรี และตอนบ่ายทำระเบียงของครอบครัวสมชาย ค่าใช้จ่ายเหล่านี้ต้องแยกกัน WorkHourly ติดตามค่าใช้จ่ายต่อกะการทำงาน ดังนั้นวัสดุ การเดินทาง และต้นทุนจึงชัดเจนในบิลของลูกค้าแต่ละคน ถ่ายภาพใบเสร็จ เพิ่มคำอธิบาย - ทุกอย่างจัดระเบียบตรงตามที่ธุรกิจของคุณทำงานจริงๆ
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>การแจ้งเตือนอัจฉริยะทำงานอย่างไร?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                การแจ้งเตือนอัจฉริยะทำงานเหมือนผู้ช่วยส่วนตัวที่เข้าใจตารางงานของคุณจริงๆ คุณจะได้รับการแจ้งเตือนเบาๆ ตอนเช้าเกี่ยวกับงานวันนี้ จากนั้น WorkHourly จะดูนาฬิกาให้คุณ ไม่ต้องใช้อินเทอร์เน็ต - การแจ้งเตือนเหล่านี้ถูกกำหนดลงในโทรศัพท์ของคุณโดยตรง ดังนั้นจึงทำงานแม้ในที่ที่ไม่มีสัญญาณ
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>มันทำงานโดยไม่ใช้อินเทอร์เน็ตได้อย่างไร?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                ข้อมูลของคุณอาศัยอยู่ในโทรศัพท์ของคุณ ไม่ใช่บนเซิร์ฟเวอร์ฝั่งโลกอีกข้าง การติดตามเวลา บันทึกค่าใช้จ่าย สร้างใบแจ้งหนี้ - ทุกอย่างทำงานได้อย่างสมบูรณ์ไม่ว่าคุณจะมี WiFi เครือข่ายมือถือ หรือไม่มีการเชื่อมต่อเลย นี่ไม่ใช่แค่สะดวก แต่เป็นสิ่งจำเป็นเมื่อคุณทำงานในห้องใต้ดิน พื้นที่ชนบท หรือทุกที่ที่การเรียกซ่อมพาคุณไป ผู้ใช้ Pro สามารถเพิ่มการสำรองข้อมูล iCloud เพื่อความสบายใจ แต่งานของคุณจะไม่หยุดเพราะสัญญาณอ่อน
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>การวิเคราะห์รวมอะไรบ้าง?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                คิดถึงการวิเคราะห์เป็นโค้ชธุรกิจของคุณที่ไม่เคยหลับ ดูว่าลูกค้าคนไหนที่จริงๆ แล้วทำเงินให้คุณ (ไม่ใช่แค่คนที่จ่ายเงินต่อชั่วโมงมากที่สุด) ค้นพบวันที่มีผลผลิตมากที่สุด และติดตามว่าคุณทำงานสม่ำเสมอแค่ไหน กราฟแสดงรูปแบบที่คุณอาจพลาดไปแต่ละวัน: 'ฉันทำงานนานขึ้นเสมอในวันพุธ' หรือ 'ลูกค้าของฉันในวันอังคารทำกำไรมากที่สุด' มันเหมือนมุมมองจากนกของทั้งธุรกิจของคุณ ช่วยให้คุณตัดสินใจอย่างชาญฉลาดมากขึ้นเกี่ยวกับที่จะใช้เวลา
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>การคำนวณค่าล่วงเวลาทำงานอย่างไร?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                การคำนวณค่าล่วงเวลาเป็นจุดที่ WorkHourly คุ้มค่าจริงๆ ตั้งอัตราปกติและอัตราล่วงเวลาสำหรับลูกค้าแต่ละคน - อาจจะครอบครัวสมศรีจ่าย 1.5 เท่าหลัง 8 ชั่วโมง แต่ลูกค้าธุรกิจของคุณจ่ายอัตราสองเท่าสำหรับงานวันหยุด แอปจะขอให้คุณตั้งเวลาจบจริงเมื่องานที่วางแผนไว้จบ ดังนั้นหากคุณทำงานนานกว่า WorkHourly จะจับทุกนาทีเพิ่มเติมและคำนวณด้วยอัตราที่ถูกต้องโดยอัตโนมัติ ไม่มีเงินที่หายไปอีกแล้วเพราะลืมติดตามชั่วโมงเพิ่มเติมนั้น หรือเพราะจำไม่ได้ว่าลูกค้าคนไหนจ่ายอะไรสำหรับค่าล่วงเวลา
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>ข้อมูลของฉันปลอดภัยกับการสำรองข้อมูล iCloud ไหม?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                ข้อมูลของคุณไปตรงจากโทรศัพท์ของคุณไปยังบัญชี iCloud ส่วนตัวของคุณ - เราไม่เคยเห็น แตะ หรือเข้าถึงมัน คิดว่ามันเป็นตู้เซฟส่วนตัวที่มีแต่คุณเท่านั้นที่มีกุญแจ Apple จัดการการเข้ารหัสและความปลอดภัยทั้งหมด ดังนั้นข้อมูลลูกค้า รายได้ และรายละเอียดการทำงานของคุณจึงเป็นความลับสมบูรณ์ แม้ว่าคุณจะทำโทรศัพท์หาย หรือซื้อเครื่องใหม่ ทุกอย่างจะซิงค์เหมือนที่คุณทิ้งไว้ และจำไว้ ทุกอย่างทำงานแบบออฟไลน์เป็นหลัก ดังนั้นข้อมูลของคุณจึงปลอดภัยเสมอบนอุปกรณ์ของคุณ ไม่ว่าจะมีอินเทอร์เน็ตหรือไม่
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>ฉันสามารถลองคุณสมบัติ Pro ก่อนซื้อได้ไหม?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                เวอร์ชันฟรีไม่ใช่ตัวอย่าง - มันเป็นโซลูชันติดตามเวลาที่สมบูรณ์สำหรับลูกค้าหนึ่งคน การติดตามเวลา บันทึกค่าใช้จ่าย เพิ่มบันทึกและภาพ ทุกอย่างทำงานได้อย่างสมบูรณ์ คนส่วนใหญ่เริ่มต้นที่นี่และตระหนักว่า WorkHourly สมเหตุสมผล เมื่อธุรกิจของคุณเติบโตและคุณจัดการลูกค้าหลายคน คุณสมบัติ Pro อย่างลูกค้าไม่จำกัดและการออกใบแจ้งหนี้ PDF จึงกลายเป็นสิ่งจำเป็น คุณสามารถทดลองใช้ Pro ฟรีสองสัปดาห์ หรือไปที่ Lifetime โดยตรงหากคุณรู้ว่าคุณพบโซลูชันของคุณแล้ว
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>วิดเจ็ตทำงานบนหน้าจอหลักของฉันอย่างไร?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                วิดเจ็ตตารางงาน WorkHourly แสดงกะงานที่จะมาถึงโดยตรงบนหน้าจอหลักและหน้าจอล็อค พวกมันอัปเดตอัตโนมัติด้วยการนับถอยหลังแบบสด - 'อีก 3 ชั่วโมง' กลายเป็น 'อีก 2 ชั่วโมง' โดยที่คุณไม่ต้องทำอะไร มีในขนาดเล็ก กลาง และหน้าจอล็อคตามความต้องการของคุณ
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>ฉันสามารถตั้งอัตราค่าจ้างต่อชั่วโมงที่ต่างกันสำหรับลูกค้าต่างคนได้ไหม?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                นี่คือจุดที่ WorkHourly เข้าใจธุรกิจของคุณจริงๆ ลูกค้าแต่ละคนต่างกัน - ครอบครัวที่คุณดูแลเด็กจ่าย 200 บาท/ชั่วโมง ร้านอาหารที่คุณทำความสะอาดจ่าย 12,000 บาท/เดือน และลูกค้าช่างฝีมือวันหยุดของคุณจ่าย 350 บาท/ชั่วโมงกับอัตราสองเท่าหลัง 18:00 น. ตั้งค่าสัญญาค่าจ้างเฉพาะของลูกค้าแต่ละคนครั้งเดียว และ WorkHourly จะคำนวณทั้งหมดโดยอัตโนมัติ อัตราต่างกัน กฎล่วงเวลาต่างกัน สถานการณ์ภาษีต่างกัน - ทุกอย่างทำงานได้ง่าย ไม่ว่าส่วนผสมลูกค้าของคุณจะซับซ้อนแค่ไหน
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>เกิดอะไรขึ้นถ้าฉันลืมติดตามเวลา?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                ชีวิตเกิดขึ้น - โทรศัพท์หมดแบต คุณเสียสมาธิ หรือลืมเปิดนาฬิกาจับเวลา WorkHourly ไม่ลงโทษคุณที่เป็นมนุษย์ แค่แตะ 'เพิ่มงาน' เมื่อไหร่ก็ได้และกรอกสิ่งที่คุณจำได้: ลูกค้าคนไหน เริ่มเมื่อไหร่ จบเมื่อไหร่ WorkHourly จะคำนวณชั่วโมง คำนวณค่าล่วงเวลาทั้งหมด และใส่ลงในไทม์ไลน์ของคุณอย่างสมบูรณ์ คุณยังสามารถเพิ่มค่าใช้จ่ายและบันทึกในงานที่คุณทำเมื่อหลายสัปดาห์ก่อน ความทรงจำของคุณอาจเบลอ แต่เงินเดือนของคุณไม่จำเป็นต้องเบลอ
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>วิธีเพิ่มภาพถ่ายเพื่อบันทึกงานของฉัน?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                บางครั้งภาพหนึ่งภาพมีค่าเท่ากับคำพันคำจริงๆ - โดยเฉพาะเมื่อลูกค้าตั้งคำถามกับบิลของคุณภายหลัง ในวันทำงานใดๆ แตะเมนูสามจุดและเลือก 'เพิ่มภาพถ่าย' เพื่อแสดงส่วนภาพถ่าย จากนั้นแตะปุ่มบวกเพื่อเลือกระหว่าง 'ถ่ายภาพ' ด้วยกล้องของคุณหรือ 'เลือกจากไลบรารี' สำหรับภาพที่มีอยู่ ภาพก่อน-หลังพิสูจน์ว่างานเสร็จแล้ว ภาพใบเสร็จทำให้การติดตามค่าใช้จ่ายซื่อสัตย์ และภาพความคืบหน้าช่วยให้ลูกค้าเห็นเงินของพวกเขาในการทำงาน ทุกอย่างเป็นความลับในโทรศัพท์ของคุณ มันเหมือนมีแกลเลอรี่ภาพถ่ายมืออาชีพสำหรับทุกงานที่คุณทำเสร็จ
+                            </div>
+                        </div>
+                    </div>
+                    <!--div class="faq-item">
+                        <button class="faq-question">
+                            <span>Can I export my data or switch to another app?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Your data belongs to you, period. Pro users can generate detailed PDF reports containing everything - every hour worked, every expense logged, every note taken. These aren't just pretty charts; they're comprehensive business records perfect for tax filing, client disputes, or moving to another system if you ever want to. WorkHourly makes it easy to stay, but we'd never make it hard to leave. That's how confident we are that you'll love working with us.
+                            </div>
+                        </div>
+                    </div-->
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>การคำนวณรายได้แม่นยำแค่ไหน?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                WorkHourly ไม่ปัดเศษหรือ 'ประมาณ' - มันคำนวณทุกนาทีที่คุณทำได้ ทำงาน 3 ชั่วโมง 45 นาที? นั่นคือสิ่งที่คำนวณ ไม่ใช่ 'ประมาณ 4 ชั่วโมง' ผสมงานเช้า 2 ชั่วโมงกับลูกค้าบ่าย 8 ชั่วโมงที่รวมค่าล่วงเวลา? WorkHourly จัดการความซับซ้อนโดยไม่ต้องเหงื่อออก การคำนวณทั้งหมดเกิดขึ้นในโทรศัพท์ของคุณโดยตรงด้วยอัลกอริทึมที่เราทดสอบกับสถานการณ์จริงหลายพัน เมื่อถึงเวลาภาษีหรือลูกค้าตั้งคำถามกับบิล คุณสามารถเชื่อใจตัวเลขทุกตัวได้อย่างสมบูรณ์
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="cta-section">
+        <div class="container">
+            <section id="download">
+                <h2>งานของคุณมีความหมาย</h2>
+                <p>ทุกชั่วโมงที่คุณติดตาม ทุกลูกค้าที่คุณจัดการ ทุกใบแจ้งหนี้ที่คุณส่ง - ทุกอย่างมีความหมาย</p>
+                <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
+                    <span>เริ่มติดตามเวลา</span>
+                    <span>→</span>
+                </a>
+            </section>
+            <div class="footer-content">
+                <div class="copyright">© 2025 WorkHourly สงวนลิขสิทธิ์</div>
+                <ul class="footer-links">
+                    <li><a href="/privacy_policy.html"><img src="/icons/lock40.png" class="footer-icon" /> นโยบายความเป็นส่วนตัว</a></li>
+                    <li><a href="/terms_of_service.html"><img src="/icons/doc40.png" class="footer-icon" /> เงื่อนไขการบริการ</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Header shadow on scroll
+        window.addEventListener('scroll', () => {
+            const header = document.querySelector('header');
+            if (window.scrollY > 100) {
+                header.style.borderBottom = '1px solid var(--border)';
+            } else {
+                header.style.borderBottom = '1px solid transparent';
+            }
+        });
+
+        // FAQ toggle
+        document.querySelectorAll('.faq-question').forEach(button => {
+            button.addEventListener('click', () => {
+                const item = button.parentElement;
+                const isActive = item.classList.contains('active');
+                
+                // Close all items
+                document.querySelectorAll('.faq-item').forEach(faqItem => {
+                    faqItem.classList.remove('active');
+                });
+                
+                // Open clicked item if it wasn't active
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Language switcher
+        function toggleLanguageMenu(type = 'desktop') {
+            const menuId = type === 'mobile' ? 'mobileLanguageMenu' : 'desktopLanguageMenu';
+            const switcherClass = type === 'mobile' ? '.mobile-language-switcher' : '.desktop-language-switcher';
+            
+            const menu = document.getElementById(menuId);
+            const switcher = document.querySelector(switcherClass);
+            const button = switcher ? switcher.querySelector('.language-button') : null;
+            
+            if (menu && button) {
+                const isOpen = menu.classList.contains('show');
+                
+                // Close all menus and buttons first
+                document.querySelectorAll('.language-menu').forEach(m => m.classList.remove('show'));
+                document.querySelectorAll('.language-button').forEach(b => b.classList.remove('show'));
+                
+                if (!isOpen) {
+                    menu.classList.add('show');
+                    button.classList.add('show');
+                }
+            }
+        }
+
+        // Close language menu when clicking outside
+        document.addEventListener('click', (e) => {
+            const isClickInsideLanguageSwitcher = e.target.closest('.language-switcher');
+            
+            if (!isClickInsideLanguageSwitcher) {
+                document.querySelectorAll('.language-menu').forEach(menu => {
+                    menu.classList.remove('show');
+                });
+                document.querySelectorAll('.language-button').forEach(button => {
+                    button.classList.remove('show');
+                });
+            }
+        });
+
+        // Highlight current language
+        document.addEventListener('DOMContentLoaded', () => {
+            const currentPath = window.location.pathname;
+            const languageFlags = document.querySelectorAll('.language-flag');
+            
+            languageFlags.forEach(flag => {
+                const href = flag.getAttribute('href');
+                if ((currentPath === '/' && href === '/') ||
+                    (currentPath.startsWith('/es') && href === '/es/') ||
+                    (currentPath.startsWith('/fr') && href === '/fr/') ||
+                    (currentPath.startsWith('/de') && href === '/de/') ||
+                    (currentPath.startsWith('/it') && href === '/it/') ||
+                    (currentPath.startsWith('/nl') && href === '/nl/') ||
+                    (currentPath.startsWith('/pt') && href === '/pt/') ||
+                    (currentPath.startsWith('/ru') && href === '/ru/') ||
+                    (currentPath.startsWith('/pl') && href === '/pl/') ||
+                    (currentPath.startsWith('/sv') && href === '/sv/') ||
+                    (currentPath.startsWith('/uk') && href === '/uk/') ||
+                    (currentPath.startsWith('/cs') && href === '/cs/') ||
+                    (currentPath.startsWith('/hu') && href === '/hu/') ||
+                    (currentPath.startsWith('/bg') && href === '/bg/') ||
+                    (currentPath.startsWith('/ja') && href === '/ja/') ||
+                    (currentPath.startsWith('/ko') && href === '/ko/') ||
+                    (currentPath.startsWith('/zh-cn') && href === '/zh-cn/') ||
+                    (currentPath.startsWith('/zh-tw') && href === '/zh-tw/')) {
+                    flag.classList.add('current');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
