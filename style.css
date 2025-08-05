@@ -952,9 +952,16 @@ a.download-nav:hover {
     }
 
     .pdf-preview {
-        display: none;
+        height: auto;
+        text-align: center;
     }
-
+    
+    .pdf-image {
+        position: static;
+        width: 100%;
+        height: auto;
+    }
+    
     .footer-content {
         flex-direction: column;
         gap: 32px;
