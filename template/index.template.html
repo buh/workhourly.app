@@ -69,31 +69,9 @@
                 <li><a href="#widgets">{{NAV_WIDGETS}}</a></li>
                 <li><a href="#pricing">{{NAV_PRICING}}</a></li>
                 <li><a href="#faq">{{NAV_FAQ}}</a></li>
-                <li class="language-switcher">
-                    <button class="language-button" onclick="toggleLanguageMenu()">
-                        <span class="flag">{{COUNTRY_FLAG}}</span>
-                        <span class="chevron">▼</span>
-                    </button>
-                    <div class="language-menu" id="languageMenu">
-                        <a href="/" class="language-option">
-                            <span class="flag">🇺🇸</span>
-                            <span>English</span>
-                        </a>
-                        <a href="/es/" class="language-option">
-                            <span class="flag">🇪🇸</span>
-                            <span>Español</span>
-                        </a>
-                        <a href="/fr/" class="language-option">
-                            <span class="flag">🇫🇷</span>
-                            <span>Français</span>
-                        </a>
-                    </div>
-                </li>
-                <li><a href="https://apps.apple.com/app/id6749011205" class="download-nav">{{NAV_DOWNLOAD}}</a></li>
+                {{include:nav-actions.template.html}}
             </ul>
-            <div class="mobile-nav">
-                <a href="https://apps.apple.com/app/id6749011205" class="mobile-download">{{NAV_DOWNLOAD}}</a>
-            </div>
+            {{include:mobile-nav.template.html}}
         </nav>
     </header>
 

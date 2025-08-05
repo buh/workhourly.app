@@ -75,6 +75,9 @@ class WorkHourlyBuilder {
   replaceTokens(template, translations) {
     let html = template;
     
+    // First, process template includes
+    html = this.processIncludes(html, translations);
+    
     // Replace all {{TOKEN}} placeholders
     Object.entries(translations).forEach(([key, value]) => {
       const regex = new RegExp(`{{${key}}}`, 'g');
@@ -88,6 +91,45 @@ class WorkHourlyBuilder {
     }
     
     return html;
+  }
+
+  processIncludes(html, translations) {
+    // Process {{include:filename}} directives recursively
+    const includeRegex = /{{include:([^}]+)}}/g;
+    let processedHtml = html;
+    let hasIncludes = true;
+    
+    // Keep processing until no more includes are found (handles nested includes)
+    while (hasIncludes) {
+      hasIncludes = false;
+      
+      processedHtml = processedHtml.replace(includeRegex, (match, filename) => {
+        hasIncludes = true; // Found an include, so we need another pass
+        
+        try {
+          const includePath = path.join(__dirname, filename);
+          if (fs.existsSync(includePath)) {
+            let includeContent = fs.readFileSync(includePath, 'utf8');
+            
+            // Replace tokens in the included content
+            Object.entries(translations).forEach(([key, value]) => {
+              const regex = new RegExp(`{{${key}}}`, 'g');
+              includeContent = includeContent.replace(regex, value);
+            });
+            
+            return includeContent;
+          } else {
+            console.warn(`⚠️  Include file not found: ${includePath}`);
+            return match; // Return original if file not found
+          }
+        } catch (error) {
+          console.warn(`⚠️  Failed to include ${filename}: ${error.message}`);
+          return match; // Return original on error
+        }
+      });
+    }
+    
+    return processedHtml;
   }
 
   writeFile(lang, html) {
