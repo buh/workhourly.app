@@ -13,7 +13,7 @@
   "NAV_FAQ": "FAQ",
   "NAV_DOWNLOAD": "Scarica",
   
-  "HERO_TITLE": "Ricevi pagamenti per <span class=\"gradient\">ogni ora</span><br>che <span class=\"gradient\">lavori</span>",
+  "HERO_TITLE": "Ricevi pagamenti per <span class=\"gradient\">ogni ora</span> che <span class=\"gradient\">lavori</span>",
   "HERO_SUBTITLE": "Traccia il tempo, calcola i guadagni istantaneamente, crea fatture PDF e non perdere mai gli straordinari. Tutto in un'app per professionisti che richiedono precisione.",
   "CTA_PRIMARY": "Inizia",
   "CTA_SECONDARY": "Come funziona",
@@ -28,7 +28,7 @@
   "TRUST_FEATURE_ICLOUD_TITLE": "Backup iCloud <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "I tuoi dati si sincronizzano privatamente attraverso il tuo account iCloud",
   
-  "FEATURES_TITLE": "Tutto quello che ti serve,<br>niente di quello che non ti serve",
+  "FEATURES_TITLE": "Tutto quello che ti serve, niente di quello che non ti serve",
   "FEATURES_SUBTITLE": "Cinque schermate semplici, progettate per il tuo modo reale di lavorare",
   
   "FEATURE_TODAY_TITLE": "Oggi - Traccia ora",
@@ -64,7 +64,7 @@
   "WIDGET_SIZE_MEDIUM": "Medio",
   "WIDGET_SIZE_LOCK": "Schermata di blocco",
   
-  "PRICING_TITLE": "Inizia ora, aggiorna quando<br><span class=\"gradient\">cresci</span>",
+  "PRICING_TITLE": "Inizia ora, aggiorna quando <span class=\"gradient\">cresci</span>",
   "PRICING_SUBTITLE": "Tutto quello che ti serve per tracciare un cliente è gratis. Per sempre.",
   "PRICING_FREE_TITLE": "Gratis",
   "PRICING_FREE_SUBTITLE": "Perfetto per iniziare",
@@ -108,7 +108,7 @@
   "FAQ_Q10": "Come funzionano i widget sulla mia schermata home?",
   "FAQ_A10": "I widget di pianificazione WorkHourly mostrano i tuoi prossimi turni di lavoro direttamente sulla tua schermata home e schermata di blocco. Si aggiornano automaticamente con countdown dal vivo - 'Tra 3 ore' diventa 'Tra 2 ore', senza che tu faccia nulla. Disponibili in dimensioni Piccolo, Medio e Schermata di blocco secondo le tue preferenze.",
   "FAQ_Q11": "Posso impostare tariffe orarie diverse per clienti diversi?",
-  "FAQ_A11": "Qui WorkHourly capisce davvero il tuo business. Ogni cliente è diverso - la famiglia per cui fai babysitting paga €20/ora, il ristorante che pulisci paga €1200/mese, e il tuo cliente operaio del weekend paga €35/ora con tariffa doppia dopo le 18. Imposta il contratto salariale unico di ogni cliente una volta, e WorkHourly fa tutti i calcoli automaticamente. Tariffe diverse, regole diverse per gli straordinari, situazioni fiscali diverse - tutto funziona semplicemente, non importa quanto diventa complesso il tuo mix di clienti.",
+  "FAQ_A11": "Qui WorkHourly capisce davvero il tuo business. Ogni cliente è diverso - la famiglia per cui fai babysitting paga €12/ora, il ristorante che pulisci paga €800/mese, e il tuo cliente operaio del weekend paga €22/ora con tariffa doppia dopo le 18. Imposta il contratto salariale unico di ogni cliente una volta, e WorkHourly fa tutti i calcoli automaticamente. Tariffe diverse, regole diverse per gli straordinari, situazioni fiscali diverse - tutto funziona semplicemente, non importa quanto diventa complesso il tuo mix di clienti.",
   "FAQ_Q12": "Cosa succede se dimentico di tracciare il mio tempo?",
   "FAQ_A12": "La vita succede - i telefoni muoiono, ti distrai, o semplicemente dimentichi di avviare il cronometro. WorkHourly non ti punisce per essere umano. Tocca semplicemente 'Aggiungi lavoro' in qualsiasi momento e compila quello che ricordi: quale cliente, quando hai iniziato, quando hai finito. WorkHourly calcolerà le ore, calcolerà tutti gli straordinari, e lo inserirà perfettamente nella tua timeline. Puoi anche aggiungere spese e note al lavoro che hai fatto settimane fa. La tua memoria potrebbe essere sfocata, ma il tuo stipendio non deve esserlo.",
   "FAQ_Q13": "Come aggiungo foto per documentare il mio lavoro?",

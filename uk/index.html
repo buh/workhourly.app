@@ -57,7 +57,7 @@
     </script>
     
     <!-- CSS -->
-    <link rel="stylesheet" href="/style.css?v=1.4">
+    <link rel="stylesheet" href="/style.css?v=1.5">
 </head>
 <body>
     <header>
@@ -120,8 +120,11 @@
     <a href="/bg/" class="language-flag" title="Български">
         <span class="flag">🇧🇬</span>
     </a>
-    <a href="/th/" class="language-flag" title="แบบไทย">
+    <a href="/th/" class="language-flag" title="ไทย">
         <span class="flag">🇹🇭</span>
+    </a>
+    <a href="/vi/" class="language-flag" title="Tiếng Việt">
+        <span class="flag">🇻🇳</span>
     </a>
     <a href="/ja/" class="language-flag" title="日本語">
         <span class="flag">🇯🇵</span>
@@ -134,6 +137,18 @@
     </a>
     <a href="/zh-tw/" class="language-flag" title="繁體中文">
         <span class="flag">🇹🇼</span>
+    </a>
+    <a href="/id/" class="language-flag" title="Bahasa Indonesia">
+        <span class="flag">🇮🇩</span>
+    </a>
+    <a href="/tr/" class="language-flag" title="Türkçe">
+        <span class="flag">🇹🇷</span>
+    </a>
+    <a href="/nb/" class="language-flag" title="Norsk">
+        <span class="flag">🇳🇴</span>
+    </a>
+    <a href="/da/" class="language-flag" title="Dansk">
+        <span class="flag">🇩🇰</span>
     </a>
 </div>
 
@@ -192,8 +207,11 @@
     <a href="/bg/" class="language-flag" title="Български">
         <span class="flag">🇧🇬</span>
     </a>
-    <a href="/th/" class="language-flag" title="แบบไทย">
+    <a href="/th/" class="language-flag" title="ไทย">
         <span class="flag">🇹🇭</span>
+    </a>
+    <a href="/vi/" class="language-flag" title="Tiếng Việt">
+        <span class="flag">🇻🇳</span>
     </a>
     <a href="/ja/" class="language-flag" title="日本語">
         <span class="flag">🇯🇵</span>
@@ -206,6 +224,18 @@
     </a>
     <a href="/zh-tw/" class="language-flag" title="繁體中文">
         <span class="flag">🇹🇼</span>
+    </a>
+    <a href="/id/" class="language-flag" title="Bahasa Indonesia">
+        <span class="flag">🇮🇩</span>
+    </a>
+    <a href="/tr/" class="language-flag" title="Türkçe">
+        <span class="flag">🇹🇷</span>
+    </a>
+    <a href="/nb/" class="language-flag" title="Norsk">
+        <span class="flag">🇳🇴</span>
+    </a>
+    <a href="/da/" class="language-flag" title="Dansk">
+        <span class="flag">🇩🇰</span>
     </a>
 </div>
 
@@ -291,7 +321,7 @@
         <section class="features" id="features">
             <div class="container">
                 <div class="features-header">
-                    <h2>Усе що потрібно,<br>нічого зайвого</h2>
+                    <h2>Усе що потрібно, нічого зайвого</h2>
                     <p>П'ять простих екранів, створених для того, як ви справді працюєте</p>
                 </div>
                 <div class="features-grid">
@@ -756,10 +786,15 @@
                     (currentPath.startsWith('/hu') && href === '/hu/') ||
                     (currentPath.startsWith('/bg') && href === '/bg/') ||
                     (currentPath.startsWith('/th') && href === '/th/') ||
+                    (currentPath.startsWith('/vi') && href === '/vi/') ||
                     (currentPath.startsWith('/ja') && href === '/ja/') ||
                     (currentPath.startsWith('/ko') && href === '/ko/') ||
                     (currentPath.startsWith('/zh-cn') && href === '/zh-cn/') ||
-                    (currentPath.startsWith('/zh-tw') && href === '/zh-tw/')) {
+                    (currentPath.startsWith('/zh-tw') && href === '/zh-tw/') ||
+                    (currentPath.startsWith('/id') && href === '/id/') ||
+                    (currentPath.startsWith('/tr') && href === '/tr/') ||
+                    (currentPath.startsWith('/nb') && href === '/nb/') ||
+                    (currentPath.startsWith('/da') && href === '/da/')) {
                     flag.classList.add('current');
                 }
             });

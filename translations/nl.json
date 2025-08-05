@@ -13,7 +13,7 @@
   "NAV_FAQ": "Veelgestelde vragen",
   "NAV_DOWNLOAD": "Downloaden",
   
-  "HERO_TITLE": "Krijg betaald voor <span class=\"gradient\">elk uur</span><br>dat je <span class=\"gradient\">werkt</span>",
+  "HERO_TITLE": "Krijg betaald voor <span class=\"gradient\">elk uur</span> dat je <span class=\"gradient\">werkt</span>",
   "HERO_SUBTITLE": "Houd tijd bij, bereken inkomsten direct, maak PDF-facturen en mis nooit overuren. Alles in één app voor professionals die precisie eisen.",
   "CTA_PRIMARY": "Aan de slag",
   "CTA_SECONDARY": "Hoe het werkt",
@@ -28,7 +28,7 @@
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud backup <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Je gegevens synchroniseren privé via je iCloud-account",
   
-  "FEATURES_TITLE": "Alles wat je nodig hebt,<br>niets wat je niet nodig hebt",
+  "FEATURES_TITLE": "Alles wat je nodig hebt, niets wat je niet nodig hebt",
   "FEATURES_SUBTITLE": "Vijf eenvoudige schermen, ontworpen voor hoe je echt werkt",
   
   "FEATURE_TODAY_TITLE": "Vandaag - Nu bijhouden",
@@ -64,7 +64,7 @@
   "WIDGET_SIZE_MEDIUM": "Gemiddeld",
   "WIDGET_SIZE_LOCK": "Vergrendelingsscherm",
   
-  "PRICING_TITLE": "Start nu, upgrade wanneer je <br><span class=\"gradient\">groeit</span>",
+  "PRICING_TITLE": "Start nu, upgrade wanneer je <span class=\"gradient\">groeit</span>",
   "PRICING_SUBTITLE": "Alles wat je nodig hebt om één klant bij te houden is gratis. Voor altijd.",
   "PRICING_FREE_TITLE": "Gratis",
   "PRICING_FREE_SUBTITLE": "Perfect om te beginnen",
@@ -92,7 +92,7 @@
   "FAQ_Q2": "Is WorkHourly geschikt voor mijn type werk?",
   "FAQ_A2": "Als je je afvraagt 'Is dit voor iemand zoals ik?' dan is het antwoord waarschijnlijk ja. Oppassen die drie gezinnen beheren, klusjesmensen met een mix van uurwerk en projectwerk, bijlesleraren die verschillende vakken tegen verschillende tarieven onderwijzen, schoonmakers die wekelijkse en maandelijkse klanten beheren - WorkHourly begrijpt het. De gemene deler is niet wat je doet, maar hoe je werkt: meerdere klanten, verschillende tarieven, wisselende schema's, en de noodzaak om nauwkeurig betaald te worden voor elke minuut. Precies daarvoor hebben we het gebouwd.",
   "FAQ_Q3": "Kan ik uitgaven apart bijhouden voor elke klus?",
-  "FAQ_A3": "Absoluut, en dit is waar WorkHourly echt uitblinkt. De meeste apps groeperen uitgaven per dag, maar zo werkt echt werk niet. Als je 's ochtends mevrouw Jansen's gootsteen repareert en 's middags het terras van de familie Smit doet, moeten die uitgaven gescheiden blijven. WorkHourly houdt uitgaven bij per werkdienst, zodat materialen, reizen en kosten kristalhelder staan op elke klant's rekening. Fotografeer bonnetjes, voeg beschrijvingen toe - alles blijft georganiseerd precies zoals je bedrijf echt werkt.",
+  "FAQ_A3": "Absoluut, en dit is waar WorkHourly echt uitblinkt. De meeste apps groeperen uitgaven per dag, maar zo werkt echt werk niet. Als je 's ochtends mevrouw Jansen's gootsteen repareert en 's middags het terras van de familie Smit doet, moeten die uitgaven gescheiden blijven. WorkHourly houdt uitgaven bij per werkshift, zodat materialen, reiskosten en andere kosten kristalhelder staan op elke klant's factuur. Fotografeer bonnetjes, voeg beschrijvingen toe - alles blijft georganiseerd precies zoals je bedrijf echt werkt.",
   "FAQ_Q4": "Hoe werken de slimme herinneringen?",
   "FAQ_A4": "Slimme herinneringen werken als een persoonlijke assistent die je schema echt begrijpt. Je krijgt een zachte ochtendmelding over het werk van vandaag, daarna houdt WorkHourly de klok voor je in de gaten. Geen internet nodig - deze herinneringen zijn direct op je telefoon gepland, dus ze werken zelfs midden in de rimboe.",
   "FAQ_Q5": "Hoe werkt het zonder internet?",
@@ -100,7 +100,7 @@
   "FAQ_Q6": "Wat zit er in de analytics?",
   "FAQ_A6": "Denk aan analytics als je bedrijfscoach die nooit slaapt. Zie welke klanten je echt geld opleveren (niet alleen degenen die het meeste per uur betalen), ontdek je meest productieve dagen, en volg hoe consistent je werkt. De grafieken tonen patronen die je dag tot dag misschien mist: 'Ik werk altijd langer op woensdag' of 'Mijn dinsdagklanten zijn het meest winstgevend.' Het is als een vogelvluchtperspectief op je hele bedrijf, dat je helpt slimmere beslissingen te nemen over waar je je tijd besteedt.",
   "FAQ_Q7": "Hoe werkt de overurenberekening?",
-  "FAQ_A7": "Overurenberekening is het punt waar WorkHourly echt uitbetaalt. Stel je reguliere tarief en overurentarief in voor elke klant - misschien betalen de Jansens 1,5x na 8 uur, maar je zakelijke klant betaalt dubbel tarief voor weekendwerk. De app vraagt je om je werkelijke eindtijd in te stellen wanneer je geplande werk eindigt, dus als je langer hebt gewerkt, vangt WorkHourly elke extra minuut en berekent het automatisch tegen het juiste tarief. Geen verloren geld meer omdat je vergat dat extra uur bij te houden, of omdat je niet kon herinneren welke klant wat betaalt voor overuren.",
+  "FAQ_A7": "Overurenberekening is het punt waar WorkHourly echt zijn waarde bewijst. Stel je reguliere tarief en overurentarief in voor elke klant - misschien betaalt familie Jansen 1,5x na 8 uur, maar je zakelijke klant betaalt dubbel tarief voor weekendwerk. De app vraagt je om je werkelijke eindtijd in te stellen wanneer je geplande werk eindigt, dus als je langer hebt gewerkt, registreert WorkHourly elke extra minuut en berekent het automatisch tegen het juiste tarief. Geen verloren inkomsten meer omdat je vergat die extra tijd bij te houden, of omdat je niet meer wist welke klant wat betaalt voor overuren.",
   "FAQ_Q8": "Zijn mijn gegevens veilig met iCloud-backup?",
   "FAQ_A8": "Je gegevens gaan direct van je telefoon naar je persoonlijke iCloud-account - wij zien ze nooit, raken ze nooit aan of hebben er toegang toe. Beschouw het als een persoonlijke kluis waar alleen jij de sleutel van hebt. Apple handelt alle versleuteling en beveiliging af, dus je klantinformatie, inkomsten en werkdetails blijven volledig privé. Zelfs als je je telefoon verliest of een nieuwe krijgt, synchroniseert alles precies zoals je het hebt achtergelaten. En onthoud, alles werkt offline-first, dus je gegevens zijn altijd veilig op je apparaat, ongeacht internet.",
   "FAQ_Q9": "Kan ik Pro-functies uitproberen voordat ik koop?",
@@ -108,7 +108,7 @@
   "FAQ_Q10": "Hoe werken widgets op mijn beginscherm?",
   "FAQ_A10": "WorkHourly planningswidgets tonen je komende werkdiensten direct op je beginscherm en vergrendelingsscherm. Ze werken automatisch bij met live aftellingen - '3 uur' wordt '2 uur', zonder dat je iets hoeft te doen. Beschikbaar in Klein, Gemiddeld en Vergrendelingsscherm formaten volgens je voorkeur.",
   "FAQ_Q11": "Kan ik verschillende uurtarieven instellen voor verschillende klanten?",
-  "FAQ_A11": "Hier begrijpt WorkHourly je bedrijf echt. Elke klant is anders - het gezin waar je op past betaalt €20/uur, het restaurant dat je schoonmaakt betaalt €1200/maand, en je weekend klusklant betaalt €35/uur met dubbel tarief na 18:00. Stel elke klant's unieke looncontract eenmalig in, en WorkHourly doet alle berekeningen automatisch. Verschillende tarieven, verschillende overurenregels, verschillende belastingsituaties - alles werkt gewoon, ongeacht hoe complex je klantenmix wordt.",
+  "FAQ_A11": "Hier begrijpt WorkHourly je bedrijf echt. Elke klant is anders - het gezin waar je oppast betaalt €15/uur, het restaurant dat je schoonmaakt betaalt €800/maand, en je weekend klusklant betaalt €25/uur met dubbel tarief na 18:00. Stel elke klant's unieke arbeidscontract eenmalig in, en WorkHourly doet alle berekeningen automatisch. Verschillende tarieven, verschillende overurenregels, verschillende belastingsituaties - alles werkt eenvoudig, ongeacht hoe complex je klantenmix wordt.",
   "FAQ_Q12": "Wat gebeurt er als ik vergeet mijn tijd bij te houden?",
   "FAQ_A12": "Het leven gebeurt - telefoons gaan dood, je raakt afgeleid, of vergeet gewoon de stopwatch te starten. WorkHourly straft je niet voor het zijn van een mens. Tik gewoon op 'Werk toevoegen' wanneer dan ook en vul in wat je herinnert: welke klant, wanneer je begon, wanneer je stopte. WorkHourly berekent de uren, berekent alle overuren, en past het perfect in je tijdlijn. Je kunt zelfs uitgaven en notities toevoegen aan werk dat je weken geleden deed. Je geheugen kan wazig zijn, maar je loonstrook hoeft dat niet te zijn.",
   "FAQ_Q13": "Hoe voeg ik foto's toe om mijn werk te documenteren?",

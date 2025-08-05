@@ -13,7 +13,7 @@
   "NAV_FAQ": "FAQ",
   "NAV_DOWNLOAD": "Herunterladen",
   
-  "HERO_TITLE": "Bezahlt werden für <span class=\"gradient\">jede Stunde</span><br>die Sie <span class=\"gradient\">arbeiten</span>",
+  "HERO_TITLE": "Bezahlt werden für <span class=\"gradient\">jede Stunde</span> die Sie <span class=\"gradient\">arbeiten</span>",
   "HERO_SUBTITLE": "Zeit erfassen, Einnahmen sofort berechnen, PDF-Rechnungen erstellen und nie wieder Überstunden verpassen. Alles in einer App für Profis, die Präzision fordern.",
   "CTA_PRIMARY": "Loslegen",
   "CTA_SECONDARY": "So funktioniert's",
@@ -28,7 +28,7 @@
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud-Backup <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Ihre Daten synchronisieren sich privat über Ihr iCloud-Konto",
   
-  "FEATURES_TITLE": "Alles was Sie brauchen,<br>nichts was Sie nicht brauchen",
+  "FEATURES_TITLE": "Alles was Sie brauchen, nichts was Sie nicht brauchen",
   "FEATURES_SUBTITLE": "Fünf einfache Bildschirme, designed für Ihre tatsächliche Arbeitsweise",
   
   "FEATURE_TODAY_TITLE": "Heute - Jetzt erfassen",
@@ -64,7 +64,7 @@
   "WIDGET_SIZE_MEDIUM": "Mittel",
   "WIDGET_SIZE_LOCK": "Sperrbildschirm",
   
-  "PRICING_TITLE": "Jetzt starten, upgraden wenn<br>Sie <span class=\"gradient\">wachsen</span>",
+  "PRICING_TITLE": "Jetzt starten, upgraden wenn Sie <span class=\"gradient\">wachsen</span>",
   "PRICING_SUBTITLE": "Alles was Sie brauchen, um einen Kunden zu verfolgen ist kostenlos. Für immer.",
   "PRICING_FREE_TITLE": "Kostenlos",
   "PRICING_FREE_SUBTITLE": "Perfekt zum Starten",
@@ -92,7 +92,7 @@
   "FAQ_Q2": "Ist WorkHourly für meinen Arbeitstyp geeignet?",
   "FAQ_A2": "Wenn Sie sich fragen 'Ist das für jemanden wie mich?' ist die Antwort wahrscheinlich ja. Babysitter, die drei Familien jonglieren, Handwerker mit einer Mischung aus Stunden- und Projektarbeit, Nachhilfelehrer, die verschiedene Fächer zu verschiedenen Tarifen unterrichten, Reinigungskräfte, die wöchentliche und monatliche Kunden verwalten - WorkHourly versteht das. Der gemeinsame Nenner ist nicht was Sie tun, sondern wie Sie arbeiten: mehrere Kunden, verschiedene Tarife, variable Zeitpläne und die Notwendigkeit, für jede Minute genau bezahlt zu werden. Genau dafür haben wir das gebaut.",
   "FAQ_Q3": "Kann ich Ausgaben für jeden Job getrennt verfolgen?",
-  "FAQ_A3": "Absolut, und hier glänzt WorkHourly wirklich. Die meisten Apps fassen Ausgaben nach Tag zusammen, aber so funktioniert echte Arbeit nicht. Wenn Sie morgens Frau Johnsons Waschbecken reparieren und nachmittags die Terrasse der Smiths, müssen diese Ausgaben getrennt bleiben. WorkHourly verfolgt Ausgaben pro Arbeitsschicht, so dass Materialien, Reisen und Kosten jedes Kunden kristallklar auf deren Rechnung stehen. Fotografieren Sie Belege, fügen Sie Beschreibungen hinzu - alles bleibt genau so organisiert, wie Ihr Geschäft tatsächlich funktioniert.",
+  "FAQ_A3": "Absolut, und hier zeigt WorkHourly seine wahren Stärken. Die meisten Apps fassen Ausgaben nach Tag zusammen, aber so funktioniert echte Arbeit nicht. Wenn Sie morgens Frau Müllers Waschbecken reparieren und nachmittags die Terrasse der Familie Schmidt machen, müssen diese Ausgaben getrennt bleiben. WorkHourly erfasst Ausgaben pro Arbeitsschicht, sodass Materialien, Fahrtkosten und andere Ausgaben kristallklar auf der jeweiligen Kundenrechnung stehen. Fotografieren Sie Belege, fügen Sie Beschreibungen hinzu - alles bleibt genau so organisiert, wie Ihr Geschäft tatsächlich funktioniert.",
   "FAQ_Q4": "Wie funktionieren die intelligenten Erinnerungen?",
   "FAQ_A4": "Intelligente Erinnerungen funktionieren wie ein persönlicher Assistent, der Ihren Zeitplan wirklich versteht. Erhalten Sie eine sanfte Morgenbenachrichtigung über die heutige Arbeit, dann überwacht WorkHourly die Uhr für Sie. Kein Internet erforderlich - diese Erinnerungen sind direkt auf Ihrem Telefon geplant, also funktionieren sie auch mitten im Nirgendwo.",
   "FAQ_Q5": "Wie funktioniert es ohne Internet?",
@@ -108,7 +108,7 @@
   "FAQ_Q10": "Wie funktionieren Widgets auf meinem Startbildschirm?",
   "FAQ_A10": "WorkHourly Zeitplan-Widgets zeigen Ihre bevorstehenden Arbeitsschichten direkt auf Ihrem Startbildschirm und Sperrbildschirm. Sie aktualisieren sich automatisch mit Live-Countdowns - 'In 3 Stunden' wird zu 'In 2 Stunden', ohne dass Sie etwas tun. Verfügbar in Klein-, Mittel- und Sperrbildschirm-Größen nach Ihrer Präferenz.",
   "FAQ_Q11": "Kann ich verschiedene Stundensätze für verschiedene Kunden festlegen?",
-  "FAQ_A11": "Hier versteht WorkHourly wirklich Ihr Geschäft. Jeder Kunde ist anders - die Familie, für die Sie babysitten, zahlt 20€/Stunde, das Restaurant, das Sie putzen, zahlt 1200€/Monat, und Ihr Wochenend-Handwerkerkunde zahlt 35€/Stunde mit doppeltem Tarif nach 18 Uhr. Richten Sie jeden Kunden's einzigartigen Lohnvertrag einmal ein, und WorkHourly erledigt alle Berechnungen automatisch. Verschiedene Tarife, verschiedene Überstundenregeln, verschiedene Steuersituationen - alles funktioniert einfach, egal wie komplex Ihre Kundenmischung wird.",
+  "FAQ_A11": "Hier versteht WorkHourly wirklich Ihr Geschäft. Jeder Kunde ist anders - die Familie, für die Sie als Babysitter arbeiten, zahlt 15€/Stunde, das Restaurant, das Sie reinigen, zahlt 800€/Monat, und Ihr Wochenend-Handwerkskunde zahlt 25€/Stunde mit doppeltem Tarif nach 18 Uhr. Richten Sie für jeden Kunden einmal den individuellen Arbeitsvertrag ein, und WorkHourly erledigt alle Berechnungen automatisch. Verschiedene Tarife, verschiedene Überstundenregeln, verschiedene Steuersituationen - alles funktioniert reibungslos, egal wie komplex Ihre Kundenmischung wird.",
   "FAQ_Q12": "Was passiert, wenn ich vergesse, meine Zeit zu erfassen?",
   "FAQ_A12": "Das Leben passiert - Telefone sterben, Sie werden abgelenkt oder vergessen einfach, die Stoppuhr zu starten. WorkHourly bestraft Sie nicht dafür, menschlich zu sein. Tippen Sie einfach jederzeit auf 'Arbeit hinzufügen' und füllen Sie aus, woran Sie sich erinnern: welcher Kunde, wann Sie angefangen haben, wann Sie aufgehört haben. WorkHourly berechnet die Stunden, berechnet alle Überstunden und fügt es perfekt in Ihre Zeitleiste ein. Sie können sogar Ausgaben und Notizen zu Arbeit hinzufügen, die Sie vor Wochen gemacht haben. Ihr Gedächtnis mag unscharf sein, aber Ihr Gehaltsscheck muss es nicht sein.",
   "FAQ_Q13": "Wie füge ich Fotos hinzu, um meine Arbeit zu dokumentieren?",

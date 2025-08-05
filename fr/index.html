@@ -57,7 +57,7 @@
     </script>
     
     <!-- CSS -->
-    <link rel="stylesheet" href="/style.css?v=1.4">
+    <link rel="stylesheet" href="/style.css?v=1.5">
 </head>
 <body>
     <header>
@@ -120,8 +120,11 @@
     <a href="/bg/" class="language-flag" title="Български">
         <span class="flag">🇧🇬</span>
     </a>
-    <a href="/th/" class="language-flag" title="แบบไทย">
+    <a href="/th/" class="language-flag" title="ไทย">
         <span class="flag">🇹🇭</span>
+    </a>
+    <a href="/vi/" class="language-flag" title="Tiếng Việt">
+        <span class="flag">🇻🇳</span>
     </a>
     <a href="/ja/" class="language-flag" title="日本語">
         <span class="flag">🇯🇵</span>
@@ -134,6 +137,18 @@
     </a>
     <a href="/zh-tw/" class="language-flag" title="繁體中文">
         <span class="flag">🇹🇼</span>
+    </a>
+    <a href="/id/" class="language-flag" title="Bahasa Indonesia">
+        <span class="flag">🇮🇩</span>
+    </a>
+    <a href="/tr/" class="language-flag" title="Türkçe">
+        <span class="flag">🇹🇷</span>
+    </a>
+    <a href="/nb/" class="language-flag" title="Norsk">
+        <span class="flag">🇳🇴</span>
+    </a>
+    <a href="/da/" class="language-flag" title="Dansk">
+        <span class="flag">🇩🇰</span>
     </a>
 </div>
 
@@ -192,8 +207,11 @@
     <a href="/bg/" class="language-flag" title="Български">
         <span class="flag">🇧🇬</span>
     </a>
-    <a href="/th/" class="language-flag" title="แบบไทย">
+    <a href="/th/" class="language-flag" title="ไทย">
         <span class="flag">🇹🇭</span>
+    </a>
+    <a href="/vi/" class="language-flag" title="Tiếng Việt">
+        <span class="flag">🇻🇳</span>
     </a>
     <a href="/ja/" class="language-flag" title="日本語">
         <span class="flag">🇯🇵</span>
@@ -207,6 +225,18 @@
     <a href="/zh-tw/" class="language-flag" title="繁體中文">
         <span class="flag">🇹🇼</span>
     </a>
+    <a href="/id/" class="language-flag" title="Bahasa Indonesia">
+        <span class="flag">🇮🇩</span>
+    </a>
+    <a href="/tr/" class="language-flag" title="Türkçe">
+        <span class="flag">🇹🇷</span>
+    </a>
+    <a href="/nb/" class="language-flag" title="Norsk">
+        <span class="flag">🇳🇴</span>
+    </a>
+    <a href="/da/" class="language-flag" title="Dansk">
+        <span class="flag">🇩🇰</span>
+    </a>
 </div>
 
         </div>
@@ -218,7 +248,7 @@
     <main>
         <section class="hero">
             <div class="container">
-                <h1>Soyez Payé pour <span class="gradient">Chaque Heure</span><br>que Vous <span class="gradient">Travaillez</span></h1>
+                <h1>Soyez payé pour <span class="gradient">chaque heure</span> que vous <span class="gradient">travaillez</span></h1>
                 <p class="hero-subtitle">Suivez le temps, calculez les gains instantanément, générez des factures PDF et ne manquez jamais de facturer les heures supplémentaires. Tout dans une app pour les professionnels qui exigent la précision.</p>
                 <div class="cta-group">
                     <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
@@ -291,7 +321,7 @@
         <section class="features" id="features">
             <div class="container">
                 <div class="features-header">
-                    <h2>Tout Ce Dont Vous Avez Besoin,<br>Rien Que Vous N'Avez Pas</h2>
+                    <h2>Tout ce dont vous avez besoin, rien que vous n'avez pas</h2>
                     <p>Cinq écrans simples conçus pour la façon dont vous travaillez réellement</p>
                 </div>
                 <div class="features-grid">
@@ -420,7 +450,7 @@
         <section class="pricing-section" id="pricing">
             <div class="container">
                 <div class="pricing-header">
-                    <h2>Commencez Maintenant, Mettez à Niveau Quand<br>Vous <span class="gradient">Grandissez</span></h2>
+                    <h2>Commencez maintenant, mettez à niveau quand vous <span class="gradient">grandissez</span></h2>
                     <p>Tout ce dont vous avez besoin pour suivre un client est gratuit. Pour toujours.</p>
                 </div>
                 <div class="pricing-comparison">
@@ -756,10 +786,15 @@
                     (currentPath.startsWith('/hu') && href === '/hu/') ||
                     (currentPath.startsWith('/bg') && href === '/bg/') ||
                     (currentPath.startsWith('/th') && href === '/th/') ||
+                    (currentPath.startsWith('/vi') && href === '/vi/') ||
                     (currentPath.startsWith('/ja') && href === '/ja/') ||
                     (currentPath.startsWith('/ko') && href === '/ko/') ||
                     (currentPath.startsWith('/zh-cn') && href === '/zh-cn/') ||
-                    (currentPath.startsWith('/zh-tw') && href === '/zh-tw/')) {
+                    (currentPath.startsWith('/zh-tw') && href === '/zh-tw/') ||
+                    (currentPath.startsWith('/id') && href === '/id/') ||
+                    (currentPath.startsWith('/tr') && href === '/tr/') ||
+                    (currentPath.startsWith('/nb') && href === '/nb/') ||
+                    (currentPath.startsWith('/da') && href === '/da/')) {
                     flag.classList.add('current');
                 }
             });

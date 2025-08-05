@@ -105,6 +105,10 @@ html[lang="zh-tw"] body {
     font-family: 'Noto Sans TC', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'PingFang TC', 'Hiragino Sans CNS', 'Microsoft JhengHei', sans-serif;
 }
 
+html[lang="th"] body {
+    font-family: 'Noto Sans Thai', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Thonburi', 'Ayuthaya', sans-serif;
+}
+
 /* Subtle gradient background */
 body::before {
     content: '';
