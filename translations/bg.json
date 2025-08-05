@@ -13,7 +13,7 @@
   "NAV_FAQ": "Често задавани въпроси",
   "NAV_DOWNLOAD": "Изтегляне",
   
-  "HERO_TITLE": "Получавайте заплащане за <span class=\"gradient\">всеки час</span><br>който <span class=\"gradient\">работите</span>",
+  "HERO_TITLE": "Получавайте заплащане за <span class=\"gradient\">всеки час</span> който <span class=\"gradient\">работите</span>",
   "HERO_SUBTITLE": "Следете времето, изчислявайте приходи незабавно, създавайте PDF фактури и никога не губете извънредни часове. Всичко в едно приложение за професионалисти, изискващи точност.",
   "CTA_PRIMARY": "Започнете",
   "CTA_SECONDARY": "Как работи",
@@ -28,7 +28,7 @@
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud резервно копие <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Вашите данни се синхронизират поверително чрез вашия iCloud акаунт",
   
-  "FEATURES_TITLE": "Всичко от което се нуждаете,<br>нищо от което не се нуждаете",
+  "FEATURES_TITLE": "Всичко от което се нуждаете, нищо от което не се нуждаете",
   "FEATURES_SUBTITLE": "Пет прости екрана, проектирани за това как наистина работите",
   
   "FEATURE_TODAY_TITLE": "Днес - Следете сега",
@@ -64,7 +64,7 @@
   "WIDGET_SIZE_MEDIUM": "Среден",
   "WIDGET_SIZE_LOCK": "Екран за заключване",
   
-  "PRICING_TITLE": "Започнете сега, надстройте когато <br><span class=\"gradient\">растете</span>",
+  "PRICING_TITLE": "Започнете сега, надстройте когато <span class=\"gradient\">растете</span>",
   "PRICING_SUBTITLE": "Всичко от което се нуждаете за проследяване на един клиент е безплатно. Завинаги.",
   "PRICING_FREE_TITLE": "Безплатно",
   "PRICING_FREE_SUBTITLE": "Перфектно за започване",
