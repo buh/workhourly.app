@@ -1,5 +1,41 @@
 /* WorkHourly Landing Page Styles */
 
+/* Font Faces for Asian Languages */
+@font-face {
+    font-family: 'Noto Sans JP';
+    src: url('/fonts/NotoSansJP-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    src: url('/fonts/NotoSansKR-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans SC';
+    src: url('/fonts/NotoSansSC-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans TC';
+    src: url('/fonts/NotoSansTC-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Thai';
+    src: url('/fonts/NotoSansThai-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-display: swap;
+}
+
 :root {
     --primary: #0066FF;
     --primary-dark: #0052CC;
@@ -50,6 +86,23 @@ body {
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+/* Language-specific font stacks */
+html[lang="ja"] body {
+    font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+}
+
+html[lang="ko"] body {
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+}
+
+html[lang="zh-cn"] body {
+    font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+}
+
+html[lang="zh-tw"] body {
+    font-family: 'Noto Sans TC', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'PingFang TC', 'Hiragino Sans CNS', 'Microsoft JhengHei', sans-serif;
 }
 
 /* Subtle gradient background */
@@ -239,9 +292,9 @@ a.download-nav:hover {
 
 .language-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 8px;
-    min-width: 160px;
+    min-width: 180px;
 }
 
 .language-flag {

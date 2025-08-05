@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>WorkHourly - 专业人士时间跟踪 | 记录时间，获得报酬</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    
+    <meta name="description" content="专业时间跟踪，包含PDF发票、费用管理和照片记录。永不错过加班费。离线工作。支持33种语言。">
+    <meta name="keywords" content="time tracking, invoice generator, freelancer app, contractor tools, PDF invoices, expense tracker, work hours, overtime calculator, professional time tracker, iOS app">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="WorkHourly">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://workhourly.app/">
+    <meta property="og:title" content="WorkHourly - 专业人士时间跟踪">
+    <meta property="og:description" content="跟踪所有客户的时间，即时计算收入，永不忘记开具加班费账单。支持iCloud备份的离线工作。">
+    <meta property="og:image" content="https://workhourly.app/images/og-image.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://workhourly.app/">
+    <meta property="twitter:title" content="WorkHourly - Time Tracking for Professionals">
+    <meta property="twitter:description" content="Track time for all your clients, calculate earnings instantly, and never forget to bill for overtime.">
+    <meta property="twitter:image" content="https://workhourly.app/images/twitter-image.png">
+    
+    <!-- Apple App Store -->
+    <meta name="apple-itunes-app" content="app-id=6749011205">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://workhourly.app/">
+    <!-- Update the URL above with your actual domain -->
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "WorkHourly",
+        "operatingSystem": "iOS",
+        "applicationCategory": "BusinessApplication",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "description": "Professional time tracking with PDF invoicing, expense management, and photo documentation.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "ratingCount": "1024"
+        }
+    }
+    </script>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/style.css?v=1.4">
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo">WorkHourly</div>
+            <ul class="nav-links">
+                <li><a href="#features">功能</a></li>
+                <li><a href="#invoices">发票</a></li>
+                <li><a href="#widgets">小组件</a></li>
+                <li><a href="#pricing">免费 vs Pro</a></li>
+                <li><a href="#faq">常见问题</a></li>
+                <!-- Desktop Navigation Actions -->
+<li><a href="https://apps.apple.com/app/id6749011205" class="download-nav">下载</a></li>
+<li class="language-switcher desktop-language-switcher">
+    <button class="language-button" onclick="toggleLanguageMenu('desktop')">
+        <span class="flag">🇨🇳</span>
+        <span class="chevron">▼</span>
+    </button>
+    <div class="language-menu" id="desktopLanguageMenu">
+        <div class="language-grid">
+    <a href="/" class="language-flag" title="English">
+        <span class="flag">🇺🇸</span>
+    </a>
+    <a href="/es/" class="language-flag" title="Español">
+        <span class="flag">🇪🇸</span>
+    </a>
+    <a href="/fr/" class="language-flag" title="Français">
+        <span class="flag">🇫🇷</span>
+    </a>
+    <a href="/de/" class="language-flag" title="Deutsch">
+        <span class="flag">🇩🇪</span>
+    </a>
+    <a href="/it/" class="language-flag" title="Italiano">
+        <span class="flag">🇮🇹</span>
+    </a>
+    <a href="/ja/" class="language-flag" title="日本語">
+        <span class="flag">🇯🇵</span>
+    </a>
+    <a href="/ko/" class="language-flag" title="한국어">
+        <span class="flag">🇰🇷</span>
+    </a>
+    <a href="/zh-cn/" class="language-flag" title="简体中文">
+        <span class="flag">🇨🇳</span>
+    </a>
+    <a href="/zh-tw/" class="language-flag" title="繁體中文">
+        <span class="flag">🇹🇼</span>
+    </a>
+</div>
+    </div>
+</li>
+            </ul>
+            <!-- Mobile Navigation -->
+<div class="mobile-nav">
+    <a href="https://apps.apple.com/app/id6749011205" class="mobile-download">下载</a>
+    <div class="language-switcher mobile-language-switcher">
+        <button class="language-button" onclick="toggleLanguageMenu('mobile')">
+            <span class="flag">🇨🇳</span>
+            <span class="chevron">▼</span>
+        </button>
+        <div class="language-menu" id="mobileLanguageMenu">
+            <div class="language-grid">
+    <a href="/" class="language-flag" title="English">
+        <span class="flag">🇺🇸</span>
+    </a>
+    <a href="/es/" class="language-flag" title="Español">
+        <span class="flag">🇪🇸</span>
+    </a>
+    <a href="/fr/" class="language-flag" title="Français">
+        <span class="flag">🇫🇷</span>
+    </a>
+    <a href="/de/" class="language-flag" title="Deutsch">
+        <span class="flag">🇩🇪</span>
+    </a>
+    <a href="/it/" class="language-flag" title="Italiano">
+        <span class="flag">🇮🇹</span>
+    </a>
+    <a href="/ja/" class="language-flag" title="日本語">
+        <span class="flag">🇯🇵</span>
+    </a>
+    <a href="/ko/" class="language-flag" title="한국어">
+        <span class="flag">🇰🇷</span>
+    </a>
+    <a href="/zh-cn/" class="language-flag" title="简体中文">
+        <span class="flag">🇨🇳</span>
+    </a>
+    <a href="/zh-tw/" class="language-flag" title="繁體中文">
+        <span class="flag">🇹🇼</span>
+    </a>
+</div>
+        </div>
+    </div>
+</div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>为<span class="gradient">工作的</span><br><span class="gradient">每个小时</span>获得报酬</h1>
+                <p class="hero-subtitle">跟踪时间，即时计算收入，创建PDF发票，永不错过加班费。为要求精确的专业人士打造的一体化应用。</p>
+                <div class="cta-group">
+                    <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
+                        <span>开始使用</span>
+                        <span>→</span>
+                    </a>
+                    <a href="#features" class="cta-secondary">工作原理</a>
+                </div>
+                
+                <div class="screenshots-intro">
+                    <picture>
+                          <source srcset="/images/today@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/today@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/today@light.png" class="screenshot" alt="Today Screen" />
+                    </picture>
+                    <picture>
+                          <source srcset="/images/analytics_charts@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/analytics_charts@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/analytics_charts@light.png" class="screenshot" alt="Analytics Charts Screen" />
+                    </picture>
+                    <picture>
+                          <source srcset="/images/reports_months@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/reports_months@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/reports_months@light.png" class="screenshot" alt="Reports Monthly Screen" />
+                    </picture>
+                </div>
+            </div>
+        </section>
+
+        <section class="trust-section">
+            <div class="container" style="max-width: 850px">
+                <div class="trust-content">
+                    <h2>始终可用，始终私密</h2>
+                    <p>您的数据保存在设备上。无服务器，无停机，无忧虑。</p>
+                    <div class="trust-badges">
+                        <div class="trust-badge">
+                            <div class="trust-number">100%</div>
+                            <div class="trust-label">离线优先</div>
+                        </div>
+                        <div class="trust-badge">
+                            <div class="trust-number">33</div>
+                            <div class="trust-label">语言</div>
+                        </div>
+                        <div class="trust-badge">
+                            <div class="trust-number">80+</div>
+                            <div class="trust-label">国家</div>
+                        </div>
+                    </div>
+                    
+                    <div class="trust-features">
+                        <div class="trust-feature">
+                            <img src="/icons/no_wifi.png" class="trust-feature-icon" />
+                            <div class="trust-feature-content">
+                                <h4>无需互联网即可工作</h4>
+                                <p>完全离线跟踪时间、创建报告和管理客户</p>
+                            </div>
+                        </div>
+                        <div class="trust-feature">
+                            <img src="/icons/icloud_lock.png" class="trust-feature-icon" />
+                            <div class="trust-feature-content">
+                                <h4>iCloud备份 <span class="gradient">(Pro)</span></h4>
+                                <p>您的数据通过iCloud账户私密同步</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features" id="features">
+            <div class="container">
+                <div class="features-header">
+                    <h2>所需的一切，<br>无需的一概没有</h2>
+                    <p>五个简单界面，专为您的实际工作方式设计</p>
+                </div>
+                <div class="features-grid">
+                    <div class="feature">
+                        <h3>今天 - 立即跟踪</h3>
+                        <p>快速开始工作日。跟踪实际时间与计划时间。工作时添加备注、费用和照片。</p>
+                        <picture>
+                              <source srcset="/images/today_start@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/today_start@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/today_start@light.png" class="screenshot small" alt="Today Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>日程表 - 提前规划</h3>
+                        <p>一目了然查看整周。添加未来工作预约。避免重复预订。</p>
+                        <picture>
+                              <source srcset="/images/schedule@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/schedule@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/schedule@light.png" class="screenshot small" alt="Schedule Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>报告 - 获得报酬</h3>
+                        <p>即时生成PDF发票。周报或月报。包含费用和工作备注。</p>
+                        <picture>
+                              <source srcset="/images/reports@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/reports@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/reports@light.png" class="screenshot small" alt="Reports Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>分析 - 了解价值</h3>
+                        <p>查看收入趋势和模式。了解哪些客户付费最好。跟踪业务增长。</p>
+                        <picture>
+                              <source srcset="/images/analytics@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/analytics@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/analytics@light.png" class="screenshot small" alt="Analytics Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>设置 - 按您的方式</h3>
+                        <p>为每个客户设置费率。自定义发票详情。</p>
+                        <picture>
+                              <source srcset="/images/settings@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/settings@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/settings@light.png" class="screenshot small" alt="Settings Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>多个客户</h3>
+                        <p>保持每个客户独立。个人费率和合同。项目间无缝切换。</p>
+                        <picture>
+                              <source srcset="/images/payrolls@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/payrolls@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/payrolls@light.png" class="screenshot small" alt="Multi-Client Screen" />
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="pdf-section" id="invoices">
+            <div class="container">
+                <div class="pdf-content">
+                    <div class="pdf-text">
+                        <h2>几秒钟内生成专业PDF发票</h2>
+                        <p>创建令客户印象深刻并让您更快获得付款的高质量发票。每个细节都完美格式化并准备发送</p>
+                        <ul class="pdf-features">
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>智能税收和加班明细</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>费用、可选备注和您的签名</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>您的业务信息和付款详情</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>周、月或自定义日期范围</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>即时导出为PDF</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="pdf-preview">
+                        <img src="/images/invoices.png" class="pdf-image" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="widgets-section" id="widgets">
+            <div class="container">
+                <div class="widgets-content">
+                    <div class="widgets-text">
+                        <h2>一眼看清您的日程</h2>
+                        <p>无需打开应用即可跟踪即将到来的工作。日程小组件显示您的下次班次、当前工作状态和实时倒计时 - 所有内容在主屏幕和锁屏上自动更新。</p>
+                                                
+                        <div class="widget-sizes">
+                            <h4>可用小组件尺寸</h4>
+                            <div class="widget-size-badges">
+                                <span class="widget-badge">小</span>
+                                <span class="widget-badge">中</span>
+                                <span class="widget-badge">锁屏</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="widgets-preview">
+                        <picture>
+                            <source srcset="/images/widgets@light.png" media="(prefers-color-scheme: light)">
+                            <source srcset="/images/widgets@dark.png" media="(prefers-color-scheme: dark)">
+                            <img src="/images/widgets@light.png" class="widget-image" alt="WorkHourly Widgets" />
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="pricing-section" id="pricing">
+            <div class="container">
+                <div class="pricing-header">
+                    <h2>现在开始，<br><span class="gradient">成长</span>时升级</h2>
+                    <p>跟踪一个客户所需的一切都是免费的。永久免费。</p>
+                </div>
+                <div class="pricing-comparison">
+                    <div class="pricing-card">
+                        <div class="pricing-price">免费</div>
+                        <div class="pricing-subtitle">完美开始</div>
+                        <ul class="pricing-features">
+                            <li><span class="icon">✓</span> 1个客户</li>
+                            <li><span class="icon">✓</span> 时间跟踪和加班</li>
+                            <li><span class="icon">✓</span> 费用跟踪</li>
+                            <li><span class="icon">✓</span> 工作备注</li>
+                            <li><span class="icon">✓</span> 照片记录</li>
+                            <li><span class="icon">✓</span> 智能提醒</li>
+                            <li><span class="icon">✓</span> 周报</li>
+                        </ul>
+                    </div>
+                    <div class="pricing-card featured">
+                        <div class="pricing-price">Pro</div>
+                        <div class="pricing-subtitle">适合成长中的专业人士</div>
+                        <ul class="pricing-features">
+                            <li><span class="icon">✓</span> 无限客户</li>
+                            <li><span class="icon">✓</span> 免费版所有功能</li>
+                            <li><span class="icon">✓</span> PDF发票导出</li>
+                            <li><span class="icon">✓</span> 高级分析</li>
+                            <li><span class="icon">✓</span> iCloud备份和同步</li>
+                            <li><span class="icon">✓</span> 收入洞察</li>
+                            <li><span class="icon">✓</span> 月报</li>
+                        </ul>
+                        <div class="hero-badge">
+                            <span>✓</span>
+                            <span>2周免费试用</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq" id="faq">
+            <div class="container">
+                <div class="faq-header">
+                    <h2>常见问题</h2>
+                </div>
+                <div class="faq-container">
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>WorkHourly与其他时间跟踪应用有何不同？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                大多数时间跟踪应用是为员工或单个项目制作的。WorkHourly专门为处理多个客户、不同费率和时间表的服务专业人士而构建。我们处理您实际工作的复杂性：按工作跟踪费用（而不是按天），用照片记录工作，自动检测加班，创建真正能让您获得报酬的专业发票。一切都是离线优先的，所以无论您在地下室还是屋顶上，您的时间跟踪永不停止。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>WorkHourly适合我的工作类型吗？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                如果您在想'这适合像我这样的人吗？'答案可能是肯定的。管理三个家庭的保姆，兼顾小时工和项目工作的手工师，以不同费率教授不同科目的家教，管理周客户和月客户的清洁工——WorkHourly都理解。共同点不是您做什么，而是您如何工作：多个客户，不同费率，变动时间表，以及需要为每分钟准确获得报酬。这正是我们构建它的目的。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>我可以分别跟踪每项工作的费用吗？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                当然可以，这正是WorkHourly真正出色的地方。大多数应用按天分组费用，但实际工作不是这样运作的。如果您早上修理约翰逊太太的水槽，下午做史密斯家的甲板，这些费用必须分开。WorkHourly按工作班次跟踪费用，所以材料、差旅和成本在每个客户的账单上都很清楚。拍摄收据照片，添加描述——一切都按您的业务实际运作方式保持组织。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>智能提醒如何工作？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                智能提醒像真正理解您日程的个人助理一样工作。您会收到关于今天工作的温和晨间通知，然后WorkHourly为您监控时钟。无需互联网——这些提醒直接安排在您的手机上，所以即使在偏远地区也能工作。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>没有互联网如何工作？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                您的数据存在手机上，而不是世界另一端的某个服务器上。跟踪时间、记录费用、创建发票——无论您有WiFi、蜂窝网络还是没有连接，一切都能完美工作。这不仅仅是方便；当您在地下室、农村地区或服务电话带您去的任何地方工作时，这是必不可少的。Pro用户可以添加iCloud备份以获得安心，但您的工作永不会因为信号弱而停止。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>分析包含什么？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                将分析视为您永不睡觉的商业教练。查看哪些客户真正为您赚钱（不只是每小时付费最多的客户），发现您最高效的日子，跟踪您工作的一致性。图表显示您日复一日可能错过的模式：'我周三总是工作更长时间'或'我的周二客户最有利可图'。这就像您整个业务的鸟瞰图，帮助您对在哪里花费时间做出更明智的决定。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>加班计算如何工作？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                加班计算是WorkHourly真正回报的地方。为每个客户设置您的常规费率和加班费率——也许约翰逊家在8小时后支付1.5倍，但您的商业客户为周末工作支付双倍费率。当您的预定工作结束时，应用会要求您设置实际结束时间，所以如果您工作更长时间，WorkHourly会捕获每一个额外分钟并以正确费率自动计算。不再因为忘记跟踪那额外一小时或记不住哪个客户为加班支付什么而丢失金钱。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>使用iCloud备份我的数据安全吗？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                您的数据直接从手机传输到您的个人iCloud账户——我们从不查看、触碰或访问它。将其视为只有您拥有钥匙的私人保险库。Apple处理所有加密和安全，所以您的客户信息、收入和工作详情保持完全私密。即使您丢失手机或获得新手机，一切都会像您离开时一样同步。记住，一切都是离线优先的，所以无论互联网如何，您的数据在设备上总是安全的。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>我可以在购买前试用Pro功能吗？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                免费版本不是预告——它是一个客户的完整时间跟踪解决方案。跟踪时间、记录费用、添加备注和照片，一切都完美工作。大多数人从这里开始，意识到WorkHourly就是有意义。当您的业务增长并且您在管理多个客户时，像无限客户和PDF开票这样的Pro功能就变得必不可少。您可以免费试用Pro两周，或者如果您知道您已经找到了解决方案，可以直接购买终身版。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>主屏幕上的小组件如何工作？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                WorkHourly日程小组件直接在您的主屏幕和锁屏上显示即将到来的工作班次。它们会自动更新实时倒计时——'3小时后'变成'2小时后'，无需您做任何事。根据您的偏好，提供小、中、锁屏尺寸。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>我可以为不同客户设置不同的小时费率吗？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                这里WorkHourly真正理解您的业务。每个客户都不同——您为其看孩子的家庭支付20元/小时，您清洁的餐厅支付1200元/月，您的周末手工客户支付35元/小时，18点后双倍费率。为每个客户设置一次独特的薪资合同，WorkHourly会自动完成所有计算。不同费率、不同加班规则、不同税务情况——无论您的客户组合变得多么复杂，一切都简单地工作。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>如果我忘记跟踪时间会怎样？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                生活总会发生——手机没电、分心，或者只是忘记启动秒表。WorkHourly不会因为您是人类而惩罚您。只需随时点击'添加工作'并填写您记住的内容：哪个客户，何时开始，何时结束。WorkHourly会计算小时数，计算所有加班，并完美地融入您的时间线。您甚至可以为几周前完成的工作添加费用和备注。您的记忆可能模糊，但您的薪水不必如此。
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>如何添加照片来记录我的工作？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                有时一张图片真的胜过千言万语——特别是当客户后来质疑您的账单时。在任何工作日，点击三点菜单并选择'添加照片'来显示照片部分。然后点击加号按钮选择用相机'拍照'或为现有照片'从图库选择'。前后照片证明工作已完成，收据照片保持费用跟踪诚实，进度照片帮助客户看到他们的钱在起作用。一切在您的手机上保持私密。就像为您完成的每项工作拥有专业照片画廊。
+                            </div>
+                        </div>
+                    </div>
+                    <!--div class="faq-item">
+                        <button class="faq-question">
+                            <span>Can I export my data or switch to another app?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Your data belongs to you, period. Pro users can generate detailed PDF reports containing everything - every hour worked, every expense logged, every note taken. These aren't just pretty charts; they're comprehensive business records perfect for tax filing, client disputes, or moving to another system if you ever want to. WorkHourly makes it easy to stay, but we'd never make it hard to leave. That's how confident we are that you'll love working with us.
+                            </div>
+                        </div>
+                    </div-->
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>收入计算有多准确？</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                WorkHourly不四舍五入或'估算'——它计算您赚取的每一分钟。工作3小时45分钟？计算的正是这个时间，而不是'大约4小时'。混合2小时早班工作和包含加班的8小时下午客户？WorkHourly轻松处理复杂性。所有计算都直接在您的手机上进行，使用我们用数千个真实场景测试的算法。当税收季节到来或客户质疑账单时，您可以完全信任每个数字。
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="cta-section">
+        <div class="container">
+            <section id="download">
+                <h2>您的工作很重要</h2>
+                <p>您跟踪的每个小时，管理的每个客户，发送的每张发票——一切都很重要。</p>
+                <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
+                    <span>开始时间跟踪</span>
+                    <span>→</span>
+                </a>
+            </section>
+            <div class="footer-content">
+                <div class="copyright">© 2025 WorkHourly. 保留所有权利。</div>
+                <ul class="footer-links">
+                    <li><a href="/privacy_policy.html"><img src="/icons/lock40.png" class="footer-icon" /> 隐私政策</a></li>
+                    <li><a href="/terms_of_service.html"><img src="/icons/doc40.png" class="footer-icon" /> 服务条款</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Header shadow on scroll
+        window.addEventListener('scroll', () => {
+            const header = document.querySelector('header');
+            if (window.scrollY > 100) {
+                header.style.borderBottom = '1px solid var(--border)';
+            } else {
+                header.style.borderBottom = '1px solid transparent';
+            }
+        });
+
+        // FAQ toggle
+        document.querySelectorAll('.faq-question').forEach(button => {
+            button.addEventListener('click', () => {
+                const item = button.parentElement;
+                const isActive = item.classList.contains('active');
+                
+                // Close all items
+                document.querySelectorAll('.faq-item').forEach(faqItem => {
+                    faqItem.classList.remove('active');
+                });
+                
+                // Open clicked item if it wasn't active
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Language switcher
+        function toggleLanguageMenu(type = 'desktop') {
+            const menuId = type === 'mobile' ? 'mobileLanguageMenu' : 'desktopLanguageMenu';
+            const switcherClass = type === 'mobile' ? '.mobile-language-switcher' : '.desktop-language-switcher';
+            
+            const menu = document.getElementById(menuId);
+            const switcher = document.querySelector(switcherClass);
+            const button = switcher ? switcher.querySelector('.language-button') : null;
+            
+            if (menu && button) {
+                const isOpen = menu.classList.contains('show');
+                
+                // Close all menus and buttons first
+                document.querySelectorAll('.language-menu').forEach(m => m.classList.remove('show'));
+                document.querySelectorAll('.language-button').forEach(b => b.classList.remove('show'));
+                
+                if (!isOpen) {
+                    menu.classList.add('show');
+                    button.classList.add('show');
+                }
+            }
+        }
+
+        // Close language menu when clicking outside
+        document.addEventListener('click', (e) => {
+            const isClickInsideLanguageSwitcher = e.target.closest('.language-switcher');
+            
+            if (!isClickInsideLanguageSwitcher) {
+                document.querySelectorAll('.language-menu').forEach(menu => {
+                    menu.classList.remove('show');
+                });
+                document.querySelectorAll('.language-button').forEach(button => {
+                    button.classList.remove('show');
+                });
+            }
+        });
+
+        // Highlight current language
+        document.addEventListener('DOMContentLoaded', () => {
+            const currentPath = window.location.pathname;
+            const languageFlags = document.querySelectorAll('.language-flag');
+            
+            languageFlags.forEach(flag => {
+                const href = flag.getAttribute('href');
+                if ((currentPath === '/' && href === '/') ||
+                    (currentPath.startsWith('/es') && href === '/es/') ||
+                    (currentPath.startsWith('/fr') && href === '/fr/') ||
+                    (currentPath.startsWith('/de') && href === '/de/') ||
+                    (currentPath.startsWith('/it') && href === '/it/') ||
+                    (currentPath.startsWith('/ja') && href === '/ja/') ||
+                    (currentPath.startsWith('/ko') && href === '/ko/') ||
+                    (currentPath.startsWith('/zh-cn') && href === '/zh-cn/') ||
+                    (currentPath.startsWith('/zh-tw') && href === '/zh-tw/')) {
+                    flag.classList.add('current');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

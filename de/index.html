@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>WorkHourly - Zeiterfassung für Profis | Zeit erfassen, bezahlt werden</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    
+    <meta name="description" content="Professionelle Zeiterfassung mit PDF-Rechnungen, Ausgabenverwaltung und Fotodokumentation. Verpassen Sie nie Überstundenbezahlung. Funktioniert offline. Verfügbar in 33 Sprachen.">
+    <meta name="keywords" content="time tracking, invoice generator, freelancer app, contractor tools, PDF invoices, expense tracker, work hours, overtime calculator, professional time tracker, iOS app">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="WorkHourly">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://workhourly.app/">
+    <meta property="og:title" content="WorkHourly - Zeiterfassung für Profis">
+    <meta property="og:description" content="Erfassen Sie Zeit für alle Ihre Kunden, berechnen Sie Einnahmen sofort und vergessen Sie nie, Überstunden abzurechnen. Funktioniert offline mit iCloud-Backup.">
+    <meta property="og:image" content="https://workhourly.app/images/og-image.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://workhourly.app/">
+    <meta property="twitter:title" content="WorkHourly - Time Tracking for Professionals">
+    <meta property="twitter:description" content="Track time for all your clients, calculate earnings instantly, and never forget to bill for overtime.">
+    <meta property="twitter:image" content="https://workhourly.app/images/twitter-image.png">
+    
+    <!-- Apple App Store -->
+    <meta name="apple-itunes-app" content="app-id=6749011205">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://workhourly.app/">
+    <!-- Update the URL above with your actual domain -->
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "WorkHourly",
+        "operatingSystem": "iOS",
+        "applicationCategory": "BusinessApplication",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "description": "Professional time tracking with PDF invoicing, expense management, and photo documentation.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "ratingCount": "1024"
+        }
+    }
+    </script>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/style.css?v=1.4">
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo">WorkHourly</div>
+            <ul class="nav-links">
+                <li><a href="#features">Funktionen</a></li>
+                <li><a href="#invoices">Rechnungen</a></li>
+                <li><a href="#widgets">Widgets</a></li>
+                <li><a href="#pricing">Gratis vs Pro</a></li>
+                <li><a href="#faq">FAQ</a></li>
+                <!-- Desktop Navigation Actions -->
+<li><a href="https://apps.apple.com/app/id6749011205" class="download-nav">Herunterladen</a></li>
+<li class="language-switcher desktop-language-switcher">
+    <button class="language-button" onclick="toggleLanguageMenu('desktop')">
+        <span class="flag">🇩🇪</span>
+        <span class="chevron">▼</span>
+    </button>
+    <div class="language-menu" id="desktopLanguageMenu">
+        <div class="language-grid">
+    <a href="/" class="language-flag" title="English">
+        <span class="flag">🇺🇸</span>
+    </a>
+    <a href="/es/" class="language-flag" title="Español">
+        <span class="flag">🇪🇸</span>
+    </a>
+    <a href="/fr/" class="language-flag" title="Français">
+        <span class="flag">🇫🇷</span>
+    </a>
+    <a href="/de/" class="language-flag" title="Deutsch">
+        <span class="flag">🇩🇪</span>
+    </a>
+    <a href="/it/" class="language-flag" title="Italiano">
+        <span class="flag">🇮🇹</span>
+    </a>
+    <a href="/ja/" class="language-flag" title="日本語">
+        <span class="flag">🇯🇵</span>
+    </a>
+    <a href="/ko/" class="language-flag" title="한국어">
+        <span class="flag">🇰🇷</span>
+    </a>
+    <a href="/zh-cn/" class="language-flag" title="简体中文">
+        <span class="flag">🇨🇳</span>
+    </a>
+    <a href="/zh-tw/" class="language-flag" title="繁體中文">
+        <span class="flag">🇹🇼</span>
+    </a>
+</div>
+    </div>
+</li>
+            </ul>
+            <!-- Mobile Navigation -->
+<div class="mobile-nav">
+    <a href="https://apps.apple.com/app/id6749011205" class="mobile-download">Herunterladen</a>
+    <div class="language-switcher mobile-language-switcher">
+        <button class="language-button" onclick="toggleLanguageMenu('mobile')">
+            <span class="flag">🇩🇪</span>
+            <span class="chevron">▼</span>
+        </button>
+        <div class="language-menu" id="mobileLanguageMenu">
+            <div class="language-grid">
+    <a href="/" class="language-flag" title="English">
+        <span class="flag">🇺🇸</span>
+    </a>
+    <a href="/es/" class="language-flag" title="Español">
+        <span class="flag">🇪🇸</span>
+    </a>
+    <a href="/fr/" class="language-flag" title="Français">
+        <span class="flag">🇫🇷</span>
+    </a>
+    <a href="/de/" class="language-flag" title="Deutsch">
+        <span class="flag">🇩🇪</span>
+    </a>
+    <a href="/it/" class="language-flag" title="Italiano">
+        <span class="flag">🇮🇹</span>
+    </a>
+    <a href="/ja/" class="language-flag" title="日本語">
+        <span class="flag">🇯🇵</span>
+    </a>
+    <a href="/ko/" class="language-flag" title="한국어">
+        <span class="flag">🇰🇷</span>
+    </a>
+    <a href="/zh-cn/" class="language-flag" title="简体中文">
+        <span class="flag">🇨🇳</span>
+    </a>
+    <a href="/zh-tw/" class="language-flag" title="繁體中文">
+        <span class="flag">🇹🇼</span>
+    </a>
+</div>
+        </div>
+    </div>
+</div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>Bezahlt werden für <span class="gradient">jede Stunde</span><br>die Sie <span class="gradient">arbeiten</span></h1>
+                <p class="hero-subtitle">Zeit erfassen, Einnahmen sofort berechnen, PDF-Rechnungen erstellen und nie wieder Überstunden verpassen. Alles in einer App für Profis, die Präzision fordern.</p>
+                <div class="cta-group">
+                    <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
+                        <span>Loslegen</span>
+                        <span>→</span>
+                    </a>
+                    <a href="#features" class="cta-secondary">So funktioniert's</a>
+                </div>
+                
+                <div class="screenshots-intro">
+                    <picture>
+                          <source srcset="/images/today@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/today@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/today@light.png" class="screenshot" alt="Today Screen" />
+                    </picture>
+                    <picture>
+                          <source srcset="/images/analytics_charts@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/analytics_charts@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/analytics_charts@light.png" class="screenshot" alt="Analytics Charts Screen" />
+                    </picture>
+                    <picture>
+                          <source srcset="/images/reports_months@light.png" media="(prefers-color-scheme: light)">
+                          <source srcset="/images/reports_months@dark.png" media="(prefers-color-scheme: dark)">
+                          <img src="/images/reports_months@light.png" class="screenshot" alt="Reports Monthly Screen" />
+                    </picture>
+                </div>
+            </div>
+        </section>
+
+        <section class="trust-section">
+            <div class="container" style="max-width: 850px">
+                <div class="trust-content">
+                    <h2>Immer verfügbar, immer privat</h2>
+                    <p>Ihre Daten bleiben auf Ihrem Gerät. Keine Server, keine Ausfälle, keine Sorgen.</p>
+                    <div class="trust-badges">
+                        <div class="trust-badge">
+                            <div class="trust-number">100%</div>
+                            <div class="trust-label">Offline zuerst</div>
+                        </div>
+                        <div class="trust-badge">
+                            <div class="trust-number">33</div>
+                            <div class="trust-label">Sprachen</div>
+                        </div>
+                        <div class="trust-badge">
+                            <div class="trust-number">80+</div>
+                            <div class="trust-label">Länder</div>
+                        </div>
+                    </div>
+                    
+                    <div class="trust-features">
+                        <div class="trust-feature">
+                            <img src="/icons/no_wifi.png" class="trust-feature-icon" />
+                            <div class="trust-feature-content">
+                                <h4>Funktioniert ohne Internet</h4>
+                                <p>Zeit erfassen, Berichte erstellen und Kunden vollständig offline verwalten</p>
+                            </div>
+                        </div>
+                        <div class="trust-feature">
+                            <img src="/icons/icloud_lock.png" class="trust-feature-icon" />
+                            <div class="trust-feature-content">
+                                <h4>iCloud-Backup <span class="gradient">(Pro)</span></h4>
+                                <p>Ihre Daten synchronisieren sich privat über Ihr iCloud-Konto</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features" id="features">
+            <div class="container">
+                <div class="features-header">
+                    <h2>Alles was Sie brauchen,<br>nichts was Sie nicht brauchen</h2>
+                    <p>Fünf einfache Bildschirme, designed für Ihre tatsächliche Arbeitsweise</p>
+                </div>
+                <div class="features-grid">
+                    <div class="feature">
+                        <h3>Heute - Jetzt erfassen</h3>
+                        <p>Starten Sie schnell Ihren Arbeitstag. Erfassen Sie tatsächliche vs. geplante Zeit. Fügen Sie Notizen, Ausgaben und Fotos während der Arbeit hinzu.</p>
+                        <picture>
+                              <source srcset="/images/today_start@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/today_start@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/today_start@light.png" class="screenshot small" alt="Today Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>Zeitplan - Vorausplanen</h3>
+                        <p>Sehen Sie Ihre Woche auf einen Blick. Fügen Sie zukünftige Arbeitstermine hinzu. Doppelbuchungen vermeiden.</p>
+                        <picture>
+                              <source srcset="/images/schedule@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/schedule@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/schedule@light.png" class="screenshot small" alt="Schedule Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>Berichte - Bezahlt werden</h3>
+                        <p>PDF-Rechnungen sofort erstellen. Wöchentliche oder monatliche Berichte. Ausgaben und Arbeitsnotizen einschließen.</p>
+                        <picture>
+                              <source srcset="/images/reports@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/reports@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/reports@light.png" class="screenshot small" alt="Reports Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>Analysen - Ihren Wert kennen</h3>
+                        <p>Verdiensttrends und Muster sehen. Verstehen, welche Kunden am besten zahlen. Ihr Unternehmenswachstum verfolgen.</p>
+                        <picture>
+                              <source srcset="/images/analytics@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/analytics@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/analytics@light.png" class="screenshot small" alt="Analytics Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>Einstellungen - Auf Ihre Art</h3>
+                        <p>Tarife für jeden Kunden festlegen. Rechnungsdetails anpassen.</p>
+                        <picture>
+                              <source srcset="/images/settings@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/settings@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/settings@light.png" class="screenshot small" alt="Settings Screen" />
+                        </picture>
+                    </div>
+                    <div class="feature">
+                        <h3>Mehrere Kunden</h3>
+                        <p>Jeden Kunden getrennt halten. Individuelle Tarife und Verträge. Nahtlos zwischen Projekten wechseln.</p>
+                        <picture>
+                              <source srcset="/images/payrolls@light.png" media="(prefers-color-scheme: light)">
+                              <source srcset="/images/payrolls@dark.png" media="(prefers-color-scheme: dark)">
+                              <img src="/images/payrolls@light.png" class="screenshot small" alt="Multi-Client Screen" />
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="pdf-section" id="invoices">
+            <div class="container">
+                <div class="pdf-content">
+                    <div class="pdf-text">
+                        <h2>Professionelle PDF-Rechnungen in Sekunden</h2>
+                        <p>Erstellen Sie hochwertige Rechnungen, die Kunden beeindrucken und Sie schneller bezahlt bekommen. Jedes Detail ist perfekt formatiert und versandbereit</p>
+                        <ul class="pdf-features">
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>Intelligente Steuer- und Überstunden-Aufschlüsselungen</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>Ausgaben, optionale Notizen und Ihre Unterschrift</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>Ihre Geschäftsinformationen und Zahlungsdetails</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>Wöchentlicher, monatlicher oder benutzerdefinierter Datumsbereich</span>
+                            </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>Sofortiger Export zu PDF</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="pdf-preview">
+                        <img src="/images/invoices.png" class="pdf-image" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="widgets-section" id="widgets">
+            <div class="container">
+                <div class="widgets-content">
+                    <div class="widgets-text">
+                        <h2>Ihr Zeitplan auf einen Blick</h2>
+                        <p>Verfolgen Sie Ihre anstehende Arbeit, ohne die App zu öffnen. Zeitplan-Widgets zeigen Ihre nächsten Schichten, aktuellen Arbeitsstatus und Live-Countdowns - alles aktualisiert sich automatisch auf Ihrem Startbildschirm und Sperrbildschirm.</p>
+                                                
+                        <div class="widget-sizes">
+                            <h4>Verfügbare Widget-Größen</h4>
+                            <div class="widget-size-badges">
+                                <span class="widget-badge">Klein</span>
+                                <span class="widget-badge">Mittel</span>
+                                <span class="widget-badge">Sperrbildschirm</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="widgets-preview">
+                        <picture>
+                            <source srcset="/images/widgets@light.png" media="(prefers-color-scheme: light)">
+                            <source srcset="/images/widgets@dark.png" media="(prefers-color-scheme: dark)">
+                            <img src="/images/widgets@light.png" class="widget-image" alt="WorkHourly Widgets" />
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="pricing-section" id="pricing">
+            <div class="container">
+                <div class="pricing-header">
+                    <h2>Jetzt starten, upgraden wenn<br>Sie <span class="gradient">wachsen</span></h2>
+                    <p>Alles was Sie brauchen, um einen Kunden zu verfolgen ist kostenlos. Für immer.</p>
+                </div>
+                <div class="pricing-comparison">
+                    <div class="pricing-card">
+                        <div class="pricing-price">Kostenlos</div>
+                        <div class="pricing-subtitle">Perfekt zum Starten</div>
+                        <ul class="pricing-features">
+                            <li><span class="icon">✓</span> 1 Kunde</li>
+                            <li><span class="icon">✓</span> Zeiterfassung & Überstunden</li>
+                            <li><span class="icon">✓</span> Ausgabenverfolgung</li>
+                            <li><span class="icon">✓</span> Arbeitsnotizen</li>
+                            <li><span class="icon">✓</span> Fotodokumentation</li>
+                            <li><span class="icon">✓</span> Intelligente Erinnerungen</li>
+                            <li><span class="icon">✓</span> Wöchentliche Berichte</li>
+                        </ul>
+                    </div>
+                    <div class="pricing-card featured">
+                        <div class="pricing-price">Pro</div>
+                        <div class="pricing-subtitle">Für wachsende Profis</div>
+                        <ul class="pricing-features">
+                            <li><span class="icon">✓</span> Unbegrenzte Kunden</li>
+                            <li><span class="icon">✓</span> Alles in Kostenlos</li>
+                            <li><span class="icon">✓</span> PDF-Rechnungsexport</li>
+                            <li><span class="icon">✓</span> Erweiterte Analysen</li>
+                            <li><span class="icon">✓</span> iCloud-Backup & Sync</li>
+                            <li><span class="icon">✓</span> Einnahmen-Einblicke</li>
+                            <li><span class="icon">✓</span> Monatliche Berichte</li>
+                        </ul>
+                        <div class="hero-badge">
+                            <span>✓</span>
+                            <span>2 Wochen kostenlos testen</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq" id="faq">
+            <div class="container">
+                <div class="faq-header">
+                    <h2>Häufig gestellte Fragen</h2>
+                </div>
+                <div class="faq-container">
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Was macht WorkHourly anders als andere Zeiterfassungs-Apps?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Die meisten Zeiterfassungs-Apps sind für Angestellte oder einzelne Projekte gemacht. WorkHourly ist speziell für Dienstleistungsprofis entwickelt, die mehrere Kunden mit verschiedenen Tarifen und Zeitplänen jonglieren. Wir handhaben die reale Komplexität Ihrer Arbeit: Ausgaben pro Job verfolgen (nicht nur pro Tag), Arbeit mit Fotos dokumentieren, Überstunden automatisch erkennen und professionelle Rechnungen erstellen, die Sie wirklich bezahlt bekommen. Alles funktioniert offline-first, also ob Sie im Keller oder auf dem Dach sind, Ihre Zeiterfassung stoppt nie.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Ist WorkHourly für meinen Arbeitstyp geeignet?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Wenn Sie sich fragen 'Ist das für jemanden wie mich?' ist die Antwort wahrscheinlich ja. Babysitter, die drei Familien jonglieren, Handwerker mit einer Mischung aus Stunden- und Projektarbeit, Nachhilfelehrer, die verschiedene Fächer zu verschiedenen Tarifen unterrichten, Reinigungskräfte, die wöchentliche und monatliche Kunden verwalten - WorkHourly versteht das. Der gemeinsame Nenner ist nicht was Sie tun, sondern wie Sie arbeiten: mehrere Kunden, verschiedene Tarife, variable Zeitpläne und die Notwendigkeit, für jede Minute genau bezahlt zu werden. Genau dafür haben wir das gebaut.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Kann ich Ausgaben für jeden Job getrennt verfolgen?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Absolut, und hier glänzt WorkHourly wirklich. Die meisten Apps fassen Ausgaben nach Tag zusammen, aber so funktioniert echte Arbeit nicht. Wenn Sie morgens Frau Johnsons Waschbecken reparieren und nachmittags die Terrasse der Smiths, müssen diese Ausgaben getrennt bleiben. WorkHourly verfolgt Ausgaben pro Arbeitsschicht, so dass Materialien, Reisen und Kosten jedes Kunden kristallklar auf deren Rechnung stehen. Fotografieren Sie Belege, fügen Sie Beschreibungen hinzu - alles bleibt genau so organisiert, wie Ihr Geschäft tatsächlich funktioniert.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Wie funktionieren die intelligenten Erinnerungen?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Intelligente Erinnerungen funktionieren wie ein persönlicher Assistent, der Ihren Zeitplan wirklich versteht. Erhalten Sie eine sanfte Morgenbenachrichtigung über die heutige Arbeit, dann überwacht WorkHourly die Uhr für Sie. Kein Internet erforderlich - diese Erinnerungen sind direkt auf Ihrem Telefon geplant, also funktionieren sie auch mitten im Nirgendwo.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Wie funktioniert es ohne Internet?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Ihre Daten leben auf Ihrem Telefon, nicht auf irgendeinem Server am anderen Ende der Welt. Zeit erfassen, Ausgaben protokollieren, Rechnungen erstellen - alles funktioniert perfekt, ob Sie WLAN, Mobilfunk oder gar keine Verbindung haben. Das ist nicht nur praktisch; es ist wesentlich, wenn Sie in Kellern, ländlichen Gebieten oder überall arbeiten, wo Serviceanrufe Sie hinführen. Pro-Benutzer können iCloud-Backup für Seelenfrieden hinzufügen, aber Ihre Arbeit stoppt nie für ein schwaches Signal.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Was ist in den Analysen enthalten?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Denken Sie an Analysen als Ihren Geschäftscoach, der nie schläft. Sehen Sie, welche Kunden Ihnen wirklich Geld einbringen (nicht nur die, die am meisten pro Stunde zahlen), entdecken Sie Ihre produktivsten Tage und verfolgen Sie, wie konstant Sie arbeiten. Die Diagramme zeigen Ihnen Muster, die Sie Tag für Tag verpassen könnten: 'Ich arbeite mittwochs immer länger' oder 'Meine Dienstagskunden sind die profitabelsten.' Es ist wie eine Vogelperspektive auf Ihr gesamtes Geschäft, die Ihnen hilft, klügere Entscheidungen darüber zu treffen, wo Sie Ihre Zeit verbringen.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Wie funktioniert die Überstundenberechnung?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Die Überstundenberechnung ist der Punkt, wo WorkHourly sich wirklich auszahlt. Legen Sie Ihren regulären Tarif und Überstundentarif für jeden Kunden fest - vielleicht zahlen die Johnsons 1,5x nach 8 Stunden, aber Ihr Gewerbekunde zahlt doppelten Tarif für Wochenendarbeit. Die App bittet Sie, Ihre tatsächliche Endzeit einzustellen, wenn Ihre geplante Arbeit endet, also wenn Sie länger gearbeitet haben, erfasst WorkHourly jede zusätzliche Minute und berechnet sie automatisch zum richtigen Tarif. Kein verlorenes Geld mehr, weil Sie vergessen haben, diese zusätzliche Stunde zu verfolgen, oder weil Sie sich nicht erinnern konnten, welcher Kunde was für Überstunden zahlt.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Sind meine Daten mit iCloud-Backup sicher?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Ihre Daten gehen direkt von Ihrem Telefon zu Ihrem persönlichen iCloud-Konto - wir sehen sie nie, berühren sie nie oder haben Zugriff darauf. Denken Sie daran wie an einen privaten Tresor, zu dem nur Sie den Schlüssel haben. Apple handhabt alle Verschlüsselung und Sicherheit, also bleiben Ihre Kundeninformationen, Einnahmen und Arbeitsdetails völlig privat. Auch wenn Sie Ihr Telefon verlieren oder ein neues bekommen, synchronisiert sich alles genau so, wie Sie es hinterlassen haben. Und denken Sie daran, alles funktioniert offline-first, also sind Ihre Daten immer sicher auf Ihrem Gerät, unabhängig vom Internet.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Kann ich Pro-Funktionen vor dem Kauf testen?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Die kostenlose Version ist kein Teaser - sie ist eine komplette Zeiterfassungslösung für einen Kunden. Zeit verfolgen, Ausgaben protokollieren, Notizen und Fotos hinzufügen, alles funktioniert perfekt. Die meisten Leute starten hier und erkennen, dass WorkHourly einfach Sinn macht. Wenn Ihr Geschäft wächst und Sie mehrere Kunden jonglieren, dann werden Pro-Funktionen wie unbegrenzte Kunden und PDF-Rechnungsstellung wesentlich. Sie können Pro zwei Wochen kostenlos testen oder direkt zu Lifetime gehen, wenn Sie wissen, dass Sie Ihre Lösung gefunden haben.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Wie funktionieren Widgets auf meinem Startbildschirm?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                WorkHourly Zeitplan-Widgets zeigen Ihre bevorstehenden Arbeitsschichten direkt auf Ihrem Startbildschirm und Sperrbildschirm. Sie aktualisieren sich automatisch mit Live-Countdowns - 'In 3 Stunden' wird zu 'In 2 Stunden', ohne dass Sie etwas tun. Verfügbar in Klein-, Mittel- und Sperrbildschirm-Größen nach Ihrer Präferenz.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Kann ich verschiedene Stundensätze für verschiedene Kunden festlegen?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Hier versteht WorkHourly wirklich Ihr Geschäft. Jeder Kunde ist anders - die Familie, für die Sie babysitten, zahlt 20€/Stunde, das Restaurant, das Sie putzen, zahlt 1200€/Monat, und Ihr Wochenend-Handwerkerkunde zahlt 35€/Stunde mit doppeltem Tarif nach 18 Uhr. Richten Sie jeden Kunden's einzigartigen Lohnvertrag einmal ein, und WorkHourly erledigt alle Berechnungen automatisch. Verschiedene Tarife, verschiedene Überstundenregeln, verschiedene Steuersituationen - alles funktioniert einfach, egal wie komplex Ihre Kundenmischung wird.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Was passiert, wenn ich vergesse, meine Zeit zu erfassen?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Das Leben passiert - Telefone sterben, Sie werden abgelenkt oder vergessen einfach, die Stoppuhr zu starten. WorkHourly bestraft Sie nicht dafür, menschlich zu sein. Tippen Sie einfach jederzeit auf 'Arbeit hinzufügen' und füllen Sie aus, woran Sie sich erinnern: welcher Kunde, wann Sie angefangen haben, wann Sie aufgehört haben. WorkHourly berechnet die Stunden, berechnet alle Überstunden und fügt es perfekt in Ihre Zeitleiste ein. Sie können sogar Ausgaben und Notizen zu Arbeit hinzufügen, die Sie vor Wochen gemacht haben. Ihr Gedächtnis mag unscharf sein, aber Ihr Gehaltsscheck muss es nicht sein.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Wie füge ich Fotos hinzu, um meine Arbeit zu dokumentieren?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Manchmal ist ein Bild wirklich tausend Worte wert - besonders wenn ein Kunde später Ihre Rechnung hinterfragt. An jedem Arbeitstag tippen Sie auf das Drei-Punkte-Menü und wählen 'Foto hinzufügen', um den Fotos-Bereich zu zeigen. Dann tippen Sie auf die Plus-Schaltfläche, um zwischen 'Foto aufnehmen' mit Ihrer Kamera oder 'Aus Bibliothek wählen' für vorhandene Fotos zu wählen. Vorher-Nachher-Aufnahmen beweisen, dass die Arbeit gemacht wurde, Belegfotos halten die Ausgabenverfolgung ehrlich, und Fortschrittsfotos helfen Kunden, ihr Geld bei der Arbeit zu sehen. Alles bleibt privat auf Ihrem Telefon. Es ist wie eine professionelle Fotogalerie für jeden Job, den Sie abschließen.
+                            </div>
+                        </div>
+                    </div>
+                    <!--div class="faq-item">
+                        <button class="faq-question">
+                            <span>Can I export my data or switch to another app?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Your data belongs to you, period. Pro users can generate detailed PDF reports containing everything - every hour worked, every expense logged, every note taken. These aren't just pretty charts; they're comprehensive business records perfect for tax filing, client disputes, or moving to another system if you ever want to. WorkHourly makes it easy to stay, but we'd never make it hard to leave. That's how confident we are that you'll love working with us.
+                            </div>
+                        </div>
+                    </div-->
+                    <div class="faq-item">
+                        <button class="faq-question">
+                            <span>Wie genau sind die Verdienstberechnungen?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                WorkHourly rundet nicht ab oder 'schätzt' - es berechnet jede Minute, die Sie verdient haben. Arbeiten Sie 3 Stunden und 45 Minuten? Das ist genau das, was berechnet wird, nicht 'ungefähr 4 Stunden.' Mischen Sie einen 2-Stunden-Morgenjob mit einem 8-Stunden-Nachmittagskunden, der Überstunden einschließt? WorkHourly bewältigt die Komplexität ohne zu schwitzen. Alle Berechnungen passieren direkt auf Ihrem Telefon mit Algorithmen, die wir mit Tausenden von realen Szenarien getestet haben. Wenn die Steuerzeit kommt oder ein Kunde eine Rechnung hinterfragt, können Sie jeder Zahl vollständig vertrauen.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="cta-section">
+        <div class="container">
+            <section id="download">
+                <h2>Ihre Arbeit zählt</h2>
+                <p>Jede Stunde, die Sie verfolgen, jeder Kunde, den Sie verwalten, jede Rechnung, die Sie senden - alles zählt.</p>
+                <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
+                    <span>Zeiterfassung starten</span>
+                    <span>→</span>
+                </a>
+            </section>
+            <div class="footer-content">
+                <div class="copyright">© 2025 WorkHourly. Alle Rechte vorbehalten.</div>
+                <ul class="footer-links">
+                    <li><a href="/privacy_policy.html"><img src="/icons/lock40.png" class="footer-icon" /> Datenschutzrichtlinie</a></li>
+                    <li><a href="/terms_of_service.html"><img src="/icons/doc40.png" class="footer-icon" /> Nutzungsbedingungen</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Header shadow on scroll
+        window.addEventListener('scroll', () => {
+            const header = document.querySelector('header');
+            if (window.scrollY > 100) {
+                header.style.borderBottom = '1px solid var(--border)';
+            } else {
+                header.style.borderBottom = '1px solid transparent';
+            }
+        });
+
+        // FAQ toggle
+        document.querySelectorAll('.faq-question').forEach(button => {
+            button.addEventListener('click', () => {
+                const item = button.parentElement;
+                const isActive = item.classList.contains('active');
+                
+                // Close all items
+                document.querySelectorAll('.faq-item').forEach(faqItem => {
+                    faqItem.classList.remove('active');
+                });
+                
+                // Open clicked item if it wasn't active
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Language switcher
+        function toggleLanguageMenu(type = 'desktop') {
+            const menuId = type === 'mobile' ? 'mobileLanguageMenu' : 'desktopLanguageMenu';
+            const switcherClass = type === 'mobile' ? '.mobile-language-switcher' : '.desktop-language-switcher';
+            
+            const menu = document.getElementById(menuId);
+            const switcher = document.querySelector(switcherClass);
+            const button = switcher ? switcher.querySelector('.language-button') : null;
+            
+            if (menu && button) {
+                const isOpen = menu.classList.contains('show');
+                
+                // Close all menus and buttons first
+                document.querySelectorAll('.language-menu').forEach(m => m.classList.remove('show'));
+                document.querySelectorAll('.language-button').forEach(b => b.classList.remove('show'));
+                
+                if (!isOpen) {
+                    menu.classList.add('show');
+                    button.classList.add('show');
+                }
+            }
+        }
+
+        // Close language menu when clicking outside
+        document.addEventListener('click', (e) => {
+            const isClickInsideLanguageSwitcher = e.target.closest('.language-switcher');
+            
+            if (!isClickInsideLanguageSwitcher) {
+                document.querySelectorAll('.language-menu').forEach(menu => {
+                    menu.classList.remove('show');
+                });
+                document.querySelectorAll('.language-button').forEach(button => {
+                    button.classList.remove('show');
+                });
+            }
+        });
+
+        // Highlight current language
+        document.addEventListener('DOMContentLoaded', () => {
+            const currentPath = window.location.pathname;
+            const languageFlags = document.querySelectorAll('.language-flag');
+            
+            languageFlags.forEach(flag => {
+                const href = flag.getAttribute('href');
+                if ((currentPath === '/' && href === '/') ||
+                    (currentPath.startsWith('/es') && href === '/es/') ||
+                    (currentPath.startsWith('/fr') && href === '/fr/') ||
+                    (currentPath.startsWith('/de') && href === '/de/') ||
+                    (currentPath.startsWith('/it') && href === '/it/') ||
+                    (currentPath.startsWith('/ja') && href === '/ja/') ||
+                    (currentPath.startsWith('/ko') && href === '/ko/') ||
+                    (currentPath.startsWith('/zh-cn') && href === '/zh-cn/') ||
+                    (currentPath.startsWith('/zh-tw') && href === '/zh-tw/')) {
+                    flag.classList.add('current');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
