@@ -57,7 +57,7 @@
     </script>
     
     <!-- CSS -->
-    <link rel="stylesheet" href="/style.css?v=1.2">
+    <link rel="stylesheet" href="/style.css?v=1.3">
 </head>
 <body>
     <header>
@@ -71,49 +71,47 @@
                 <li><a href="#faq">FAQ</a></li>
                 <!-- Desktop Navigation Actions -->
 <li><a href="https://apps.apple.com/app/id6749011205" class="download-nav">Download</a></li>
-<li class="language-switcher">
-    <button class="language-button" onclick="toggleLanguageMenu()">
+<li class="language-switcher desktop-language-switcher">
+    <button class="language-button" onclick="toggleLanguageMenu('desktop')">
         <span class="flag">🇺🇸</span>
         <span class="chevron">▼</span>
     </button>
-    <div class="language-menu" id="languageMenu">
-    <a href="/" class="language-option">
+    <div class="language-menu" id="desktopLanguageMenu">
+        <div class="language-grid">
+    <a href="/" class="language-flag" title="English">
         <span class="flag">🇺🇸</span>
-        <span>English</span>
     </a>
-    <a href="/es/" class="language-option">
+    <a href="/es/" class="language-flag" title="Español">
         <span class="flag">🇪🇸</span>
-        <span>Español</span>
     </a>
-    <a href="/fr/" class="language-option">
+    <a href="/fr/" class="language-flag" title="Français">
         <span class="flag">🇫🇷</span>
-        <span>Français</span>
     </a>
 </div>
+    </div>
 </li>
             </ul>
             <!-- Mobile Navigation -->
 <div class="mobile-nav">
     <a href="https://apps.apple.com/app/id6749011205" class="mobile-download">Download</a>
-    <div class="language-switcher">
-        <button class="language-button" onclick="toggleLanguageMenu()">
+    <div class="language-switcher mobile-language-switcher">
+        <button class="language-button" onclick="toggleLanguageMenu('mobile')">
             <span class="flag">🇺🇸</span>
             <span class="chevron">▼</span>
         </button>
-        <div class="language-menu" id="languageMenu">
-    <a href="/" class="language-option">
+        <div class="language-menu" id="mobileLanguageMenu">
+            <div class="language-grid">
+    <a href="/" class="language-flag" title="English">
         <span class="flag">🇺🇸</span>
-        <span>English</span>
     </a>
-    <a href="/es/" class="language-option">
+    <a href="/es/" class="language-flag" title="Español">
         <span class="flag">🇪🇸</span>
-        <span>Español</span>
     </a>
-    <a href="/fr/" class="language-option">
+    <a href="/fr/" class="language-flag" title="Français">
         <span class="flag">🇫🇷</span>
-        <span>Français</span>
     </a>
 </div>
+        </div>
     </div>
 </div>
         </nav>
@@ -602,46 +600,53 @@
         });
 
         // Language switcher
-        function toggleLanguageMenu() {
-            const menu = document.getElementById('languageMenu');
-            const button = document.querySelector('.language-button');
+        function toggleLanguageMenu(type = 'desktop') {
+            const menuId = type === 'mobile' ? 'mobileLanguageMenu' : 'desktopLanguageMenu';
+            const switcherClass = type === 'mobile' ? '.mobile-language-switcher' : '.desktop-language-switcher';
+            
+            const menu = document.getElementById(menuId);
+            const switcher = document.querySelector(switcherClass);
+            const button = switcher ? switcher.querySelector('.language-button') : null;
             
             if (menu && button) {
                 const isOpen = menu.classList.contains('show');
                 
-                if (isOpen) {
-                    menu.classList.remove('show');
-                    button.classList.remove('open');
-                } else {
+                // Close all menus and buttons first
+                document.querySelectorAll('.language-menu').forEach(m => m.classList.remove('show'));
+                document.querySelectorAll('.language-button').forEach(b => b.classList.remove('show'));
+                
+                if (!isOpen) {
                     menu.classList.add('show');
-                    button.classList.add('open');
+                    button.classList.add('show');
                 }
             }
         }
 
         // Close language menu when clicking outside
         document.addEventListener('click', (e) => {
-            const languageSwitcher = document.querySelector('.language-switcher');
-            const menu = document.getElementById('languageMenu');
-            const button = document.querySelector('.language-button');
+            const isClickInsideLanguageSwitcher = e.target.closest('.language-switcher');
             
-            if (languageSwitcher && menu && button && !languageSwitcher.contains(e.target)) {
-                menu.classList.remove('show');
-                button.classList.remove('open');
+            if (!isClickInsideLanguageSwitcher) {
+                document.querySelectorAll('.language-menu').forEach(menu => {
+                    menu.classList.remove('show');
+                });
+                document.querySelectorAll('.language-button').forEach(button => {
+                    button.classList.remove('show');
+                });
             }
         });
 
         // Highlight current language
         document.addEventListener('DOMContentLoaded', () => {
             const currentPath = window.location.pathname;
-            const languageOptions = document.querySelectorAll('.language-option');
+            const languageFlags = document.querySelectorAll('.language-flag');
             
-            languageOptions.forEach(option => {
-                const href = option.getAttribute('href');
+            languageFlags.forEach(flag => {
+                const href = flag.getAttribute('href');
                 if ((currentPath === '/' && href === '/') ||
                     (currentPath.startsWith('/es') && href === '/es/') ||
                     (currentPath.startsWith('/fr') && href === '/fr/')) {
-                    option.classList.add('current');
+                    flag.classList.add('current');
                 }
             });
         });

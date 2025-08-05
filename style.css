@@ -210,7 +210,7 @@ a.download-nav:hover {
     transition: transform 0.2s ease;
 }
 
-.language-button.open .chevron {
+.language-button.show .chevron {
     transform: rotate(180deg);
 }
 
@@ -220,15 +220,15 @@ a.download-nav:hover {
     right: 0;
     background: var(--bg-primary);
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 12px;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
     backdrop-filter: blur(20px);
-    min-width: 140px;
     opacity: 0;
     visibility: hidden;
     transform: translateY(-8px);
     transition: all 0.2s ease;
     z-index: 1001;
+    padding: 12px;
 }
 
 .language-menu.show {
@@ -237,6 +237,40 @@ a.download-nav:hover {
     transform: translateY(0);
 }
 
+.language-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    min-width: 160px;
+}
+
+.language-flag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    border-radius: 8px;
+    position: relative;
+}
+
+.language-flag:hover {
+    background: var(--bg-secondary);
+    transform: scale(1.1);
+}
+
+.language-flag.current {
+    background: var(--primary);
+    box-shadow: 0 2px 8px rgba(var(--primary-rgb), 0.3);
+}
+
+.language-flag .flag {
+    font-size: 20px;
+    line-height: 1;
+}
+
+/* Legacy support for old language-option class */
 .language-option {
     display: flex;
     align-items: center;

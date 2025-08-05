@@ -1,9 +1,11 @@
 <!-- Desktop Navigation Actions -->
 <li><a href="https://apps.apple.com/app/id6749011205" class="download-nav">{{NAV_DOWNLOAD}}</a></li>
-<li class="language-switcher">
-    <button class="language-button" onclick="toggleLanguageMenu()">
+<li class="language-switcher desktop-language-switcher">
+    <button class="language-button" onclick="toggleLanguageMenu('desktop')">
         <span class="flag">{{COUNTRY_FLAG}}</span>
         <span class="chevron">▼</span>
     </button>
-    {{include:language-menu.template.html}}
+    <div class="language-menu" id="desktopLanguageMenu">
+        {{include:language-grid.template.html}}
+    </div>
 </li>

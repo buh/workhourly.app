@@ -1,11 +1,13 @@
 <!-- Mobile Navigation -->
 <div class="mobile-nav">
     <a href="https://apps.apple.com/app/id6749011205" class="mobile-download">{{NAV_DOWNLOAD}}</a>
-    <div class="language-switcher">
-        <button class="language-button" onclick="toggleLanguageMenu()">
+    <div class="language-switcher mobile-language-switcher">
+        <button class="language-button" onclick="toggleLanguageMenu('mobile')">
             <span class="flag">{{COUNTRY_FLAG}}</span>
             <span class="chevron">▼</span>
         </button>
-        {{include:language-menu.template.html}}
+        <div class="language-menu" id="mobileLanguageMenu">
+            {{include:language-grid.template.html}}
+        </div>
     </div>
 </div>
