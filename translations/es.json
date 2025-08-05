@@ -1,0 +1,40 @@
+{
+  "LANG_CODE": "es",
+  "SITE_TITLE": "WorkHourly - Seguimiento de Tiempo para Profesionales | Rastrea Horas, Recibe Pago",
+  "META_DESCRIPTION": "Seguimiento profesional de tiempo con facturas PDF, gestión de gastos y documentación fotográfica. Nunca pierdas pago por horas extra. Funciona sin conexión. Disponible en 33 idiomas.",
+  "META_KEYWORDS": "seguimiento de tiempo, generador de facturas, app para freelancers, herramientas para contratistas, facturas PDF, rastreador de gastos, horas de trabajo, calculadora de horas extra, rastreador de tiempo profesional, app iOS",
+  "OG_TITLE": "WorkHourly - Seguimiento de Tiempo para Profesionales",
+  "OG_DESCRIPTION": "Rastrea tiempo para todos tus clientes, calcula ganancias al instante y nunca olvides facturar horas extra. Funciona sin conexión con respaldo iCloud.",
+  "TWITTER_TITLE": "WorkHourly - Seguimiento de Tiempo para Profesionales",
+  "TWITTER_DESCRIPTION": "Rastrea tiempo para todos tus clientes, calcula ganancias al instante y nunca olvides facturar horas extra.",
+  "SCHEMA_DESCRIPTION": "Seguimiento profesional de tiempo con facturación PDF, gestión de gastos y documentación fotográfica.",
+  
+  "NAV_FEATURES": "Características",
+  "NAV_INVOICES": "Facturas",
+  "NAV_WIDGETS": "Widgets",
+  "NAV_PRICING": "Gratis vs Pro",
+  "NAV_FAQ": "Preguntas",
+  "NAV_DOWNLOAD": "Descargar",
+  
+  "HERO_TITLE": "Recibe Pago por <span class=\"gradient\">Cada Hora</span><br>que <span class=\"gradient\">Trabajas</span>",
+  "HERO_SUBTITLE": "Rastrea tiempo, calcula ganancias al instante, genera facturas PDF y nunca pierdas facturar horas extra. Todo en una app para profesionales que exigen precisión.",
+  "CTA_PRIMARY": "Empezar",
+  "CTA_SECONDARY": "Ver cómo funciona",
+  
+  "TRUST_OFFLINE": "100% Sin Conexión",
+  "TRUST_LANGUAGES": "33 Idiomas",
+  "TRUST_COUNTRIES": "80+ Países",
+  
+  "WIDGETS_TITLE": "Tu Horario de un Vistazo",
+  "WIDGETS_SUBTITLE": "Mantente al día con tu próximo trabajo sin abrir la app. Los widgets de horario muestran tus próximos turnos, estado actual del trabajo y cuentas regresivas en vivo - todo actualizándose automáticamente en tu pantalla principal y pantalla de bloqueo.",
+  "WIDGETS_SIZES_TITLE": "Tamaños de Widget Disponibles",
+  "WIDGET_SIZE_SMALL": "Pequeño",
+  "WIDGET_SIZE_MEDIUM": "Mediano",
+  "WIDGET_SIZE_LOCK": "Pantalla de Bloqueo",
+  
+  "PDF_TITLE": "Facturas PDF Profesionales en Segundos",
+  "PDF_SUBTITLE": "Genera facturas de alta calidad que impresionan a los clientes y te ayudan a recibir pago más rápido. Cada detalle está perfectamente formateado y listo para enviar",
+  
+  "FOOTER_CTA": "Tu Trabajo Importa",
+  "FOOTER_DOWNLOAD": "Empezar a Rastrear Tiempo"
+}

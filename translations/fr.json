@@ -1,0 +1,40 @@
+{
+  "LANG_CODE": "fr",
+  "SITE_TITLE": "WorkHourly - Suivi du Temps pour Professionnels | Suivez les Heures, Soyez Payé",
+  "META_DESCRIPTION": "Suivi professionnel du temps avec factures PDF, gestion des dépenses et documentation photo. Ne manquez jamais le paiement des heures supplémentaires. Fonctionne hors ligne. Disponible en 33 langues.",
+  "META_KEYWORDS": "suivi du temps, générateur de factures, app pour freelancers, outils pour entrepreneurs, factures PDF, suivi des dépenses, heures de travail, calculatrice d'heures supplémentaires, suivi du temps professionnel, app iOS",
+  "OG_TITLE": "WorkHourly - Suivi du Temps pour Professionnels",
+  "OG_DESCRIPTION": "Suivez le temps pour tous vos clients, calculez les gains instantanément et n'oubliez jamais de facturer les heures supplémentaires. Fonctionne hors ligne avec sauvegarde iCloud.",
+  "TWITTER_TITLE": "WorkHourly - Suivi du Temps pour Professionnels",
+  "TWITTER_DESCRIPTION": "Suivez le temps pour tous vos clients, calculez les gains instantanément et n'oubliez jamais de facturer les heures supplémentaires.",
+  "SCHEMA_DESCRIPTION": "Suivi professionnel du temps avec facturation PDF, gestion des dépenses et documentation photo.",
+  
+  "NAV_FEATURES": "Fonctionnalités",
+  "NAV_INVOICES": "Factures",
+  "NAV_WIDGETS": "Widgets",
+  "NAV_PRICING": "Gratuit vs Pro",
+  "NAV_FAQ": "Questions",
+  "NAV_DOWNLOAD": "Télécharger",
+  
+  "HERO_TITLE": "Soyez Payé pour <span class=\"gradient\">Chaque Heure</span><br>que Vous <span class=\"gradient\">Travaillez</span>",
+  "HERO_SUBTITLE": "Suivez le temps, calculez les gains instantanément, générez des factures PDF et ne manquez jamais de facturer les heures supplémentaires. Tout dans une app pour les professionnels qui exigent la précision.",
+  "CTA_PRIMARY": "Commencer",
+  "CTA_SECONDARY": "Voir comment ça marche",
+  
+  "TRUST_OFFLINE": "100% Hors Ligne",
+  "TRUST_LANGUAGES": "33 Langues",
+  "TRUST_COUNTRIES": "80+ Pays",
+  
+  "WIDGETS_TITLE": "Votre Horaire en un Coup d'Œil",
+  "WIDGETS_SUBTITLE": "Suivez votre prochain travail sans ouvrir l'app. Les widgets d'horaire affichent vos prochains quarts, l'état actuel du travail et les comptes à rebours en direct - tout se met à jour automatiquement sur votre écran d'accueil et écran de verrouillage.",
+  "WIDGETS_SIZES_TITLE": "Tailles de Widget Disponibles",
+  "WIDGET_SIZE_SMALL": "Petit",
+  "WIDGET_SIZE_MEDIUM": "Moyen",
+  "WIDGET_SIZE_LOCK": "Écran de Verrouillage",
+  
+  "PDF_TITLE": "Factures PDF Professionnelles en Secondes",
+  "PDF_SUBTITLE": "Générez des factures de haute qualité qui impressionnent les clients et vous font payer plus rapidement. Chaque détail est parfaitement formaté et prêt à envoyer",
+  
+  "FOOTER_CTA": "Votre Travail Compte",
+  "FOOTER_DOWNLOAD": "Commencer le Suivi du Temps"
+}
