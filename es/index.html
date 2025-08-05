@@ -69,8 +69,31 @@
                 <li><a href="#widgets">Widgets</a></li>
                 <li><a href="#pricing">Gratis vs Pro</a></li>
                 <li><a href="#faq">Preguntas</a></li>
+                <li class="language-switcher">
+                    <button class="language-button" onclick="toggleLanguageMenu()">
+                        <span class="flag">🇪🇸</span>
+                        <span class="chevron">▼</span>
+                    </button>
+                    <div class="language-menu" id="languageMenu">
+                        <a href="/" class="language-option">
+                            <span class="flag">🇺🇸</span>
+                            <span>English</span>
+                        </a>
+                        <a href="/es/" class="language-option">
+                            <span class="flag">🇪🇸</span>
+                            <span>Español</span>
+                        </a>
+                        <a href="/fr/" class="language-option">
+                            <span class="flag">🇫🇷</span>
+                            <span>Français</span>
+                        </a>
+                    </div>
+                </li>
                 <li><a href="https://apps.apple.com/app/id6749011205" class="download-nav">Descargar</a></li>
             </ul>
+            <div class="mobile-nav">
+                <a href="https://apps.apple.com/app/id6749011205" class="mobile-download">Descargar</a>
+            </div>
         </nav>
     </header>
 
@@ -552,6 +575,51 @@
                 // Open clicked item if it wasn't active
                 if (!isActive) {
                     item.classList.add('active');
+                }
+            });
+        });
+
+        // Language switcher
+        function toggleLanguageMenu() {
+            const menu = document.getElementById('languageMenu');
+            const button = document.querySelector('.language-button');
+            
+            if (menu && button) {
+                const isOpen = menu.classList.contains('show');
+                
+                if (isOpen) {
+                    menu.classList.remove('show');
+                    button.classList.remove('open');
+                } else {
+                    menu.classList.add('show');
+                    button.classList.add('open');
+                }
+            }
+        }
+
+        // Close language menu when clicking outside
+        document.addEventListener('click', (e) => {
+            const languageSwitcher = document.querySelector('.language-switcher');
+            const menu = document.getElementById('languageMenu');
+            const button = document.querySelector('.language-button');
+            
+            if (languageSwitcher && menu && button && !languageSwitcher.contains(e.target)) {
+                menu.classList.remove('show');
+                button.classList.remove('open');
+            }
+        });
+
+        // Highlight current language
+        document.addEventListener('DOMContentLoaded', () => {
+            const currentPath = window.location.pathname;
+            const languageOptions = document.querySelectorAll('.language-option');
+            
+            languageOptions.forEach(option => {
+                const href = option.getAttribute('href');
+                if ((currentPath === '/' && href === '/') ||
+                    (currentPath.startsWith('/es') && href === '/es/') ||
+                    (currentPath.startsWith('/fr') && href === '/fr/')) {
+                    option.classList.add('current');
                 }
             });
         });
