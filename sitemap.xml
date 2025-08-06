@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- English (Default) -->
+    <url>
+        <loc>https://workhourly.app/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://workhourly.app/" />
+        <xhtml:link rel="alternate" hreflang="bg" href="https://workhourly.app/bg/" />
+        <xhtml:link rel="alternate" hreflang="cs" href="https://workhourly.app/cs/" />
+        <xhtml:link rel="alternate" hreflang="da" href="https://workhourly.app/da/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://workhourly.app/de/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://workhourly.app/es/" />
+        <xhtml:link rel="alternate" hreflang="fi" href="https://workhourly.app/fi/" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://workhourly.app/fr/" />
+        <xhtml:link rel="alternate" hreflang="hu" href="https://workhourly.app/hu/" />
+        <xhtml:link rel="alternate" hreflang="id" href="https://workhourly.app/id/" />
+        <xhtml:link rel="alternate" hreflang="it" href="https://workhourly.app/it/" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://workhourly.app/ja/" />
+        <xhtml:link rel="alternate" hreflang="ko" href="https://workhourly.app/ko/" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://workhourly.app/nl/" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://workhourly.app/no/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://workhourly.app/pl/" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://workhourly.app/pt/" />
+        <xhtml:link rel="alternate" hreflang="ro" href="https://workhourly.app/ro/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://workhourly.app/ru/" />
+        <xhtml:link rel="alternate" hreflang="sv" href="https://workhourly.app/sv/" />
+        <xhtml:link rel="alternate" hreflang="th" href="https://workhourly.app/th/" />
+        <xhtml:link rel="alternate" hreflang="tr" href="https://workhourly.app/tr/" />
+        <xhtml:link rel="alternate" hreflang="uk" href="https://workhourly.app/uk/" />
+        <xhtml:link rel="alternate" hreflang="vi" href="https://workhourly.app/vi/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://workhourly.app/zh-cn/" />
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://workhourly.app/zh-tw/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://workhourly.app/" />
+    </url>
+
+    <!-- Bulgarian -->
+    <url>
+        <loc>https://workhourly.app/bg/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Czech -->
+    <url>
+        <loc>https://workhourly.app/cs/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Danish -->
+    <url>
+        <loc>https://workhourly.app/da/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- German -->
+    <url>
+        <loc>https://workhourly.app/de/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Spanish -->
+    <url>
+        <loc>https://workhourly.app/es/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Finnish -->
+    <url>
+        <loc>https://workhourly.app/fi/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- French -->
+    <url>
+        <loc>https://workhourly.app/fr/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Hungarian -->
+    <url>
+        <loc>https://workhourly.app/hu/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Indonesian -->
+    <url>
+        <loc>https://workhourly.app/id/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Italian -->
+    <url>
+        <loc>https://workhourly.app/it/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Japanese -->
+    <url>
+        <loc>https://workhourly.app/ja/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Korean -->
+    <url>
+        <loc>https://workhourly.app/ko/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Dutch -->
+    <url>
+        <loc>https://workhourly.app/nl/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Norwegian -->
+    <url>
+        <loc>https://workhourly.app/no/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Polish -->
+    <url>
+        <loc>https://workhourly.app/pl/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Portuguese -->
+    <url>
+        <loc>https://workhourly.app/pt/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Romanian -->
+    <url>
+        <loc>https://workhourly.app/ro/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Russian -->
+    <url>
+        <loc>https://workhourly.app/ru/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Swedish -->
+    <url>
+        <loc>https://workhourly.app/sv/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Thai -->
+    <url>
+        <loc>https://workhourly.app/th/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Turkish -->
+    <url>
+        <loc>https://workhourly.app/tr/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Ukrainian -->
+    <url>
+        <loc>https://workhourly.app/uk/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Vietnamese -->
+    <url>
+        <loc>https://workhourly.app/vi/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Chinese Simplified -->
+    <url>
+        <loc>https://workhourly.app/zh-cn/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Chinese Traditional -->
+    <url>
+        <loc>https://workhourly.app/zh-tw/</loc>
+        <lastmod>2025-08-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>

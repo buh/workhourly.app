@@ -78,6 +78,10 @@ class WorkHourlyBuilder {
     // First, process template includes
     html = this.processIncludes(html, translations);
     
+    // Add canonical path - empty for English, lang code + slash for others
+    const canonicalPath = translations.LANG_CODE === 'en' ? '' : translations.LANG_CODE + '/';
+    translations.CANONICAL_PATH = canonicalPath;
+    
     // Replace all {{TOKEN}} placeholders
     Object.entries(translations).forEach(([key, value]) => {
       const regex = new RegExp(`{{${key}}}`, 'g');

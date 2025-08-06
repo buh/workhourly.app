@@ -1,14 +1,49 @@
 # WorkHourly robots.txt
 User-agent: *
 Allow: /
+
+# Explicitly allow important resources for SEO
 Allow: /index.html
 Allow: /style.css
 Allow: /images/
+Allow: /icons/
+Allow: /fonts/
+Allow: /favicon.ico
+
+# Allow all language directories
+Allow: /bg/
+Allow: /cs/
+Allow: /da/
+Allow: /de/
+Allow: /es/
+Allow: /fi/
+Allow: /fr/
+Allow: /hu/
+Allow: /id/
+Allow: /it/
+Allow: /ja/
+Allow: /ko/
+Allow: /nl/
+Allow: /no/
+Allow: /pl/
+Allow: /pt/
+Allow: /ro/
+Allow: /ru/
+Allow: /sv/
+Allow: /th/
+Allow: /tr/
+Allow: /uk/
+Allow: /vi/
+Allow: /zh-cn/
+Allow: /zh-tw/
 
 # Block legal pages from all robots
 Disallow: /terms_of_service.html
 Disallow: /privacy_policy.html
 Disallow: /docs_style.css
+
+# Sitemap location
+Sitemap: https://workhourly.app/sitemap.xml
 
 # Block specific aggressive bots
 User-agent: GPTBot
