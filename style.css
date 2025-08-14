@@ -425,6 +425,31 @@ a.download-nav:hover {
     margin-bottom: 80px;
 }
 
+/* QR Code */
+.qr-code-container {
+    display: flex;
+    justify-content: center;
+}
+
+#download .qr-code-container {
+    margin-bottom: 20px;
+}
+
+.qr-code {
+    width: 160px !important;
+    height: 160px !important;
+    max-width: 160px;
+    max-height: 160px;
+    border-radius: 16px;
+}
+
+/* Hide QR code on mobile and tablets */
+@media (max-width: 1024px) {
+    .qr-code-container {
+        display: none !important;
+    }
+}
+
 .cta-primary {
     display: inline-flex;
     align-items: center;

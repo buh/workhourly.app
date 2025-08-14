@@ -147,6 +147,13 @@
                 <h1>{{HERO_TITLE}}</h1>
                 <p class="hero-subtitle">{{HERO_SUBTITLE}}</p>
                 <div class="cta-group">
+                    <div class="qr-code-container">
+                        <picture>
+                            <source srcset="/images/qr_code@light.png" media="(prefers-color-scheme: light)">
+                            <source srcset="/images/qr_code@dark.png" media="(prefers-color-scheme: dark)">
+                            <img src="/images/qr_code@light.png" class="qr-code" alt="Download QR Code" />
+                        </picture>
+                    </div>
                     <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
                         <span>{{CTA_PRIMARY}}</span>
                         <span>→</span>
@@ -565,6 +572,13 @@
             <section id="download">
                 <h2>{{FOOTER_CTA_TITLE}}</h2>
                 <p>{{FOOTER_CTA_SUBTITLE}}</p>
+                <div class="qr-code-container">
+                    <picture>
+                        <source srcset="/images/qr_code@light.png" media="(prefers-color-scheme: light)">
+                        <source srcset="/images/qr_code@dark.png" media="(prefers-color-scheme: dark)">
+                        <img src="/images/qr_code@light.png" class="qr-code" alt="Download QR Code" />
+                    </picture>
+                </div>
                 <a href="https://apps.apple.com/app/id6749011205" class="cta-primary">
                     <span>{{FOOTER_CTA_BUTTON}}</span>
                     <span>→</span>
