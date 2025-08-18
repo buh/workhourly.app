@@ -82,6 +82,17 @@ class WorkHourlyBuilder {
     const canonicalPath = translations.LANG_CODE === 'en' ? '' : translations.LANG_CODE + '/';
     translations.CANONICAL_PATH = canonicalPath;
     
+    // Add Apple Badge locale - handle special cases for Chinese
+    if (!translations.APPLE_BADGE_LOCALE) {
+      if (translations.LANG_CODE === 'zh-cn') {
+        translations.APPLE_BADGE_LOCALE = 'zh-CN';
+      } else if (translations.LANG_CODE === 'zh-tw') {
+        translations.APPLE_BADGE_LOCALE = 'zh-TW';
+      } else {
+        translations.APPLE_BADGE_LOCALE = `${translations.LANG_CODE}-${translations.COUNTRY_CODE}`;
+      }
+    }
+    
     // Replace all {{TOKEN}} placeholders
     Object.entries(translations).forEach(([key, value]) => {
       const regex = new RegExp(`{{${key}}}`, 'g');
