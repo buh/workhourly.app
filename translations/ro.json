@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇷🇴",
   "SITE_TITLE": "WorkHourly - Urmărire Timp pentru Profesioniști | Înregistrează ore, primește plata",
   "META_DESCRIPTION": "Urmărire profesională a timpului cu facturi PDF, gestionarea cheltuielilor și documentare foto. Nu rata niciodată plata orelor suplimentare. Funcționează offline. Disponibil în 33 de limbi.",
+  "META_KEYWORDS": "pontaj,factură,freelancer,tarif orar,client,ore suplimentare,proiect,timesheet,plată",
   "OG_TITLE": "WorkHourly - Urmărire Timp pentru Profesioniști",
   "OG_DESCRIPTION": "Urmărește timpul pentru toți clienții, calculează câștigurile instant și nu uita niciodată să facturezi orele suplimentare. Funcționează offline cu backup iCloud.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Uneori o imagine valorează cu adevărat o mie de cuvinte - mai ales când un client îți pune la îndoială factura mai târziu. În orice zi de muncă, apasă meniul cu trei puncte și selectează 'Adaugă o fotografie' pentru a dezvălui secțiunea Fotografii. Apoi apasă butonul plus pentru a alege între 'Fă fotografie' cu camera ta sau 'Alege din bibliotecă' pentru fotografii existente. Fotografiile înainte-după dovedesc că munca a fost făcută, fotografiile cu bonurile mențin urmărirea cheltuielilor onestă, și fotografiile de progres îi ajută pe clienți să își vadă banii la muncă. Totul rămâne privat pe telefonul tău. Este ca să ai o galerie fotografică profesională pentru fiecare muncă pe care o completezi.",
   "FAQ_Q14": "Cât de precise sunt calculele de câștiguri?",
   "FAQ_A14": "WorkHourly nu rotunjește în jos sau 'estimează' - calculează fiecare minut pe care l-ai câștigat. Lucrezi 3 ore și 45 de minute? Asta e exact ce se calculează, nu 'aproximativ 4 ore.' Amesteci o muncă de 2 ore dimineața cu un client de 8 ore după-amiaza care include ore suplimentare? WorkHourly gestionează complexitatea fără să transpire. Toată matematica se întâmplă direct pe telefonul tău folosind algoritmi pe care i-am testat cu mii de scenarii din lumea reală. Când vine timpul taxelor, sau când un client pune la îndoială o factură, te poți baza complet pe fiecare număr.",
-
   "FOOTER_CTA_TITLE": "Munca ta contează",
   "FOOTER_CTA_SUBTITLE": "Fiecare oră pe care o urmărești, fiecare client pe care îl gestionezi, fiecare factură pe care o trimiți - toate contează.",
   "FOOTER_CTA_BUTTON": "Începe să urmărești timpul",

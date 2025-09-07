@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇨🇿",
   "SITE_TITLE": "WorkHourly - Sledování času pro profesionály | Zaznamenávejte čas, dostávejte zaplaceno",
   "META_DESCRIPTION": "Profesionální sledování času s PDF faktury, správou výdajů a fotografickou dokumentací. Nikdy neztraťte příplatek za přesčas. Funguje offline. K dispozici v 33 jazycích.",
+  "META_KEYWORDS": "evidence času,faktura,freelance,hodinová sazba,výkaz práce,klient,přesčas,projekt,časovač",
   "OG_TITLE": "WorkHourly - Sledování času pro profesionály",
   "OG_DESCRIPTION": "Sledujte čas pro všechny klienty, okamžitě počítejte příjmy a nikdy nezapomeňte účtovat přesčas. Funguje offline se zálohou iCloud.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Někdy obrázek opravdu stojí za tisíc slov - zejména když klient později zpochybňuje váš účet. V jakýkoliv pracovní den klepněte na menu tří teček a vyberte 'Přidat fotku' pro zobrazení sekce fotografií. Poté klepněte na tlačítko plus pro volbu mezi 'Pořídit fotku' vaším fotoaparátem nebo 'Vybrat z knihovny' pro existující fotky. Fotky před-a-po dokazují, že práce byla udělána, fotky účtenek udržují sledování výdajů poctivé a fotky pokroku pomáhají klientům vidět své peníze v práci. Vše zůstává soukromé ve vašem telefonu. Je to jako mít profesionální fotogalerii pro každou práci, kterou dokončíte.",
   "FAQ_Q14": "Jak přesné jsou výpočty příjmů?",
   "FAQ_A14": "WorkHourly nezaokrouhluje ani 'neodhaduje' - počítá každou minutu, kterou jste vydělali. Pracujete 3 hodiny a 45 minut? To je přesně to, co se počítá, ne 'asi 4 hodiny.' Míchate 2hodinovou ranní práci s 8hodinovým odpoledním klientem, který zahrnuje přesčas? WorkHourly zvládá složitost bez pocení. Všechny výpočty se dějí přímo ve vašem telefonu s algoritmy, které jsme testovali s tisíci reálných scénářů. Když přijde daňový čas nebo klient zpochybní účet, můžete úplně důvěřovat každému číslu.",
-  
   "FOOTER_CTA_TITLE": "Vaše práce se počítá",
   "FOOTER_CTA_SUBTITLE": "Každá hodina, kterou sledujete, každý klient, kterého spravujete, každá faktura, kterou pošlete - vše se počítá.",
   "FOOTER_CTA_BUTTON": "Začít sledování času",

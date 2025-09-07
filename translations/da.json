@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇩🇰",
   "SITE_TITLE": "WorkHourly - Tidsstyring for professionelle | Registrer tid, få betalt",
   "META_DESCRIPTION": "Professionel tidsstyring med PDF-fakturaer, udgiftshåndtering og fotodokumentation. Mist aldrig overarbejdsbetaling. Fungerer offline. Tilgængelig på 33 sprog.",
+  "META_KEYWORDS": "tidsregistrering,faktura,freelance,timeløn,timeseddel,kunde,overtid,projekt,arbejdstid",
   "OG_TITLE": "WorkHourly - Tidsstyring for professionelle",
   "OG_DESCRIPTION": "Spor tid for alle kunder, beregn indtægt øjeblikkeligt og glem aldrig at fakturere for overarbejde. Fungerer offline med iCloud-backup.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Nogle gange er et billede virkelig tusind ord værd - især når kunder senere stiller spørgsmålstegn ved din regning. På en hvilken som helst arbejdsdag, tryk på tre-prik-menuen og vælg 'Tilføj billeder' for at vise billededelen. Tryk derefter på plus-knappen for at vælge mellem 'Tag billede' med dit kamera eller 'Vælg fra bibliotek' for eksisterende billeder. Før-og-efter-billeder beviser, at arbejdet er færdigt, kvitteringsbilleder holder udgiftssporing ærlig, og fremgangsbilleder hjælper kunder med at se deres penge i arbejde. Alt holdes privat på din telefon. Det er som at have et professionelt billedgalleri for hvert job, du fuldfører.",
   "FAQ_Q14": "Hvor nøjagtige er indtægtsberegningerne?",
   "FAQ_A14": "WorkHourly afrunder ikke eller 'estimerer' - den beregner hvert minut, du tjener. Arbejdede 3 timer og 45 minutter? Det er præcis det, der beregnes, ikke 'omkring 4 timer.' Du blandede morgenarbejde på 2 timer med en eftermiddagskunde på 8 timer, der inkluderede overarbejde? WorkHourly håndterer kompleksiteten uden at svede. Alle beregninger sker direkte på din telefon med algoritmer, vi har testet med tusindvis af virkelige scenarier. Når skattetiden kommer, eller kunder stiller spørgsmålstegn ved regninger, kan du helt stole på hvert tal.",
-  
   "FOOTER_CTA_TITLE": "Dit arbejde betyder noget",
   "FOOTER_CTA_SUBTITLE": "Hver time du sporer, hver kunde du administrerer, hver faktura du sender - det hele betyder noget.",
   "FOOTER_CTA_BUTTON": "Start tidssporing",

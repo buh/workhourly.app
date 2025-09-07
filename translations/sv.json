@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇸🇪",
   "SITE_TITLE": "WorkHourly - Tidsredovisning för yrkesverksamma | Registrera tid, få betalt",
   "META_DESCRIPTION": "Professionell tidsredovisning med PDF-fakturor, utgiftshantering och fotodokumentation. Missa aldrig övertidsersättning. Fungerar offline. Tillgänglig på 33 språk.",
+  "META_KEYWORDS": "tidrapportering,faktura,frilans,timpris,tidrapport,kund,övertid,projekt,arbetstid,konsult",
   "OG_TITLE": "WorkHourly - Tidsredovisning för yrkesverksamma",
   "OG_DESCRIPTION": "Spåra tid för alla dina kunder, beräkna intäkter direkt och glöm aldrig att fakturera övertid. Fungerar offline med iCloud-backup.",
 
@@ -115,7 +116,6 @@
   "FAQ_A13": "Ibland är en bild verkligen värd tusen ord - särskilt när en kund senare ifrågasätter din räkning. På vilken arbetsdag som helst, tryck på menyn med tre punkter och välj 'Lägg till foto' för att visa fotosektionen. Tryck sedan på plus-knappen för att välja mellan 'Ta foto' med din kamera eller 'Välj från bibliotek' för befintliga foton. Före-efter-bilder bevisar att arbetet är gjort, kvittobilder håller utgiftsspårning ärligt, och förloppsfotografier hjälper kunder se sina pengar i arbete. Allt förblir privat på din telefon. Det är som att ha ett professionellt fotogalleri för varje jobb du slutför.",
   "FAQ_Q14": "Hur exakta är intäktsberäkningarna?",
   "FAQ_A14": "WorkHourly avrundar inte eller 'uppskattar' - det beräknar varje minut du tjänat. Arbetar du 3 timmar och 45 minuter? Det är exakt vad som beräknas, inte 'ungefär 4 timmar.' Blandar du ett 2-timmars morgonarbete med en 8-timmars eftermiddagskund som inkluderar övertid? WorkHourly hanterar komplexiteten utan att svettas. Alla beräkningar sker direkt på din telefon med algoritmer vi testat med tusentals verkliga scenarion. När skattetiden kommer eller en kund ifrågasätter en räkning kan du helt lita på varje siffra.",
-  
   "FAQ_Q2": "Är WorkHourly lämpligt för min typ av arbete?",
   
   "FOOTER_CTA_TITLE": "Ditt arbete räknas",

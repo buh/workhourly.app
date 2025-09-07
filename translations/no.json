@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇳🇴",
   "SITE_TITLE": "WorkHourly - Tidssporing for profesjonelle | Registrer tid, få betalt",
   "META_DESCRIPTION": "Profesjonell tidssporing med PDF-fakturaer, utgiftshåndtering og fotodokumentasjon. Mist aldri overtidsbetaling. Fungerer offline. Tilgjengelig på 33 språk.",
+  "META_KEYWORDS": "timeregistrering,faktura,frilans,timepris,timeliste,kunde,overtid,prosjekt,arbeidstid",
   "OG_TITLE": "WorkHourly - Tidssporing for profesjonelle",
   "OG_DESCRIPTION": "Spor tid for alle kunder, beregn inntekt øyeblikkelig og glem aldri å fakturere for overtid. Fungerer offline med iCloud-backup.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Noen ganger er et bilde virkelig verdt tusen ord - spesielt når kunder senere stiller spørsmål ved regningen din. På hvilken som helst arbeidsdag, trykk på tre-prikk-menyen og velg 'Legg til bilder' for å vise bildedelen. Trykk deretter på pluss-knappen for å velge mellom 'Ta bilde' med kameraet eller 'Velg fra bibliotek' for eksisterende bilder. Før-og-etter-bilder beviser at arbeidet er fullført, kvitteringsbilder holder utgiftssporing ærlig, og fremdriftsbilder hjelper kunder se pengene sine på jobb. Alt holdes privat på telefonen din. Det er som å ha et profesjonelt bildegalleri for hver jobb du fullfører.",
   "FAQ_Q14": "Hvor nøyaktige er inntektsberegningene?",
   "FAQ_A14": "WorkHourly runder ikke av eller 'estimerer' - den beregner hvert minutt du tjener. Jobbet 3 timer og 45 minutter? Det er nøyaktig det som beregnes, ikke 'omtrent 4 timer.' Du blandet morgenarbeid på 2 timer med en ettermiddagskunde på 8 timer som inkluderte overtid? WorkHourly håndterer kompleksiteten uten å svette. Alle beregninger skjer direkte på telefonen din med algoritmer vi har testet med tusenvis av virkelige scenarier. Når skattetiden kommer eller kunder stiller spørsmål ved regninger, kan du stole fullstendig på hvert tall.",
-  
   "FOOTER_CTA_TITLE": "Arbeidet ditt betyr noe",
   "FOOTER_CTA_SUBTITLE": "Hver time du sporer, hver kunde du administrerer, hver faktura du sender - alt betyr noe.",
   "FOOTER_CTA_BUTTON": "Start tidssporing",

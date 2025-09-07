@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇫🇮",
   "SITE_TITLE": "WorkHourly - Työajan seuranta ammattilaisille | Seuraa tunteja, saa palkkaa",
   "META_DESCRIPTION": "Ammattimainen työajan seuranta PDF-laskuilla, kulujen hallinta ja valokuvaus. Älä koskaan menetä ylityökorvausta. Toimii offline-tilassa. Saatavilla 33 kielellä.",
+  "META_KEYWORDS": "työajanseuranta,lasku,freelance,tuntipalkka,tuntikirjaus,asiakas,ylityö,projekti,työaika",
   "OG_TITLE": "WorkHourly - Työajan seuranta ammattilaisille",
   "OG_DESCRIPTION": "Seuraa aikaa kaikille asiakkaille, laske tulot välittömästi äläkä koskaan unohda laskuttaa ylitöitä. Toimii offline-tilassa iCloud-varmuuskopioinnin kanssa.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Joskus kuva todella on tuhat sanaa arvoinen - varsinkin kun asiakas kyseenalaistaa laskusi myöhemmin. Minä tahansa työpäivänä, napauta kolmen pisteen valikko ja valitse 'Lisää kuva' paljastaaksesi kuvat-osion. Sitten napauta plus-nappi valitaksesi 'Ota kuva' kamerallasi tai 'Valitse kirjastosta' olemassa oleville kuville. Ennen-jälkeen kuvat todistavat että työ tehtiin, kuittikuvat pitävät kulujen seurannan rehellisenä, ja edistymiskuvat auttavat asiakkaita näkemään rahansa työssä. Kaikki pysyy yksityisenä puhelimessasi. Se on kuin ammattimainen valokuvagalleria jokaiselle työlle jonka suoritat.",
   "FAQ_Q14": "Kuinka tarkkoja tulolaskelmat ovat?",
   "FAQ_A14": "WorkHourly ei pyöristä alaspäin tai 'arvioi' - se laskee jokaisen minuutin jonka olet ansainnut. Työskentelet 3 tuntia ja 45 minuuttia? Se on juuri sitä mitä lasketaan, ei 'noin 4 tuntia.' Sekoitat 2 tunnin aamupäivän työn 8 tunnin iltapäivän asiakkaan kanssa joka sisältää ylitöitä? WorkHourly hoitaa monimutkaisuuden hikoilematta. Kaikki matematiikka tapahtuu suoraan puhelimessasi algoritmeja käyttäen joita olemme testanneet tuhansilla todellisen maailman skenaarioilla. Kun verojen aika tulee, tai kun asiakas kyseenalaistaa laskun, voit luottaa jokaiseen numeroon täysin.",
-
   "FOOTER_CTA_TITLE": "Työsi on tärkeää",
   "FOOTER_CTA_SUBTITLE": "Jokainen tunti jonka seuraat, jokainen asiakas jota hallinnoit, jokainen lasku jonka lähetät - kaikki on tärkeää.",
   "FOOTER_CTA_BUTTON": "Aloita ajan seuranta",

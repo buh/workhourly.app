@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇵🇱",
   "SITE_TITLE": "WorkHourly - Ewidencja czasu dla profesjonalistów | Rejestruj czas, otrzymuj płatność",
   "META_DESCRIPTION": "Profesjonalna ewidencja czasu z fakturami PDF, zarządzaniem wydatkami i dokumentacją fotograficzną. Nigdy nie przegap dopłat za nadgodziny. Działa offline. Dostępne w 33 językach.",
+  "META_KEYWORDS": "czas pracy,faktura,freelancer,stawka godzinowa,ewidencja,klient,nadgodziny,projekt,rozliczenie",
   "OG_TITLE": "WorkHourly - Ewidencja czasu dla profesjonalistów",
   "OG_DESCRIPTION": "Śledź czas dla wszystkich klientów, natychmiast obliczaj przychody i nigdy nie zapominaj o rozliczaniu nadgodzin. Działa offline z kopią zapasową iCloud.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Czasami obraz naprawdę jest wart tysiąca słów - szczególnie gdy klient później kwestionuje Twój rachunek. W każdym dniu pracy stuknij menu trzech kropek i wybierz 'Dodaj zdjęcie', aby pokazać sekcję zdjęć. Następnie stuknij przycisk plus, aby wybrać między 'Zrób zdjęcie' aparatem lub 'Wybierz z biblioteki' dla istniejących zdjęć. Zdjęcia przed-po dowodzą, że praca została wykonana, zdjęcia paragonów utrzymują śledzenie wydatków uczciwe, a zdjęcia postępu pomagają klientom zobaczyć swoje pieniądze w pracy. Wszystko pozostaje prywatne na Twoim telefonie. To jak posiadanie profesjonalnej galerii zdjęć dla każdej pracy, którą ukończysz.",
   "FAQ_Q14": "Jak dokładne są obliczenia przychodów?",
   "FAQ_A14": "WorkHourly nie zaokrągla ani nie 'szacuje' - oblicza każdą minutę, którą zarobiłeś. Pracujesz 3 godziny i 45 minut? To dokładnie to, co jest obliczane, nie 'około 4 godzin.' Mieszasz 2-godzinną poranną pracę z 8-godzinnym popołudniowym klientem, który obejmuje nadgodziny? WorkHourly radzi sobie ze złożonością bez pocenia się. Wszystkie obliczenia odbywają się bezpośrednio na Twoim telefonie z algorytmami, które testowaliśmy z tysiącami rzeczywistych scenariuszy. Gdy nadchodzi czas podatkowy lub klient kwestionuje rachunek, możesz całkowicie zaufać każdej liczbie.",
-  
   "FOOTER_CTA_TITLE": "Twoja praca się liczy",
   "FOOTER_CTA_SUBTITLE": "Każda godzina, którą śledzisz, każdy klient, którym zarządzasz, każda faktura, którą wysyłasz - wszystko się liczy.",
   "FOOTER_CTA_BUTTON": "Rozpocznij ewidencję czasu",

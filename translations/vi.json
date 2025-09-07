@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇻🇳",
   "SITE_TITLE": "WorkHourly - Theo dõi thời gian cho chuyên gia | Ghi nhận thời gian, nhận lương",
   "META_DESCRIPTION": "Theo dõi thời gian chuyên nghiệp với hóa đơn PDF, quản lý chi phí và tài liệu ảnh. Không bao giờ mất tiền làm thêm giờ. Hoạt động offline. Hỗ trợ 33 ngôn ngữ.",
+  "META_KEYWORDS": "chấm công,hoá đơn,làm tự do,lương theo giờ,khách hàng,dự án,tăng ca,bảng công,thanh toán,cộng tác",
   "OG_TITLE": "WorkHourly - Theo dõi thời gian cho chuyên gia",
   "OG_DESCRIPTION": "Theo dõi thời gian cho tất cả khách hàng, tính toán thu nhập ngay lập tức và không bao giờ quên tính phí làm thêm giờ. Hoạt động offline với sao lưu iCloud.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Đôi khi một hình ảnh thực sự đáng giá ngàn lời - đặc biệt khi khách hàng sau đó đặt câu hỏi về hóa đơn của bạn. Trong bất kỳ ngày làm việc nào, chạm vào menu ba chấm và chọn 'Thêm ảnh' để hiển thị phần ảnh. Sau đó chạm nút cộng để chọn giữa 'Chụp ảnh' bằng máy ảnh của bạn hoặc 'Chọn từ thư viện' cho ảnh hiện có. Ảnh trước-sau chứng minh công việc đã được hoàn thành, ảnh biên lai giữ cho việc theo dõi chi phí trung thực, và ảnh tiến độ giúp khách hàng thấy tiền của họ trong công việc. Mọi thứ được giữ riêng tư trong điện thoại của bạn. Nó như có một thư viện ảnh chuyên nghiệp cho mỗi công việc bạn hoàn thành.",
   "FAQ_Q14": "Tính toán thu nhập chính xác đến mức nào?",
   "FAQ_A14": "WorkHourly không làm tròn hoặc 'ước tính' - nó tính toán từng phút bạn kiếm được. Làm việc 3 giờ 45 phút? Đó chính xác là những gì được tính toán, không phải 'khoảng 4 giờ.' Bạn trộn lẫn công việc buổi sáng 2 giờ với khách hàng buổi chiều 8 giờ bao gồm làm thêm giờ? WorkHourly xử lý sự phức tạp mà không cần đổ mồ hôi. Tất cả tính toán xảy ra trực tiếp trong điện thoại của bạn với các thuật toán chúng tôi đã thử nghiệm với hàng nghìn tình huống thực tế. Khi đến mùa thuế hoặc khách hàng đặt câu hỏi về hóa đơn, bạn có thể hoàn toàn tin tưởng vào từng con số.",
-  
   "FOOTER_CTA_TITLE": "Công việc của bạn có ý nghĩa",
   "FOOTER_CTA_SUBTITLE": "Mỗi giờ bạn theo dõi, mỗi khách hàng bạn quản lý, mỗi hóa đơn bạn gửi - tất cả đều có ý nghĩa.",
   "FOOTER_CTA_BUTTON": "Bắt đầu theo dõi thời gian",

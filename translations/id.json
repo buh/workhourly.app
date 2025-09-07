@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇮🇩",
   "SITE_TITLE": "WorkHourly - Pelacakan Waktu untuk Profesional | Catat Waktu, Terima Bayaran",
   "META_DESCRIPTION": "Pelacakan waktu profesional dengan invoice PDF, manajemen pengeluaran, dan dokumentasi foto. Jangan pernah kehilangan bayaran lembur. Bekerja offline. Tersedia dalam 33 bahasa.",
+  "META_KEYWORDS": "pencatat waktu,invoice,freelance,upah per jam,klien,lembur,proyek,tagihan,timesheet,honor",
   "OG_TITLE": "WorkHourly - Pelacakan Waktu untuk Profesional",
   "OG_DESCRIPTION": "Lacak waktu untuk semua klien, hitung pendapatan secara instan, dan jangan pernah lupa menagih lembur. Bekerja offline dengan backup iCloud.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Terkadang gambar benar-benar bernilai seribu kata - terutama ketika klien kemudian mempertanyakan tagihan Anda. Di hari kerja mana pun, ketuk menu tiga titik dan pilih 'Tambah Foto' untuk menampilkan bagian foto. Lalu ketuk tombol plus untuk memilih antara 'Ambil Foto' dengan kamera atau 'Pilih dari Library' untuk foto yang ada. Foto sebelum-sesudah membuktikan pekerjaan selesai, foto struk menjaga pelacakan pengeluaran jujur, dan foto kemajuan membantu klien melihat uang mereka bekerja. Semuanya tetap privat di ponsel Anda. Ini seperti punya galeri foto profesional untuk setiap pekerjaan yang Anda selesaikan.",
   "FAQ_Q14": "Seberapa akurat kalkulasi pendapatan?",
   "FAQ_A14": "WorkHourly tidak membulatkan atau 'memperkirakan' - menghitung setiap menit yang Anda hasilkan. Bekerja 3 jam 45 menit? Itulah persis yang dihitung, bukan 'sekitar 4 jam.' Anda campur kerja pagi 2 jam dengan klien siang 8 jam yang termasuk lembur? WorkHourly menangani kompleksitas tanpa berkeringat. Semua kalkulasi terjadi langsung di ponsel dengan algoritma yang kami tes dengan ribuan skenario nyata. Ketika waktu pajak datang atau klien mempertanyakan tagihan, Anda bisa sepenuhnya mempercayai setiap angka.",
-  
   "FOOTER_CTA_TITLE": "Pekerjaan Anda berarti",
   "FOOTER_CTA_SUBTITLE": "Setiap jam yang Anda lacak, setiap klien yang Anda kelola, setiap invoice yang Anda kirim - semuanya berarti.",
   "FOOTER_CTA_BUTTON": "Mulai pelacakan waktu",

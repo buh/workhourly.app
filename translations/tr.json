@@ -4,6 +4,7 @@
   "COUNTRY_FLAG": "🇹🇷",
   "SITE_TITLE": "WorkHourly - Profesyoneller için Zaman Takibi | Zamanı Kaydet, Para Kazan",
   "META_DESCRIPTION": "PDF faturalar, gider yönetimi ve fotoğraf belgeleme ile profesyonel zaman takibi. Asla mesaiyi kaybetmeyin. Çevrimdışı çalışır. 33 dilde mevcut.",
+  "META_KEYWORDS": "zaman takibi,fatura,serbest,saatlik ücret,mesai,müşteri,proje,puantaj,fazla mesai,ödeme",
   "OG_TITLE": "WorkHourly - Profesyoneller için Zaman Takibi",
   "OG_DESCRIPTION": "Tüm müşterileriniz için zamanı takip edin, kazancı anında hesaplayın ve mesai ücretini faturamayı asla unutmayın. iCloud yedekleme ile çevrimdışı çalışır.",
 
@@ -116,7 +117,6 @@
   "FAQ_A13": "Bazen bir resim gerçekten bin kelimeye değer - özellikle müşteri daha sonra faturanızı sorguladığında. Herhangi bir iş gününde, üç nokta menüsüne dokunun ve fotoğraf bölümünü göstermek için 'Fotoğraf Ekle'yi seçin. Sonra kameranızla 'Fotoğraf Çek' veya mevcut fotoğraflar için 'Kütüphaneden Seç' arasında seçim yapmak için artı düğmesine dokunun. Öncesi-sonrası fotoğrafları işin tamamlandığını kanıtlar, fiş fotoğrafları gider takibini dürüst tutar, ve ilerleme fotoğrafları müşterilerin paralarının işte olduğunu görmesine yardımcı olur. Her şey telefonunuzda özel kalır. Tamamladığınız her iş için profesyonel fotoğraf galerisine sahip olmak gibi.",
   "FAQ_Q14": "Gelir hesaplamaları ne kadar doğru?",
   "FAQ_A14": "WorkHourly yuvarlama yapmaz veya 'tahmin etmez' - kazandığınız her dakikayı hesaplar. 3 saat 45 dakika çalıştınız? İşte tam olarak hesaplanan bu, 'yaklaşık 4 saat' değil. Sabah 2 saatlik işi mesai içeren 8 saatlik öğleden sonra müşteriyle karıştırdınız? WorkHourly karmaşıklığı ter dökmeden halleder. Tüm hesaplamalar binlerce gerçek senaryoyla test ettiğimiz algoritmalarla doğrudan telefonunuzda gerçekleşir. Vergi zamanı geldiğinde veya müşteri faturayı sorguladığında, her rakama tamamen güvenebilirsiniz.",
-  
   "FOOTER_CTA_TITLE": "İşiniz önemli",
   "FOOTER_CTA_SUBTITLE": "Takip ettiğiniz her saat, yönettiğiniz her müşteri, gönderdiğiniz her fatura - hepsi önemli.",
   "FOOTER_CTA_BUTTON": "Zaman takibine başla",
