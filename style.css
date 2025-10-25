@@ -1241,6 +1241,12 @@ a.download-nav:hover {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
+    align-items: center;
+}
+
+.examples-title {
+    color: var(--text-secondary);
+    font-size: 15px;
 }
 
 .invoice-examples-compact a {
