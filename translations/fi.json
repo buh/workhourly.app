@@ -7,19 +7,16 @@
   "META_KEYWORDS": "työajanseuranta,lasku,freelance,tuntipalkka,tuntikirjaus,asiakas,ylityö,projekti,työaika",
   "OG_TITLE": "WorkHourly - Työajan seuranta ammattilaisille",
   "OG_DESCRIPTION": "Seuraa aikaa kaikille asiakkaille, laske tulot välittömästi äläkä koskaan unohda laskuttaa ylitöitä. Toimii offline-tilassa iCloud-varmuuskopioinnin kanssa.",
-
   "NAV_FEATURES": "Ominaisuudet",
-  "NAV_INVOICES": "Laskut", 
+  "NAV_INVOICES": "Laskut",
   "NAV_WIDGETS": "Widgetit",
   "NAV_PRICING": "Ilmainen vs Pro",
   "NAV_FAQ": "UKK",
   "NAV_DOWNLOAD": "Lataa",
-  
   "HERO_TITLE": "Saa palkkaa <span class=\"gradient\">jokaisesta tunnista</span> jonka <span class=\"gradient\">työskentelet</span>",
   "HERO_SUBTITLE": "Seuraa aikaa, laske tulot välittömästi, luo PDF-laskuja äläkä koskaan menetä ylityöiden laskutusta. Kaikki yhdessä sovelluksessa tarkkuutta vaativille ammattilaisille.",
   "CTA_PRIMARY": "Aloita",
   "CTA_SECONDARY": "Katso miten toimii",
-  
   "TRUST_TITLE": "Aina saatavilla, aina yksityinen",
   "TRUST_SUBTITLE": "Tietosi pysyvät laitteessasi. Ei palvelimia, ei käyttökatkoja, ei huolia.",
   "TRUST_BADGE_OFFLINE": "Offline ensin",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Seuraa aikaa, luo raportteja ja hallitse asiakkaita täysin offline-tilassa",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud-varmuuskopio <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Tietosi synkronoituvat yksityisesti iCloud-tilisi kautta",
-  
   "FEATURES_TITLE": "Kaikki mitä tarvitset, ei mitään turhaa",
   "FEATURES_SUBTITLE": "Viisi yksinkertaista näyttöä suunniteltu sille miten todella työskentelet",
-  
   "FEATURE_TODAY_TITLE": "Tänään - Seuraa nyt",
   "FEATURE_TODAY_DESC": "Käynnistä työpäiväsi nopeasti. Seuraa todellista vs suunniteltua aikaa. Lisää muistiinpanoja, kuluja ja kuvia työn aikana.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Aikataulu - Suunnittele etukäteen", 
+  "FEATURE_SCHEDULE_TITLE": "Aikataulu - Suunnittele etukäteen",
   "FEATURE_SCHEDULE_DESC": "Näe viikkosi yhdellä silmäyksellä. Lisää tulevia työaikatauluja. Älä koskaan varaa kaksinkertaisesti.",
-  
   "FEATURE_REPORTS_TITLE": "Raportit - Saa palkkaa",
   "FEATURE_REPORTS_DESC": "Luo PDF-laskuja välittömästi. Viikoittaiset tai kuukausittaiset raportit. Sisällytä kulut ja työmuistiinpanot.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analytiikka - Tunne arvosi",
   "FEATURE_ANALYTICS_DESC": "Näe tulotrendit ja mallit. Ymmärrä mitkä asiakkaat maksavat parhaiten. Seuraa liiketoimintasi kasvua.",
-  
   "FEATURE_SETTINGS_TITLE": "Asetukset - Omalla tavallasi",
   "FEATURE_SETTINGS_DESC": "Aseta hinnat kullekin asiakkaalle. Mukauta laskun yksityiskohdat.",
-  
   "FEATURE_CLIENTS_TITLE": "Useita asiakkaita",
   "FEATURE_CLIENTS_DESC": "Pidä jokainen asiakas erillään. Yksilölliset hinnat ja sopimukset. Vaihda projektien välillä saumattomasti.",
-  
   "PDF_TITLE": "Ammattimaiset PDF-laskut sekunneissa",
   "PDF_SUBTITLE": "Luo korkealaatuisia laskuja jotka tekevät vaikutuksen asiakkaisiin ja auttavat sinua saamaan palkkaa nopeammin. Jokainen yksityiskohta on täydellisesti muotoiltu ja valmis lähetettäväksi",
   "PDF_FEATURE_1": "Älykkäät verojen ja ylitöiden erittelyt",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Yrityksesi tiedot ja maksutiedot",
   "PDF_FEATURE_4": "Viikoittainen, kuukausittainen tai mukautettu aikaväli",
   "PDF_FEATURE_5": "Välitön PDF-vienti",
-  
   "WIDGETS_TITLE": "Aikataulusi yhdellä silmäyksellä",
   "WIDGETS_SUBTITLE": "Pysy ajan tasalla seuraavasta työstäsi avaamatta sovellusta. Aikatauluwidgetit näyttävät seuraavat vuorosi, nykyisen työn tilan ja reaaliaikaiset laskurit - kaikki päivittyy automaattisesti kotinäytöllä ja lukitusnäytöllä.",
   "WIDGETS_SIZES_TITLE": "Saatavilla olevat widget-koot",
   "WIDGET_SIZE_SMALL": "Pieni",
   "WIDGET_SIZE_MEDIUM": "Keskikokoinen",
   "WIDGET_SIZE_LOCK": "Lukitusnäyttö",
-  
   "PRICING_TITLE": "Aloita nyt, päivitä kun <span class=\"gradient\">kasvat</span>",
   "PRICING_SUBTITLE": "Kaikki mitä tarvitset yhden asiakkaan seuraamiseen on ilmaista. Ikuisesti.",
   "PRICING_FREE_TITLE": "Ilmainen",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Tulonäkymät",
   "PRICING_PRO_FEAT_7": "Kuukausiraportit",
   "PRICING_TRIAL": "2 viikon maksuton kokeilu",
-  
   "FAQ_TITLE": "Usein kysytyt kysymykset",
   "FAQ_Q1": "Mikä tekee WorkHourlystä erilaisen kuin muut aikaseurantasovellukset?",
   "FAQ_A1": "Useimmat aikaseurantasovellukset on rakennettu työntekijöille tai yksittäisille projekteille. WorkHourly on rakennettu erityisesti palveluammattilaisille jotka hallinnoivat useita asiakkaita erilaisilla hinnoilla ja aikatauluilla. Käsittelemme työsi todellisen maailman monimutkaisuuden: kulujen seuraaminen työkohtaisesti (ei vain päivittäin), työn dokumentointi valokuvilla, automaattinen ylitöiden tunnistus ja ammattimaisten laskujen luominen jotka todella saavat sinut maksetuksi. Kaikki toimii offline-tilassa ensin, joten olipa kyse kellarissa tai katolla, aikaseurantasi ei koskaan pysähdy.",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "Aloita ajan seuranta",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Kaikki oikeudet pidätetään.",
   "FOOTER_PRIVACY": "Tietosuojakäytäntö",
-  "FOOTER_TERMS": "Käyttöehdot"
+  "FOOTER_TERMS": "Käyttöehdot",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

@@ -7,19 +7,16 @@
   "META_KEYWORDS": "tidsregistrering,faktura,freelance,timeløn,timeseddel,kunde,overtid,projekt,arbejdstid",
   "OG_TITLE": "WorkHourly - Tidsstyring for professionelle",
   "OG_DESCRIPTION": "Spor tid for alle kunder, beregn indtægt øjeblikkeligt og glem aldrig at fakturere for overarbejde. Fungerer offline med iCloud-backup.",
-
   "NAV_FEATURES": "Funktioner",
-  "NAV_INVOICES": "Fakturaer", 
+  "NAV_INVOICES": "Fakturaer",
   "NAV_WIDGETS": "Widgets",
   "NAV_PRICING": "Gratis vs Pro",
   "NAV_FAQ": "FAQ",
   "NAV_DOWNLOAD": "Download",
-  
   "HERO_TITLE": "Få betalt for <span class=\"gradient\">hver time</span> du <span class=\"gradient\">arbejder</span>",
   "HERO_SUBTITLE": "Spor tid, beregn indtægt øjeblikkeligt, lav PDF-fakturaer og gå aldrig glip af overarbejde. Alt i én app for professionelle, der kræver præcision.",
   "CTA_PRIMARY": "Kom i gang",
   "CTA_SECONDARY": "Sådan fungerer det",
-  
   "TRUST_TITLE": "Altid tilgængelig, altid privat",
   "TRUST_SUBTITLE": "Dine data forbliver på din enhed. Ingen servere, ingen nedetid, ingen bekymringer.",
   "TRUST_BADGE_OFFLINE": "Offline først",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Spor tid, lav rapporter og administrer kunder helt offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud-backup <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Dine data synkroniseres privat gennem din iCloud-konto",
-  
   "FEATURES_TITLE": "Alt du har brug for, intet du ikke har brug for",
   "FEATURES_SUBTITLE": "Fem simple skærme, designet til hvordan du faktisk arbejder",
-  
   "FEATURE_TODAY_TITLE": "I dag - Spor nu",
   "FEATURE_TODAY_DESC": "Start arbejdsdagen hurtigt. Spor faktisk tid mod planlagt tid. Tilføj noter, udgifter og billeder mens du arbejder.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Tidsplan - Planlæg på forhånd", 
+  "FEATURE_SCHEDULE_TITLE": "Tidsplan - Planlæg på forhånd",
   "FEATURE_SCHEDULE_DESC": "Se din uge på et øjeblik. Tilføj fremtidige arbejdsmøder. Undgå dobbeltbooking.",
-  
   "FEATURE_REPORTS_TITLE": "Rapporter - Få betalt",
   "FEATURE_REPORTS_DESC": "Lav PDF-fakturaer øjeblikkeligt. Ugentlige eller månedlige rapporter. Inkluder arbejdsudgifter og noter.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analytics - Kend din værdi",
   "FEATURE_ANALYTICS_DESC": "Se indtægtstendenser og mønstre. Forstå hvilke kunder der betaler bedst. Spor din forretningsvækst.",
-  
   "FEATURE_SETTINGS_TITLE": "Indstillinger - På din måde",
   "FEATURE_SETTINGS_DESC": "Sæt priser for hver kunde. Tilpas fakturadetaljerne.",
-  
   "FEATURE_CLIENTS_TITLE": "Flere kunder",
   "FEATURE_CLIENTS_DESC": "Hold hver kunde adskilt. Individuelle priser og kontrakter. Skift problemfrit mellem projekter.",
-  
   "PDF_TITLE": "Professionelle PDF-fakturaer på sekunder",
   "PDF_SUBTITLE": "Lav højkvalitetsfakturaer, der imponerer kunder og fremskynder betaling. Hver detalje er perfekt formateret og klar til afsendelse",
   "PDF_FEATURE_1": "Smart skat- og overarbejdsdeling",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Dine forretningsoplysninger og betalingsdetaljer",
   "PDF_FEATURE_4": "Ugentlige, månedlige eller tilpassede datointervaller",
   "PDF_FEATURE_5": "Øjeblikkelig PDF-eksport",
-  
   "WIDGETS_TITLE": "Din tidsplan på et øjeblik",
   "WIDGETS_SUBTITLE": "Spor kommende jobs uden at åbne appen. Tidsplan-widgetten viser næste skift, nuværende jobstatus og live nedtælling - alt opdateres automatisk på hjemskærmen og låseskærmen.",
   "WIDGETS_SIZES_TITLE": "Tilgængelige widget-størrelser",
   "WIDGET_SIZE_SMALL": "Lille",
   "WIDGET_SIZE_MEDIUM": "Medium",
   "WIDGET_SIZE_LOCK": "Låseskærm",
-  
   "PRICING_TITLE": "Start nu, opgrader når du <span class=\"gradient\">vokser</span>",
   "PRICING_SUBTITLE": "Alt du har brug for til at spore én kunde gratis. For evigt.",
   "PRICING_FREE_TITLE": "Gratis",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Indtægtsindsigt",
   "PRICING_PRO_FEAT_7": "Månedlige rapporter",
   "PRICING_TRIAL": "2 ugers gratis prøveperiode",
-  
   "FAQ_TITLE": "Ofte stillede spørgsmål",
   "FAQ_Q1": "Hvad gør WorkHourly anderledes end andre tidssporing-apps?",
   "FAQ_A1": "De fleste tidssporing-apps er lavet til ansatte eller enkeltprojekter. WorkHourly er bygget specifikt til serviceprofessionelle, der arbejder med flere kunder med forskellige priser og tidsplaner. Vi håndterer den virkelige kompleksitet i dit arbejde: sporing af udgifter pr. job (ikke pr. dag), dokumentering af arbejde med billeder, automatisk overarbejdsdetektering og oprettelse af professionelle fakturaer, der faktisk sikrer, at du bliver betalt. Alt fungerer offline-først, så om du er i kælderen eller på taget, stopper din tidssporing aldrig.",
@@ -107,7 +93,7 @@
   "FAQ_A8": "Dine data går direkte fra din telefon til din private iCloud-konto - vi ser aldrig, rører eller har adgang til det. Tænk på det som en personlig bankboks, som kun du har nøglen til. Apple håndterer al kryptering og sikkerhed, så kundeoplysninger, indtægt og jobdetaljer forbliver helt private. Selv hvis du mister din telefon eller får en ny, synkroniseres alt præcis som du forlod det. Og husk, alt fungerer offline-først, så dine data er altid sikre på din enhed, uanset internet.",
   "FAQ_Q9": "Kan jeg prøve Pro-funktioner før jeg køber?",
   "FAQ_A9": "Gratisversionen er ikke en teaser - det er en komplet tidssporing-løsning for én kunde. Spor tid, log udgifter, tilføj noter og billeder, alt fungerer perfekt. De fleste starter her og indser, at WorkHourly giver mening. Når din virksomhed vokser, og du administrerer flere kunder, bliver Pro-funktioner som ubegrænsede kunder og PDF-fakturaeksport vigtige. Du kan prøve Pro gratis i to uger, eller gå direkte til Lifetime, hvis du ved, du har fundet din løsning.",
-  "FAQ_Q10": "Hvordan fungerer widgets på min hjemmeskærm?",  
+  "FAQ_Q10": "Hvordan fungerer widgets på min hjemmeskærm?",
   "FAQ_A10": "WorkHourly tidsplan-widget viser kommende arbejdsskift direkte på hjemmeskærmen og låseskærmen. De opdateres automatisk med live nedtælling - '3 timer tilbage' bliver '2 timer tilbage', uden at du behøver at gøre noget. Tilgængelig i størrelserne Lille, Medium og Låseskærm efter dine præferencer.",
   "FAQ_Q11": "Kan jeg sætte forskellige timepriser for forskellige kunder?",
   "FAQ_A11": "Her forstår WorkHourly virkelig din virksomhed. Hver kunde er forskellig - familien du passer betaler 200 kr/time, restauranten du rengør betaler 12.000 kr/måneden, og din weekend-håndværkskunde betaler 350 kr/time med dobbelt pris efter 18:00. Opsæt hver kundes unikke lønkontrakt én gang, og WorkHourly laver alle beregninger automatisk. Forskellige priser, forskellige overarbejdsregler, forskellige skattesituationer - alt fungerer enkelt, uanset hvor kompleks din kundemix bliver.",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "Start tidssporing",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Alle rettigheder forbeholdes.",
   "FOOTER_PRIVACY": "Privatlivspolitik",
-  "FOOTER_TERMS": "Servicevilkår"
+  "FOOTER_TERMS": "Servicevilkår",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

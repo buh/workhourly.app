@@ -7,19 +7,16 @@
   "META_KEYWORDS": "pontaj,factură,freelancer,tarif orar,client,ore suplimentare,proiect,timesheet,plată",
   "OG_TITLE": "WorkHourly - Urmărire Timp pentru Profesioniști",
   "OG_DESCRIPTION": "Urmărește timpul pentru toți clienții, calculează câștigurile instant și nu uita niciodată să facturezi orele suplimentare. Funcționează offline cu backup iCloud.",
-
   "NAV_FEATURES": "Funcții",
-  "NAV_INVOICES": "Facturi", 
+  "NAV_INVOICES": "Facturi",
   "NAV_WIDGETS": "Widget-uri",
   "NAV_PRICING": "Gratuit vs Pro",
   "NAV_FAQ": "Întrebări",
   "NAV_DOWNLOAD": "Descarcă",
-  
   "HERO_TITLE": "Primește plata pentru <span class=\"gradient\">fiecare oră</span> pe care o <span class=\"gradient\">lucrezi</span>",
   "HERO_SUBTITLE": "Urmărește timpul, calculează câștigurile instant, generează facturi PDF și nu rata niciodată facturarea orelor suplimentare. Tot într-o singură aplicație pentru profesioniști care cer precizie.",
   "CTA_PRIMARY": "Începe",
   "CTA_SECONDARY": "Vezi cum funcționează",
-  
   "TRUST_TITLE": "Întotdeauna disponibil, întotdeauna privat",
   "TRUST_SUBTITLE": "Datele tale rămân pe dispozitivul tău. Fără servere, fără întreruperi, fără griji.",
   "TRUST_BADGE_OFFLINE": "Offline mai întâi",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Urmărește timpul, generează rapoarte și gestionează clienții complet offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "Backup iCloud <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Datele tale se sincronizează privat prin contul tău iCloud",
-  
   "FEATURES_TITLE": "Tot ce ai nevoie, nimic din ce nu ai nevoie",
   "FEATURES_SUBTITLE": "Cinci ecrane simple proiectate pentru cum lucrezi cu adevărat",
-  
   "FEATURE_TODAY_TITLE": "Astăzi - Urmărește acum",
   "FEATURE_TODAY_DESC": "Începe rapid ziua de muncă. Urmărește timpul real vs programat. Adaugă notițe, cheltuieli și fotografii în timp ce lucrezi.",
-  
   "FEATURE_SCHEDULE_TITLE": "Program - Planifică din timp",
   "FEATURE_SCHEDULE_DESC": "Vezi săptămâna dintr-o privire. Adaugă programări de lucru viitoare. Nu te rezerva dublu niciodată.",
-  
   "FEATURE_REPORTS_TITLE": "Rapoarte - Primește plata",
   "FEATURE_REPORTS_DESC": "Generează facturi PDF instant. Rapoarte săptămânale sau lunare. Include cheltuielile și notițele de lucru.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analiză - Cunoaște-ți valoarea",
   "FEATURE_ANALYTICS_DESC": "Vezi tendințele și modelele de câștiguri. Înțelege care clienți plătesc mai bine. Urmărește creșterea afacerii tale.",
-  
   "FEATURE_SETTINGS_TITLE": "Setări - Pe calea ta",
   "FEATURE_SETTINGS_DESC": "Stabilește tarife pentru fiecare client. Personalizează detaliile facturii.",
-  
   "FEATURE_CLIENTS_TITLE": "Clienți multipli",
   "FEATURE_CLIENTS_DESC": "Ține fiecare client separat. Tarife și contracte individuale. Comută între proiecte fără probleme.",
-  
   "PDF_TITLE": "Facturi PDF profesionale în secunde",
   "PDF_SUBTITLE": "Generează facturi de înaltă calitate care impresionează clienții și te ajută să primești plata mai repede. Fiecare detaliu este perfect formatat și gata de trimis",
   "PDF_FEATURE_1": "Defalcări inteligente de taxe și ore suplimentare",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Informațiile tale de afaceri și detalii de plată",
   "PDF_FEATURE_4": "Interval săptămânal, lunar sau personalizat de date",
   "PDF_FEATURE_5": "Export instant în PDF",
-  
   "WIDGETS_TITLE": "Programul tău dintr-o privire",
   "WIDGETS_SUBTITLE": "Rămâi la curent cu următoarea ta muncă fără să deschizi aplicația. Widget-urile de program îți arată următoarele schimburi, starea actuală a muncii și numărători în timp real - totul actualizându-se automat pe ecranul principal și ecranul de blocare.",
   "WIDGETS_SIZES_TITLE": "Dimensiuni widget disponibile",
   "WIDGET_SIZE_SMALL": "Mic",
   "WIDGET_SIZE_MEDIUM": "Mediu",
   "WIDGET_SIZE_LOCK": "Ecran de blocare",
-  
   "PRICING_TITLE": "Începe acum, actualizează când <span class=\"gradient\">crești</span>",
   "PRICING_SUBTITLE": "Tot ce ai nevoie pentru a urmări un client este gratuit. Pentru totdeauna.",
   "PRICING_FREE_TITLE": "Gratuit",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Perspective de câștig",
   "PRICING_PRO_FEAT_7": "Rapoarte lunare",
   "PRICING_TRIAL": "Încercare gratuită 2 săptămâni",
-  
   "FAQ_TITLE": "Întrebări frecvente",
   "FAQ_Q1": "Ce face WorkHourly diferit de alte aplicații de urmărire a timpului?",
   "FAQ_A1": "Majoritatea aplicațiilor de urmărire a timpului sunt construite pentru angajați sau proiecte individuale. WorkHourly este construit special pentru profesioniștii din servicii care gestionează mai mulți clienți cu tarife și programe diferite. Gestionăm complexitatea din lumea reală a muncii tale: urmărirea cheltuielilor pe lucru (nu doar pe zi), documentarea muncii cu fotografii, detectarea automată a orelor suplimentare și generarea de facturi profesionale care te fac să primești cu adevărat plata. Totul funcționează offline-first, deci fie că ești în subsol sau pe acoperiș, urmărirea timpului nu se oprește niciodată.",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "Începe să urmărești timpul",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Toate drepturile rezervate.",
   "FOOTER_PRIVACY": "Politica de confidențialitate",
-  "FOOTER_TERMS": "Termeni de serviciu"
+  "FOOTER_TERMS": "Termeni de serviciu",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

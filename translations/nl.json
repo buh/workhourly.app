@@ -7,19 +7,16 @@
   "META_KEYWORDS": "urenregistratie,factuur,freelance,uurtarief,urenstaat,klant,overuren,project,tijd,zzp",
   "OG_TITLE": "WorkHourly - Tijdregistratie voor Professionals",
   "OG_DESCRIPTION": "Houd tijd bij voor al je klanten, bereken inkomsten direct en vergeet nooit overuren te factureren. Werkt offline met iCloud-backup.",
-
   "NAV_FEATURES": "Functies",
-  "NAV_INVOICES": "Facturen", 
+  "NAV_INVOICES": "Facturen",
   "NAV_WIDGETS": "Widgets",
   "NAV_PRICING": "Gratis vs Pro",
   "NAV_FAQ": "Veelgestelde vragen",
   "NAV_DOWNLOAD": "Downloaden",
-  
   "HERO_TITLE": "Krijg betaald voor <span class=\"gradient\">elk uur</span> dat je <span class=\"gradient\">werkt</span>",
   "HERO_SUBTITLE": "Houd tijd bij, bereken inkomsten direct, maak PDF-facturen en mis nooit overuren. Alles in één app voor professionals die precisie eisen.",
   "CTA_PRIMARY": "Aan de slag",
   "CTA_SECONDARY": "Hoe het werkt",
-  
   "TRUST_TITLE": "Altijd beschikbaar, altijd privé",
   "TRUST_SUBTITLE": "Je gegevens blijven op je apparaat. Geen servers, geen downtime, geen zorgen.",
   "TRUST_BADGE_OFFLINE": "Offline eerst",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Houd tijd bij, maak rapporten en beheer klanten volledig offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud backup <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Je gegevens synchroniseren privé via je iCloud-account",
-  
   "FEATURES_TITLE": "Alles wat je nodig hebt, niets wat je niet nodig hebt",
   "FEATURES_SUBTITLE": "Vijf eenvoudige schermen, ontworpen voor hoe je echt werkt",
-  
   "FEATURE_TODAY_TITLE": "Vandaag - Nu bijhouden",
   "FEATURE_TODAY_DESC": "Start snel je werkdag. Houd werkelijke vs geplande tijd bij. Voeg notities, uitgaven en foto's toe tijdens het werken.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Planning - Vooruit plannen", 
+  "FEATURE_SCHEDULE_TITLE": "Planning - Vooruit plannen",
   "FEATURE_SCHEDULE_DESC": "Zie je week in één oogopslag. Voeg toekomstige werkafspraken toe. Voorkom dubbele boekingen.",
-  
   "FEATURE_REPORTS_TITLE": "Rapporten - Betaald krijgen",
   "FEATURE_REPORTS_DESC": "Maak direct PDF-facturen. Wekelijkse of maandelijkse rapporten. Inclusief uitgaven en werknotities.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analytics - Ken je waarde",
   "FEATURE_ANALYTICS_DESC": "Zie inkomstentrends en patronen. Begrijp welke klanten het beste betalen. Volg je bedrijfsgroei.",
-  
   "FEATURE_SETTINGS_TITLE": "Instellingen - Op jouw manier",
   "FEATURE_SETTINGS_DESC": "Stel tarieven in voor elke klant. Pas factuurdetails aan.",
-  
   "FEATURE_CLIENTS_TITLE": "Meerdere klanten",
   "FEATURE_CLIENTS_DESC": "Houd elke klant gescheiden. Individuele tarieven en contracten. Schakel naadloos tussen projecten.",
-  
   "PDF_TITLE": "Professionele PDF-facturen in seconden",
   "PDF_SUBTITLE": "Maak hoogwaardige facturen die klanten imponeren en je sneller betaald krijgen. Elk detail is perfect geformatteerd en klaar om te versturen",
   "PDF_FEATURE_1": "Slimme belasting- en overuren-indelingen",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Je bedrijfsinformatie en betalingsgegevens",
   "PDF_FEATURE_4": "Wekelijks, maandelijks of aangepast datumbereik",
   "PDF_FEATURE_5": "Direct exporteren naar PDF",
-  
   "WIDGETS_TITLE": "Je planning in één oogopslag",
   "WIDGETS_SUBTITLE": "Volg je komende werk zonder de app te openen. Planningswidgets tonen je volgende diensten, huidige werkstatus en live aftellingen - alles wordt automatisch bijgewerkt op je beginscherm en vergrendelingsscherm.",
   "WIDGETS_SIZES_TITLE": "Beschikbare widgetformaten",
   "WIDGET_SIZE_SMALL": "Klein",
   "WIDGET_SIZE_MEDIUM": "Gemiddeld",
   "WIDGET_SIZE_LOCK": "Vergrendelingsscherm",
-  
   "PRICING_TITLE": "Start nu, upgrade wanneer je <span class=\"gradient\">groeit</span>",
   "PRICING_SUBTITLE": "Alles wat je nodig hebt om één klant bij te houden is gratis. Voor altijd.",
   "PRICING_FREE_TITLE": "Gratis",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Inkomsteninzichten",
   "PRICING_PRO_FEAT_7": "Maandelijkse rapporten",
   "PRICING_TRIAL": "2 weken gratis proberen",
-  
   "FAQ_TITLE": "Veelgestelde vragen",
   "FAQ_Q1": "Wat maakt WorkHourly anders dan andere tijdregistratie-apps?",
   "FAQ_A1": "De meeste tijdregistratie-apps zijn gemaakt voor werknemers of enkele projecten. WorkHourly is speciaal gebouwd voor serviceprofessionals die meerdere klanten beheren met verschillende tarieven en schema's. We behandelen de echte complexiteit van je werk: uitgaven per klus bijhouden (niet per dag), werk documenteren met foto's, automatisch overuren detecteren en professionele facturen maken die je echt betaald krijgen. Alles werkt offline-first, dus of je nu in de kelder of op het dak bent, je tijdregistratie stopt nooit.",
@@ -117,11 +103,17 @@
   "FAQ_A13": "Soms is een foto echt duizend woorden waard - vooral wanneer een klant later je rekening in twijfel trekt. Op elke werkdag, tik op het drie-punten menu en kies 'Foto toevoegen' om het foto gedeelte te tonen. Tik dan op de plus knop om te kiezen tussen 'Foto maken' met je camera of 'Kies uit bibliotheek' voor bestaande foto's. Voor-en-na shots bewijzen dat het werk is gedaan, bonnetjefoto's houden uitgaven bijhouden eerlijk, en voortgangsfoto's helpen klanten hun geld aan het werk zien. Alles blijft privé op je telefoon. Het is alsof je een professionele fotogalerij hebt voor elke klus die je voltooit.",
   "FAQ_Q14": "Hoe nauwkeurig zijn de inkomstenberekeningen?",
   "FAQ_A14": "WorkHourly rondt niet af of 'schat' - het berekent elke minuut die je hebt verdiend. Werk je 3 uur en 45 minuten? Dat is precies wat wordt berekend, niet 'ongeveer 4 uur.' Mix je een 2-uur ochtendklus met een 8-uur middagklant die overuren bevat? WorkHourly handelt de complexiteit af zonder te zweten. Alle berekeningen gebeuren direct op je telefoon met algoritmes die we hebben getest met duizenden echte scenario's. Wanneer belastingtijd komt of een klant een rekening in twijfel trekt, kun je elk getal volledig vertrouwen.",
-  
   "FOOTER_CTA_TITLE": "Je werk telt",
   "FOOTER_CTA_SUBTITLE": "Elk uur dat je bijhoudt, elke klant die je beheert, elke factuur die je verstuurt - alles telt.",
   "FOOTER_CTA_BUTTON": "Begin met tijdregistratie",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Alle rechten voorbehouden.",
   "FOOTER_PRIVACY": "Privacybeleid",
-  "FOOTER_TERMS": "Servicevoorwaarden"
+  "FOOTER_TERMS": "Servicevoorwaarden",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

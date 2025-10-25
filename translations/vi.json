@@ -7,19 +7,16 @@
   "META_KEYWORDS": "chấm công,hoá đơn,làm tự do,lương theo giờ,khách hàng,dự án,tăng ca,bảng công,thanh toán,cộng tác",
   "OG_TITLE": "WorkHourly - Theo dõi thời gian cho chuyên gia",
   "OG_DESCRIPTION": "Theo dõi thời gian cho tất cả khách hàng, tính toán thu nhập ngay lập tức và không bao giờ quên tính phí làm thêm giờ. Hoạt động offline với sao lưu iCloud.",
-
   "NAV_FEATURES": "Tính năng",
-  "NAV_INVOICES": "Hóa đơn", 
+  "NAV_INVOICES": "Hóa đơn",
   "NAV_WIDGETS": "Widget",
   "NAV_PRICING": "Miễn phí vs Pro",
   "NAV_FAQ": "Câu hỏi thường gặp",
   "NAV_DOWNLOAD": "Tải xuống",
-  
   "HERO_TITLE": "Nhận lương cho <span class=\"gradient\">mỗi giờ</span> bạn <span class=\"gradient\">làm việc</span>",
   "HERO_SUBTITLE": "Theo dõi thời gian, tính toán thu nhập ngay lập tức, tạo hóa đơn PDF và không bao giờ bỏ lỡ làm thêm giờ. Tất cả trong một ứng dụng dành cho các chuyên gia đòi hỏi độ chính xác.",
   "CTA_PRIMARY": "Bắt đầu",
   "CTA_SECONDARY": "Cách hoạt động",
-  
   "TRUST_TITLE": "Luôn sẵn sàng, luôn riêng tư",
   "TRUST_SUBTITLE": "Dữ liệu của bạn nằm trên thiết bị của bạn. Không có máy chủ, không có gián đoạn, không có lo lắng.",
   "TRUST_BADGE_OFFLINE": "Offline trước tiên",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Theo dõi thời gian, tạo báo cáo và quản lý khách hàng hoàn toàn offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "Sao lưu iCloud <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Dữ liệu của bạn đồng bộ riêng tư qua tài khoản iCloud của bạn",
-  
   "FEATURES_TITLE": "Tất cả những gì bạn cần, không có gì thừa",
   "FEATURES_SUBTITLE": "Năm màn hình đơn giản, được thiết kế cho cách bạn thực sự làm việc",
-  
   "FEATURE_TODAY_TITLE": "Hôm nay - Theo dõi ngay",
   "FEATURE_TODAY_DESC": "Bắt đầu ngày làm việc nhanh chóng. Theo dõi thời gian thực tế so với kế hoạch. Thêm ghi chú, chi phí và ảnh trong khi làm việc.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Lịch trình - Lập kế hoạch trước", 
+  "FEATURE_SCHEDULE_TITLE": "Lịch trình - Lập kế hoạch trước",
   "FEATURE_SCHEDULE_DESC": "Xem tuần của bạn trong một cái nhìn. Thêm các cuộc họp công việc tương lai. Tránh việc đặt lịch trùng lặp.",
-  
   "FEATURE_REPORTS_TITLE": "Báo cáo - Nhận lương",
   "FEATURE_REPORTS_DESC": "Tạo hóa đơn PDF ngay lập tức. Báo cáo hàng tuần hoặc hàng tháng. Bao gồm chi phí và ghi chú công việc.",
-  
   "FEATURE_ANALYTICS_TITLE": "Phân tích - Biết giá trị của bạn",
   "FEATURE_ANALYTICS_DESC": "Xem xu hướng và mô hình thu nhập. Hiểu khách hàng nào trả lương tốt nhất. Theo dõi sự phát triển của doanh nghiệp.",
-  
   "FEATURE_SETTINGS_TITLE": "Cài đặt - Theo cách của bạn",
   "FEATURE_SETTINGS_DESC": "Đặt mức giá cho từng khách hàng. Tùy chỉnh chi tiết hóa đơn.",
-  
   "FEATURE_CLIENTS_TITLE": "Nhiều khách hàng",
   "FEATURE_CLIENTS_DESC": "Giữ từng khách hàng riêng biệt. Mức giá và hợp đồng cá nhân. Chuyển đổi mượt mà giữa các dự án.",
-  
   "PDF_TITLE": "Hóa đơn PDF chuyên nghiệp trong vài giây",
   "PDF_SUBTITLE": "Tạo hóa đơn chất lượng cao gây ấn tượng với khách hàng và tăng tốc thanh toán. Mọi chi tiết được định dạng hoàn hảo và sẵn sàng gửi",
   "PDF_FEATURE_1": "Phân chia thuế và làm thêm giờ thông minh",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Thông tin doanh nghiệp và chi tiết thanh toán",
   "PDF_FEATURE_4": "Phạm vi ngày hàng tuần, hàng tháng hoặc tùy chỉnh",
   "PDF_FEATURE_5": "Xuất PDF ngay lập tức",
-  
   "WIDGETS_TITLE": "Lịch trình của bạn trong một cái nhìn",
   "WIDGETS_SUBTITLE": "Theo dõi công việc sắp tới mà không cần mở ứng dụng. Widget lịch trình hiển thị ca làm tiếp theo, trạng thái công việc hiện tại và đếm ngược trực tiếp - tất cả cập nhật tự động trên màn hình chính và màn hình khóa.",
   "WIDGETS_SIZES_TITLE": "Kích thước widget có sẵn",
   "WIDGET_SIZE_SMALL": "Nhỏ",
   "WIDGET_SIZE_MEDIUM": "Trung bình",
   "WIDGET_SIZE_LOCK": "Màn hình khóa",
-  
   "PRICING_TITLE": "Bắt đầu ngay, nâng cấp khi bạn <span class=\"gradient\">phát triển</span>",
   "PRICING_SUBTITLE": "Mọi thứ bạn cần để theo dõi một khách hàng đều miễn phí. Mãi mãi.",
   "PRICING_FREE_TITLE": "Miễn phí",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Thông tin chi tiết thu nhập",
   "PRICING_PRO_FEAT_7": "Báo cáo hàng tháng",
   "PRICING_TRIAL": "Dùng thử miễn phí 2 tuần",
-  
   "FAQ_TITLE": "Câu hỏi thường gặp",
   "FAQ_Q1": "Điều gì làm cho WorkHourly khác biệt so với các ứng dụng theo dõi thời gian khác?",
   "FAQ_A1": "Hầu hết các ứng dụng theo dõi thời gian được tạo cho nhân viên hoặc dự án đơn lẻ. WorkHourly được xây dựng đặc biệt cho các chuyên gia dịch vụ làm việc với nhiều khách hàng có mức giá và lịch trình khác nhau. Chúng tôi xử lý sự phức tạp thực tế của công việc của bạn: theo dõi chi phí theo công việc (không phải theo ngày), ghi lại công việc bằng ảnh, tự động phát hiện làm thêm giờ và tạo hóa đơn chuyên nghiệp thực sự đảm bảo bạn được trả lương. Mọi thứ hoạt động offline-first, vì vậy dù bạn ở trong tầng hầm hay trên mái nhà, việc theo dõi thời gian của bạn không bao giờ dừng lại.",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "Bắt đầu theo dõi thời gian",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Tất cả quyền được bảo lưu.",
   "FOOTER_PRIVACY": "Chính sách bảo mật",
-  "FOOTER_TERMS": "Điều khoản dịch vụ"
+  "FOOTER_TERMS": "Điều khoản dịch vụ",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

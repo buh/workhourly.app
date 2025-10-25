@@ -7,19 +7,16 @@
   "META_KEYWORDS": "evidence času,faktura,freelance,hodinová sazba,výkaz práce,klient,přesčas,projekt,časovač",
   "OG_TITLE": "WorkHourly - Sledování času pro profesionály",
   "OG_DESCRIPTION": "Sledujte čas pro všechny klienty, okamžitě počítejte příjmy a nikdy nezapomeňte účtovat přesčas. Funguje offline se zálohou iCloud.",
-
   "NAV_FEATURES": "Funkce",
-  "NAV_INVOICES": "Faktury", 
+  "NAV_INVOICES": "Faktury",
   "NAV_WIDGETS": "Widgety",
   "NAV_PRICING": "Zdarma vs Pro",
   "NAV_FAQ": "Časté otázky",
   "NAV_DOWNLOAD": "Stáhnout",
-  
   "HERO_TITLE": "Dostávejte zaplaceno za <span class=\"gradient\">každou hodinu</span> kterou <span class=\"gradient\">pracujete</span>",
   "HERO_SUBTITLE": "Sledujte čas, okamžitě počítejte příjmy, vytvářejte PDF faktury a nikdy neztraťte přesčas. Vše v jedné aplikaci pro profesionály vyžadující přesnost.",
   "CTA_PRIMARY": "Začít",
   "CTA_SECONDARY": "Jak to funguje",
-  
   "TRUST_TITLE": "Vždy dostupné, vždy soukromé",
   "TRUST_SUBTITLE": "Vaše data zůstávají na vašem zařízení. Žádné servery, žádné výpadky, žádné starosti.",
   "TRUST_BADGE_OFFLINE": "Offline na prvním místě",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Sledujte čas, vytvářejte reporty a spravujte klienty zcela offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "Záloha iCloud <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Vaše data se synchronizují soukromě přes váš iCloud účet",
-  
   "FEATURES_TITLE": "Vše co potřebujete,<br>nic co nepotřebujete",
   "FEATURES_SUBTITLE": "Pět jednoduchých obrazovek navržených pro to, jak skutečně pracujete",
-  
   "FEATURE_TODAY_TITLE": "Dnes - Sledujte nyní",
   "FEATURE_TODAY_DESC": "Rychle začněte pracovní den. Sledujte skutečný vs plánovaný čas. Přidávejte poznámky, výdaje a fotky během práce.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Rozvrh - Plánujte dopředu", 
+  "FEATURE_SCHEDULE_TITLE": "Rozvrh - Plánujte dopředu",
   "FEATURE_SCHEDULE_DESC": "Vidět svůj týden na první pohled. Přidávejte budoucí pracovní schůzky. Vyhněte se dvojitým rezervacím.",
-  
   "FEATURE_REPORTS_TITLE": "Reporty - Dostávejte zaplaceno",
   "FEATURE_REPORTS_DESC": "Okamžitě generujte PDF faktury. Týdenní nebo měsíční reporty. Zahrňte výdaje a pracovní poznámky.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analytika - Poznejte svou hodnotu",
   "FEATURE_ANALYTICS_DESC": "Sledujte trendy a vzory příjmů. Pochopte, kteří klienti nejlépe platí. Sledujte růst svého podnikání.",
-  
   "FEATURE_SETTINGS_TITLE": "Nastavení - Po svém",
   "FEATURE_SETTINGS_DESC": "Nastavte sazby pro každého klienta. Přizpůsobte detaily faktury.",
-  
   "FEATURE_CLIENTS_TITLE": "Více klientů",
   "FEATURE_CLIENTS_DESC": "Držte každého klienta odděleně. Individuální sazby a smlouvy. Plynule přepínajte mezi projekty.",
-  
   "PDF_TITLE": "Profesionální PDF faktury za sekundy",
   "PDF_SUBTITLE": "Vytvářejte vysoce kvalitní faktury, které zaujmou klienty a urychlí platbu. Každý detail je dokonale naformátován a připraven k odeslání",
   "PDF_FEATURE_1": "Chytré rozdělení daní a přesčasu",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Informace o vašem podnikání a platební údaje",
   "PDF_FEATURE_4": "Týdenní, měsíční nebo vlastní rozsah dat",
   "PDF_FEATURE_5": "Okamžitý export do PDF",
-  
   "WIDGETS_TITLE": "Váš rozvrh na první pohled",
   "WIDGETS_SUBTITLE": "Sledujte nadcházející práci bez otevření aplikace. Widgety rozvrhu zobrazují vaše další směny, aktuální pracovní stav a živé odpočty - vše se automaticky aktualizuje na domovské obrazovce a zamykací obrazovce.",
   "WIDGETS_SIZES_TITLE": "Dostupné velikosti widgetů",
   "WIDGET_SIZE_SMALL": "Malý",
   "WIDGET_SIZE_MEDIUM": "Střední",
   "WIDGET_SIZE_LOCK": "Zamykací obrazovka",
-  
   "PRICING_TITLE": "Začněte nyní, upgradujte když <br><span class=\"gradient\">rostete</span>",
   "PRICING_SUBTITLE": "Vše co potřebujete pro sledování jednoho klienta je zdarma. Navždy.",
   "PRICING_FREE_TITLE": "Zdarma",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Poznatky o příjmech",
   "PRICING_PRO_FEAT_7": "Měsíční reporty",
   "PRICING_TRIAL": "2 týdny bezplatné zkušební období",
-  
   "FAQ_TITLE": "Často kladené otázky",
   "FAQ_Q1": "Čím se WorkHourly liší od jiných aplikací pro sledování času?",
   "FAQ_A1": "Většina aplikací pro sledování času je vytvořena pro zaměstnance nebo jednotlivé projekty. WorkHourly je vytvořen speciálně pro servisní profesionály, kteří pracují s více klienty s různými sazbami a rozvrhy. Zvládáme skutečnou složitost vaší práce: sledování výdajů podle práce (ne podle dne), dokumentování práce fotografiemi, automatické zjišťování přesčasu a vytváření profesionálních faktur, které skutečně zajistí platbu. Vše funguje offline-first, takže ať jste v suterénu nebo na střeše, vaše sledování času se nikdy nezastaví.",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "Začít sledování času",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Všechna práva vyhrazena.",
   "FOOTER_PRIVACY": "Zásady ochrany soukromí",
-  "FOOTER_TERMS": "Podmínky služby"
+  "FOOTER_TERMS": "Podmínky služby",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

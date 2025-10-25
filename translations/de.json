@@ -7,19 +7,16 @@
   "META_KEYWORDS": "zeiterfassung,rechnung,freelancer,stundensatz,stundenzettel,arbeitsstunden,überstunden",
   "OG_TITLE": "WorkHourly - Zeiterfassung für Profis",
   "OG_DESCRIPTION": "Erfassen Sie Zeit für alle Ihre Kunden, berechnen Sie Einnahmen sofort und vergessen Sie nie, Überstunden abzurechnen. Funktioniert offline mit iCloud-Backup.",
-  
   "NAV_FEATURES": "Funktionen",
-  "NAV_INVOICES": "Rechnungen", 
+  "NAV_INVOICES": "Rechnungen",
   "NAV_WIDGETS": "Widgets",
   "NAV_PRICING": "Gratis vs Pro",
   "NAV_FAQ": "FAQ",
   "NAV_DOWNLOAD": "Herunterladen",
-  
   "HERO_TITLE": "Bezahlt werden für <span class=\"gradient\">jede Stunde</span> die Sie <span class=\"gradient\">arbeiten</span>",
   "HERO_SUBTITLE": "Zeit erfassen, Einnahmen sofort berechnen, PDF-Rechnungen erstellen und nie wieder Überstunden verpassen. Alles in einer App für Profis, die Präzision fordern.",
   "CTA_PRIMARY": "Loslegen",
   "CTA_SECONDARY": "So funktioniert's",
-  
   "TRUST_TITLE": "Immer verfügbar, immer privat",
   "TRUST_SUBTITLE": "Ihre Daten bleiben auf Ihrem Gerät. Keine Server, keine Ausfälle, keine Sorgen.",
   "TRUST_BADGE_OFFLINE": "Offline zuerst",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Zeit erfassen, Berichte erstellen und Kunden vollständig offline verwalten",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud-Backup <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Ihre Daten synchronisieren sich privat über Ihr iCloud-Konto",
-  
   "FEATURES_TITLE": "Alles was Sie brauchen, nichts was Sie nicht brauchen",
   "FEATURES_SUBTITLE": "Fünf einfache Bildschirme, designed für Ihre tatsächliche Arbeitsweise",
-  
   "FEATURE_TODAY_TITLE": "Heute - Jetzt erfassen",
   "FEATURE_TODAY_DESC": "Starten Sie schnell Ihren Arbeitstag. Erfassen Sie tatsächliche vs. geplante Zeit. Fügen Sie Notizen, Ausgaben und Fotos während der Arbeit hinzu.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Zeitplan - Vorausplanen", 
+  "FEATURE_SCHEDULE_TITLE": "Zeitplan - Vorausplanen",
   "FEATURE_SCHEDULE_DESC": "Sehen Sie Ihre Woche auf einen Blick. Fügen Sie zukünftige Arbeitstermine hinzu. Doppelbuchungen vermeiden.",
-  
   "FEATURE_REPORTS_TITLE": "Berichte - Bezahlt werden",
   "FEATURE_REPORTS_DESC": "PDF-Rechnungen sofort erstellen. Wöchentliche oder monatliche Berichte. Ausgaben und Arbeitsnotizen einschließen.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analysen - Ihren Wert kennen",
   "FEATURE_ANALYTICS_DESC": "Verdiensttrends und Muster sehen. Verstehen, welche Kunden am besten zahlen. Ihr Unternehmenswachstum verfolgen.",
-  
   "FEATURE_SETTINGS_TITLE": "Einstellungen - Auf Ihre Art",
   "FEATURE_SETTINGS_DESC": "Tarife für jeden Kunden festlegen. Rechnungsdetails anpassen.",
-  
   "FEATURE_CLIENTS_TITLE": "Mehrere Kunden",
   "FEATURE_CLIENTS_DESC": "Jeden Kunden getrennt halten. Individuelle Tarife und Verträge. Nahtlos zwischen Projekten wechseln.",
-  
   "PDF_TITLE": "Professionelle PDF-Rechnungen in Sekunden",
   "PDF_SUBTITLE": "Erstellen Sie hochwertige Rechnungen, die Kunden beeindrucken und Sie schneller bezahlt bekommen. Jedes Detail ist perfekt formatiert und versandbereit",
   "PDF_FEATURE_1": "Intelligente Steuer- und Überstunden-Aufschlüsselungen",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Ihre Geschäftsinformationen und Zahlungsdetails",
   "PDF_FEATURE_4": "Wöchentlicher, monatlicher oder benutzerdefinierter Datumsbereich",
   "PDF_FEATURE_5": "Sofortiger Export zu PDF",
-  
   "WIDGETS_TITLE": "Ihr Zeitplan auf einen Blick",
   "WIDGETS_SUBTITLE": "Verfolgen Sie Ihre anstehende Arbeit, ohne die App zu öffnen. Zeitplan-Widgets zeigen Ihre nächsten Schichten, aktuellen Arbeitsstatus und Live-Countdowns - alles aktualisiert sich automatisch auf Ihrem Startbildschirm und Sperrbildschirm.",
   "WIDGETS_SIZES_TITLE": "Verfügbare Widget-Größen",
   "WIDGET_SIZE_SMALL": "Klein",
   "WIDGET_SIZE_MEDIUM": "Mittel",
   "WIDGET_SIZE_LOCK": "Sperrbildschirm",
-  
   "PRICING_TITLE": "Jetzt starten, upgraden wenn Sie <span class=\"gradient\">wachsen</span>",
   "PRICING_SUBTITLE": "Alles was Sie brauchen, um einen Kunden zu verfolgen ist kostenlos. Für immer.",
   "PRICING_FREE_TITLE": "Kostenlos",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Einnahmen-Einblicke",
   "PRICING_PRO_FEAT_7": "Monatliche Berichte",
   "PRICING_TRIAL": "2 Wochen kostenlos testen",
-  
   "FAQ_TITLE": "Häufig gestellte Fragen",
   "FAQ_Q1": "Was macht WorkHourly anders als andere Zeiterfassungs-Apps?",
   "FAQ_A1": "Die meisten Zeiterfassungs-Apps sind für Angestellte oder einzelne Projekte gemacht. WorkHourly ist speziell für Dienstleistungsprofis entwickelt, die mehrere Kunden mit verschiedenen Tarifen und Zeitplänen jonglieren. Wir handhaben die reale Komplexität Ihrer Arbeit: Ausgaben pro Job verfolgen (nicht nur pro Tag), Arbeit mit Fotos dokumentieren, Überstunden automatisch erkennen und professionelle Rechnungen erstellen, die Sie wirklich bezahlt bekommen. Alles funktioniert offline-first, also ob Sie im Keller oder auf dem Dach sind, Ihre Zeiterfassung stoppt nie.",
@@ -117,11 +103,17 @@
   "FAQ_A13": "Manchmal ist ein Bild wirklich tausend Worte wert - besonders wenn ein Kunde später Ihre Rechnung hinterfragt. An jedem Arbeitstag tippen Sie auf das Drei-Punkte-Menü und wählen 'Foto hinzufügen', um den Fotos-Bereich zu zeigen. Dann tippen Sie auf die Plus-Schaltfläche, um zwischen 'Foto aufnehmen' mit Ihrer Kamera oder 'Aus Bibliothek wählen' für vorhandene Fotos zu wählen. Vorher-Nachher-Aufnahmen beweisen, dass die Arbeit gemacht wurde, Belegfotos halten die Ausgabenverfolgung ehrlich, und Fortschrittsfotos helfen Kunden, ihr Geld bei der Arbeit zu sehen. Alles bleibt privat auf Ihrem Telefon. Es ist wie eine professionelle Fotogalerie für jeden Job, den Sie abschließen.",
   "FAQ_Q14": "Wie genau sind die Verdienstberechnungen?",
   "FAQ_A14": "WorkHourly rundet nicht ab oder 'schätzt' - es berechnet jede Minute, die Sie verdient haben. Arbeiten Sie 3 Stunden und 45 Minuten? Das ist genau das, was berechnet wird, nicht 'ungefähr 4 Stunden.' Mischen Sie einen 2-Stunden-Morgenjob mit einem 8-Stunden-Nachmittagskunden, der Überstunden einschließt? WorkHourly bewältigt die Komplexität ohne zu schwitzen. Alle Berechnungen passieren direkt auf Ihrem Telefon mit Algorithmen, die wir mit Tausenden von realen Szenarien getestet haben. Wenn die Steuerzeit kommt oder ein Kunde eine Rechnung hinterfragt, können Sie jeder Zahl vollständig vertrauen.",
-  
   "FOOTER_CTA_TITLE": "Ihre Arbeit zählt",
   "FOOTER_CTA_SUBTITLE": "Jede Stunde, die Sie verfolgen, jeder Kunde, den Sie verwalten, jede Rechnung, die Sie senden - alles zählt.",
   "FOOTER_CTA_BUTTON": "Zeiterfassung starten",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Alle Rechte vorbehalten.",
   "FOOTER_PRIVACY": "Datenschutzrichtlinie",
-  "FOOTER_TERMS": "Nutzungsbedingungen"
+  "FOOTER_TERMS": "Nutzungsbedingungen",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

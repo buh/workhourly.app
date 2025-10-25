@@ -7,19 +7,16 @@
   "META_KEYWORDS": "pencatat waktu,invoice,freelance,upah per jam,klien,lembur,proyek,tagihan,timesheet,honor",
   "OG_TITLE": "WorkHourly - Pelacakan Waktu untuk Profesional",
   "OG_DESCRIPTION": "Lacak waktu untuk semua klien, hitung pendapatan secara instan, dan jangan pernah lupa menagih lembur. Bekerja offline dengan backup iCloud.",
-
   "NAV_FEATURES": "Fitur",
-  "NAV_INVOICES": "Invoice", 
+  "NAV_INVOICES": "Invoice",
   "NAV_WIDGETS": "Widget",
   "NAV_PRICING": "Gratis vs Pro",
   "NAV_FAQ": "FAQ",
   "NAV_DOWNLOAD": "Unduh",
-  
   "HERO_TITLE": "Terima bayaran untuk <span class=\"gradient\">setiap jam</span> yang Anda <span class=\"gradient\">kerjakan</span>",
   "HERO_SUBTITLE": "Lacak waktu, hitung pendapatan secara instan, buat invoice PDF, dan jangan pernah kehilangan lembur. Semua dalam satu aplikasi untuk profesional yang membutuhkan ketepatan.",
   "CTA_PRIMARY": "Mulai",
   "CTA_SECONDARY": "Cara Kerja",
-  
   "TRUST_TITLE": "Selalu tersedia, selalu privat",
   "TRUST_SUBTITLE": "Data Anda tetap di perangkat Anda. Tanpa server, tanpa downtime, tanpa khawatir.",
   "TRUST_BADGE_OFFLINE": "Offline pertama",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Lacak waktu, buat laporan, dan kelola klien sepenuhnya offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "Backup iCloud <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Data Anda disinkronkan secara pribadi melalui akun iCloud Anda",
-  
   "FEATURES_TITLE": "Semua yang Anda butuhkan, tidak ada yang tidak Anda butuhkan",
   "FEATURES_SUBTITLE": "Lima layar sederhana, dirancang untuk cara Anda benar-benar bekerja",
-  
   "FEATURE_TODAY_TITLE": "Hari Ini - Lacak Sekarang",
   "FEATURE_TODAY_DESC": "Mulai hari kerja dengan cepat. Lacak waktu aktual vs rencana. Tambahkan catatan, pengeluaran, dan foto saat bekerja.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Jadwal - Rencanakan Sebelumnya", 
+  "FEATURE_SCHEDULE_TITLE": "Jadwal - Rencanakan Sebelumnya",
   "FEATURE_SCHEDULE_DESC": "Lihat minggu Anda dalam sekali pandang. Tambahkan pertemuan kerja masa depan. Hindari booking ganda.",
-  
   "FEATURE_REPORTS_TITLE": "Laporan - Terima Bayaran",
   "FEATURE_REPORTS_DESC": "Buat invoice PDF secara instan. Laporan mingguan atau bulanan. Sertakan pengeluaran dan catatan kerja.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analitik - Ketahui Nilai Anda",
   "FEATURE_ANALYTICS_DESC": "Lihat tren dan pola pendapatan. Pahami klien mana yang membayar terbaik. Lacak pertumbuhan bisnis Anda.",
-  
   "FEATURE_SETTINGS_TITLE": "Pengaturan - Cara Anda",
   "FEATURE_SETTINGS_DESC": "Tetapkan tarif untuk setiap klien. Sesuaikan detail invoice.",
-  
   "FEATURE_CLIENTS_TITLE": "Banyak Klien",
   "FEATURE_CLIENTS_DESC": "Pisahkan setiap klien. Tarif dan kontrak individual. Beralih mulus antar proyek.",
-  
   "PDF_TITLE": "Invoice PDF profesional dalam hitungan detik",
   "PDF_SUBTITLE": "Buat invoice berkualitas tinggi yang memukau klien dan mempercepat pembayaran. Setiap detail diformat sempurna dan siap dikirim",
   "PDF_FEATURE_1": "Pembagian pajak dan lembur yang cerdas",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Informasi bisnis dan detail pembayaran Anda",
   "PDF_FEATURE_4": "Rentang tanggal mingguan, bulanan, atau kustom",
   "PDF_FEATURE_5": "Ekspor PDF instan",
-  
   "WIDGETS_TITLE": "Jadwal Anda dalam sekali pandang",
   "WIDGETS_SUBTITLE": "Lacak pekerjaan mendatang tanpa membuka aplikasi. Widget jadwal menampilkan shift berikutnya, status kerja saat ini, dan countdown langsung - semua diperbarui otomatis di layar utama dan layar kunci.",
   "WIDGETS_SIZES_TITLE": "Ukuran widget yang tersedia",
   "WIDGET_SIZE_SMALL": "Kecil",
   "WIDGET_SIZE_MEDIUM": "Sedang",
   "WIDGET_SIZE_LOCK": "Layar Kunci",
-  
   "PRICING_TITLE": "Mulai sekarang, upgrade saat Anda <span class=\"gradient\">berkembang</span>",
   "PRICING_SUBTITLE": "Semua yang Anda butuhkan untuk melacak satu klien gratis. Selamanya.",
   "PRICING_FREE_TITLE": "Gratis",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Wawasan pendapatan",
   "PRICING_PRO_FEAT_7": "Laporan bulanan",
   "PRICING_TRIAL": "Uji coba gratis 2 minggu",
-  
   "FAQ_TITLE": "Pertanyaan yang Sering Diajukan",
   "FAQ_Q1": "Apa yang membuat WorkHourly berbeda dari aplikasi pelacakan waktu lainnya?",
   "FAQ_A1": "Kebanyakan aplikasi pelacakan waktu dibuat untuk karyawan atau proyek tunggal. WorkHourly dibuat khusus untuk profesional layanan yang bekerja dengan banyak klien dengan tarif dan jadwal berbeda. Kami menangani kompleksitas nyata pekerjaan Anda: melacak pengeluaran per pekerjaan (bukan per hari), mendokumentasikan pekerjaan dengan foto, deteksi lembur otomatis, dan membuat invoice profesional yang benar-benar memastikan Anda dibayar. Semuanya bekerja offline-first, jadi apakah Anda di basement atau di atap, pelacakan waktu Anda tidak pernah berhenti.",
@@ -107,7 +93,7 @@
   "FAQ_A8": "Data Anda langsung dari ponsel ke akun iCloud pribadi Anda - kami tidak pernah melihat, menyentuh, atau memiliki akses ke sana. Pikirkan itu seperti brankas pribadi yang hanya Anda yang punya kuncinya. Apple menangani semua enkripsi dan keamanan, jadi informasi klien, pendapatan, dan detail kerja Anda tetap sepenuhnya privat. Bahkan jika Anda kehilangan ponsel atau mendapat yang baru, semuanya sinkron persis seperti yang Anda tinggalkan. Dan ingat, semuanya bekerja offline-first, jadi data Anda selalu aman di perangkat, terlepas dari internet.",
   "FAQ_Q9": "Bisakah saya mencoba fitur Pro sebelum membeli?",
   "FAQ_A9": "Versi gratis bukan teaser - ini solusi pelacakan waktu lengkap untuk satu klien. Melacak waktu, mencatat pengeluaran, menambah catatan dan foto, semuanya bekerja sempurna. Kebanyakan orang mulai di sini dan menyadari WorkHourly masuk akal. Ketika bisnis Anda tumbuh dan Anda mengelola banyak klien, maka fitur Pro seperti klien tak terbatas dan invoice PDF menjadi penting. Anda bisa coba Pro gratis dua minggu, atau langsung ke Lifetime jika Anda tahu telah menemukan solusi Anda.",
-  "FAQ_Q10": "Bagaimana widget bekerja di layar utama saya?",  
+  "FAQ_Q10": "Bagaimana widget bekerja di layar utama saya?",
   "FAQ_A10": "Widget jadwal WorkHourly menampilkan shift kerja mendatang langsung di layar utama dan layar kunci. Mereka otomatis diperbarui dengan countdown langsung - '3 jam lagi' menjadi '2 jam lagi', tanpa Anda perlu melakukan apa-apa. Tersedia dalam ukuran Kecil, Sedang, dan Layar Kunci sesuai preferensi Anda.",
   "FAQ_Q11": "Bisakah saya menetapkan tarif per jam yang berbeda untuk klien berbeda?",
   "FAQ_A11": "Di sinilah WorkHourly benar-benar memahami bisnis Anda. Setiap klien berbeda - keluarga yang Anda asuh bayar Rp100.000/jam, restoran yang Anda bersihkan bayar Rp5.000.000/bulan, dan klien tukang weekend Anda bayar Rp150.000/jam dengan tarif ganda setelah jam 6 sore. Atur kontrak gaji unik setiap klien sekali, dan WorkHourly akan melakukan semua kalkulasi otomatis. Tarif berbeda, aturan lembur berbeda, situasi pajak berbeda - semuanya bekerja sederhana, tidak peduli seberapa kompleks campuran klien Anda.",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "Mulai pelacakan waktu",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Semua hak dilindungi.",
   "FOOTER_PRIVACY": "Kebijakan Privasi",
-  "FOOTER_TERMS": "Syarat Layanan"
+  "FOOTER_TERMS": "Syarat Layanan",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

@@ -7,19 +7,16 @@
   "META_KEYWORDS": "tidrapportering,faktura,frilans,timpris,tidrapport,kund,övertid,projekt,arbetstid,konsult",
   "OG_TITLE": "WorkHourly - Tidsredovisning för yrkesverksamma",
   "OG_DESCRIPTION": "Spåra tid för alla dina kunder, beräkna intäkter direkt och glöm aldrig att fakturera övertid. Fungerar offline med iCloud-backup.",
-
   "NAV_FEATURES": "Funktioner",
-  "NAV_INVOICES": "Fakturor", 
+  "NAV_INVOICES": "Fakturor",
   "NAV_WIDGETS": "Widgets",
   "NAV_PRICING": "Gratis vs Pro",
   "NAV_FAQ": "Vanliga frågor",
   "NAV_DOWNLOAD": "Ladda ner",
-  
   "HERO_TITLE": "Få betalt för <span class=\"gradient\">varje timme</span> som du <span class=\"gradient\">arbetar</span>",
   "HERO_SUBTITLE": "Spåra tid, beräkna intäkter direkt, skapa PDF-fakturor och missa aldrig övertid. Allt i en app för yrkesverksamma som kräver precision.",
   "CTA_PRIMARY": "Kom igång",
   "CTA_SECONDARY": "Så fungerar det",
-  
   "TRUST_TITLE": "Alltid tillgänglig, alltid privat",
   "TRUST_SUBTITLE": "Din data stannar på din enhet. Inga servrar, inga avbrott, inga bekymmer.",
   "TRUST_BADGE_OFFLINE": "Offline först",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Spåra tid, skapa rapporter och hantera kunder helt offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud-backup <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Din data synkroniseras privat genom ditt iCloud-konto",
-  
   "FEATURES_TITLE": "Allt du behöver, inget du inte behöver",
   "FEATURES_SUBTITLE": "Fem enkla skärmar, designade för hur du verkligen arbetar",
-  
   "FEATURE_TODAY_TITLE": "Idag - Spåra nu",
   "FEATURE_TODAY_DESC": "Starta snabbt din arbetsdag. Spåra verklig vs planerad tid. Lägg till anteckningar, utgifter och foton medan du arbetar.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Schema - Planera i förväg", 
+  "FEATURE_SCHEDULE_TITLE": "Schema - Planera i förväg",
   "FEATURE_SCHEDULE_DESC": "Se din vecka på ett ögonkast. Lägg till framtida arbetsmöten. Undvik dubbelbokningar.",
-  
   "FEATURE_REPORTS_TITLE": "Rapporter - Få betalt",
   "FEATURE_REPORTS_DESC": "Generera PDF-fakturor direkt. Vecko- eller månadsrapporter. Inkludera utgifter och arbetsanteckningar.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analys - Känn ditt värde",
   "FEATURE_ANALYTICS_DESC": "Se intäktstrender och mönster. Förstå vilka kunder som betalar bäst. Spåra din företagsväxt.",
-  
   "FEATURE_SETTINGS_TITLE": "Inställningar - På ditt sätt",
   "FEATURE_SETTINGS_DESC": "Ställ in priser för varje kund. Anpassa fakturadetaljer.",
-  
   "FEATURE_CLIENTS_TITLE": "Flera kunder",
   "FEATURE_CLIENTS_DESC": "Håll varje kund separat. Individuella priser och kontrakt. Växla smidigt mellan projekt.",
-  
   "PDF_TITLE": "Professionella PDF-fakturor på sekunder",
   "PDF_SUBTITLE": "Skapa högkvalitativa fakturor som imponerar på kunder och får dig att bli betald snabbare. Varje detalj är perfekt formaterad och redo att skicka",
   "PDF_FEATURE_1": "Smarta uppdelningar av skatter och övertid",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Din företagsinformation och betalningsdetaljer",
   "PDF_FEATURE_4": "Vecko, månads eller anpassat datumintervall",
   "PDF_FEATURE_5": "Omedelbar export till PDF",
-  
   "WIDGETS_TITLE": "Ditt schema på ett ögonkast",
   "WIDGETS_SUBTITLE": "Spåra ditt kommande arbete utan att öppna appen. Schema-widgets visar dina nästa skift, nuvarande arbetsstatus och direkträknare - allt uppdateras automatiskt på din hemskärm och låsskärm.",
   "WIDGETS_SIZES_TITLE": "Tillgängliga widget-storlekar",
   "WIDGET_SIZE_SMALL": "Liten",
   "WIDGET_SIZE_MEDIUM": "Medium",
   "WIDGET_SIZE_LOCK": "Låsskärm",
-  
   "PRICING_TITLE": "Börja nu, uppgradera när du <br><span class=\"gradient\">växer</span>",
   "PRICING_SUBTITLE": "Allt du behöver för att spåra en kund är gratis. För alltid.",
   "PRICING_FREE_TITLE": "Gratis",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Intäktsinsikter",
   "PRICING_PRO_FEAT_7": "Månadsrapporter",
   "PRICING_TRIAL": "2 veckor gratis provperiod",
-  
   "FAQ_TITLE": "Vanliga frågor",
   "FAQ_Q1": "Vad gör WorkHourly annorlunda än andra tidsredovisningsappar?",
   "FAQ_A1": "De flesta tidsredovisningsappar är gjorda för anställda eller enskilda projekt. WorkHourly är specifikt byggd för serviceproffs som hanterar flera kunder med olika priser och scheman. Vi hanterar den verkliga komplexiteten i ditt arbete: spåra utgifter per jobb (inte per dag), dokumentera arbete med foton, automatiskt upptäcka övertid och skapa professionella fakturor som verkligen får dig betald. Allt fungerar offline-först, så oavsett om du är i källaren eller på taket, stannar din tidsredovisning aldrig.",
@@ -117,11 +103,17 @@
   "FAQ_Q14": "Hur exakta är intäktsberäkningarna?",
   "FAQ_A14": "WorkHourly avrundar inte eller 'uppskattar' - det beräknar varje minut du tjänat. Arbetar du 3 timmar och 45 minuter? Det är exakt vad som beräknas, inte 'ungefär 4 timmar.' Blandar du ett 2-timmars morgonarbete med en 8-timmars eftermiddagskund som inkluderar övertid? WorkHourly hanterar komplexiteten utan att svettas. Alla beräkningar sker direkt på din telefon med algoritmer vi testat med tusentals verkliga scenarion. När skattetiden kommer eller en kund ifrågasätter en räkning kan du helt lita på varje siffra.",
   "FAQ_Q2": "Är WorkHourly lämpligt för min typ av arbete?",
-  
   "FOOTER_CTA_TITLE": "Ditt arbete räknas",
   "FOOTER_CTA_SUBTITLE": "Varje timme du spårar, varje kund du hanterar, varje faktura du skickar - allt räknas.",
   "FOOTER_CTA_BUTTON": "Börja tidsredovisning",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Alla rättigheter förbehållna.",
   "FOOTER_PRIVACY": "Integritetspolicy",
-  "FOOTER_TERMS": "Användarvillkor"
+  "FOOTER_TERMS": "Användarvillkor",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

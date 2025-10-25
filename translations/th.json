@@ -7,19 +7,16 @@
   "META_KEYWORDS": "บันทึกเวลา,ใบแจ้งหนี้,อิสระ,ค่าแรงรายชั่วโมง,ลูกค้า,โครงการ,ทำงานล่วงเวลา,ผู้รับจ้าง",
   "OG_TITLE": "WorkHourly - ติดตามเวลาทำงานสำหรับผู้เชี่ยวชาญ",
   "OG_DESCRIPTION": "ติดตามเวลาทำงานสำหรับลูกค้าทุกคน คำนวณรายได้ทันที และไม่ลืมเรียกเก็บค่าล่วงเวลา ทำงานแบบออฟไลน์พร้อมสำรองข้อมูล iCloud",
-
   "NAV_FEATURES": "คุณสมบัติ",
-  "NAV_INVOICES": "ใบแจ้งหนี้", 
+  "NAV_INVOICES": "ใบแจ้งหนี้",
   "NAV_WIDGETS": "วิดเจ็ต",
   "NAV_PRICING": "ฟรี กับ Pro",
   "NAV_FAQ": "คำถามที่พบบ่อย",
   "NAV_DOWNLOAD": "ดาวน์โหลด",
-  
   "HERO_TITLE": "รับค่าจ้างทุก<span class=\"gradient\">ชั่วโมง</span>ที่คุณ<span class=\"gradient\">ทำงาน</span>",
   "HERO_SUBTITLE": "ติดตามเวลา คำนวณรายได้ทันที สร้างใบแจ้งหนี้ PDF และไม่เสียเวลาล่วงเวลา ทุกอย่างในแอปเดียวสำหรับผู้เชี่ยวชาญที่ต้องการความแม่นยำ",
   "CTA_PRIMARY": "เริ่มต้น",
   "CTA_SECONDARY": "วิธีการทำงาน",
-  
   "TRUST_TITLE": "พร้อมใช้งานเสมอ เป็นส่วนตัวเสมอ",
   "TRUST_SUBTITLE": "ข้อมูลของคุณอยู่ในอุปกรณ์ของคุณ ไม่มีเซิร์ฟเวอร์ ไม่มีการหยุดทำงาน ไม่มีความกังวล",
   "TRUST_BADGE_OFFLINE": "ออฟไลน์เป็นหลัก",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "ติดตามเวลา สร้างรายงาน และจัดการลูกค้าแบบออฟไลน์สมบูรณ์",
   "TRUST_FEATURE_ICLOUD_TITLE": "สำรองข้อมูล iCloud <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "ข้อมูลของคุณซิงค์แบบส่วนตัวผ่านบัญชี iCloud ของคุณ",
-  
   "FEATURES_TITLE": "ทุกสิ่งที่คุณต้องการ<br>ไม่มีสิ่งที่คุณไม่ต้องการ",
   "FEATURES_SUBTITLE": "ห้าหน้าจอง่ายๆ ออกแบบมาสำหรับวิธีที่คุณทำงานจริงๆ",
-  
   "FEATURE_TODAY_TITLE": "วันนี้ - ติดตามตอนนี้",
   "FEATURE_TODAY_DESC": "เริ่มต้นวันทำงานอย่างรวดเร็ว ติดตามเวลาจริงเทียบกับเวลาที่วางแผน เพิ่มบันทึก ค่าใช้จ่าย และรูปภาพขณะทำงาน",
-  
-  "FEATURE_SCHEDULE_TITLE": "ตารางงาน - วางแผนล่วงหน้า", 
+  "FEATURE_SCHEDULE_TITLE": "ตารางงาน - วางแผนล่วงหน้า",
   "FEATURE_SCHEDULE_DESC": "ดูสัปดาห์ของคุณได้ในหนึ่งมุมมอง เพิ่มการประชุมงานในอนาคต หลีกเลี่ยงการจองซ้ำ",
-  
   "FEATURE_REPORTS_TITLE": "รายงาน - รับค่าจ้าง",
   "FEATURE_REPORTS_DESC": "สร้างใบแจ้งหนี้ PDF ทันที รายงานรายสัปดาห์หรือรายเดือน รวมค่าใช้จ่ายและบันทึกการทำงาน",
-  
   "FEATURE_ANALYTICS_TITLE": "การวิเคราะห์ - รู้จักมูลค่าของคุณ",
   "FEATURE_ANALYTICS_DESC": "ดูแนวโน้มและรูปแบบรายได้ เข้าใจว่าลูกค้าคนไหนจ่ายดีที่สุด ติดตามการเติบโตของธุรกิจ",
-  
   "FEATURE_SETTINGS_TITLE": "การตั้งค่า - แบบของคุณ",
   "FEATURE_SETTINGS_DESC": "ตั้งอัตราค่าจ้างสำหรับลูกค้าแต่ละคน ปรับแต่งรายละเอียดใบแจ้งหนี้",
-  
   "FEATURE_CLIENTS_TITLE": "หลายลูกค้า",
   "FEATURE_CLIENTS_DESC": "แยกลูกค้าแต่ละคน อัตราค่าจ้างและสัญญาแต่ละคน เปลี่ยนระหว่างโปรเจกต์ได้อย่างราบรื่น",
-  
   "PDF_TITLE": "ใบแจ้งหนี้ PDF มืออาชีพในไม่กี่วินาที",
   "PDF_SUBTITLE": "สร้างใบแจ้งหนี้คุณภาพสูงที่สร้างความประทับใจให้ลูกค้าและเร่งการจ่ายเงิน รายละเอียดทุกอย่างถูกจัดรูปแบบอย่างสมบูรณ์และพร้อมส่ง",
   "PDF_FEATURE_1": "แยกภาษีและค่าล่วงเวลาอย่างชาญฉลาด",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "ข้อมูลธุรกิจและรายละเอียดการชำระเงิน",
   "PDF_FEATURE_4": "ช่วงวันที่รายสัปดาห์ รายเดือน หรือกำหนดเอง",
   "PDF_FEATURE_5": "ส่งออก PDF ทันที",
-  
   "WIDGETS_TITLE": "ตารางงานของคุณในหนึ่งมุมมอง",
   "WIDGETS_SUBTITLE": "ติดตามงานที่จะมาถึงโดยไม่ต้องเปิดแอป วิดเจ็ตตารางงานแสดงกะงานถัดไป สถานะงานปัจจุบัน และการนับถอยหลังแบบสด - ทุกอย่างอัปเดตอัตโนมัติบนหน้าจอหลักและหน้าจอล็อค",
   "WIDGETS_SIZES_TITLE": "ขนาดวิดเจ็ตที่มี",
   "WIDGET_SIZE_SMALL": "เล็ก",
   "WIDGET_SIZE_MEDIUM": "กลาง",
   "WIDGET_SIZE_LOCK": "หน้าจอล็อค",
-  
   "PRICING_TITLE": "เริ่มตอนนี้ อัปเกรดเมื่อคุณ<br><span class=\"gradient\">เติบโต</span>",
   "PRICING_SUBTITLE": "ทุกสิ่งที่คุณต้องการในการติดตามลูกค้าหนึ่งคนฟรี ตลอดไป",
   "PRICING_FREE_TITLE": "ฟรี",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "ข้อมูลเชิงลึกรายได้",
   "PRICING_PRO_FEAT_7": "รายงานรายเดือน",
   "PRICING_TRIAL": "ทดลองใช้ฟรี 2 สัปดาห์",
-  
   "FAQ_TITLE": "คำถามที่พบบ่อย",
   "FAQ_Q1": "อะไรทำให้ WorkHourly แตกต่างจากแอปติดตามเวลาอื่นๆ?",
   "FAQ_A1": "แอปติดตามเวลาส่วนใหญ่สร้างมาสำหรับพนักงานหรือโปรเจกต์เดียว WorkHourly สร้างมาเป็นพิเศษสำหรับผู้เชี่ยวชาญด้านบริการที่ทำงานกับลูกค้าหลายคนที่มีอัตราค่าจ้างและตารางงานต่างกัน เราจัดการกับความซับซ้อนจริงของงานคุณ: ติดตามค่าใช้จ่ายต่องาน (ไม่ใช่ต่อวัน) บันทึกงานด้วยภาพถ่าย ตรวจจับล่วงเวลาอัตโนมัติ และสร้างใบแจ้งหนี้มืออาชีพที่จริงๆ แล้วทำให้คุณได้รับเงิน ทุกอย่างทำงานแบบออฟไลน์เป็นหลัก ดังนั้นไม่ว่าคุณจะอยู่ในห้องใต้ดินหรือบนหลังคา การติดตามเวลาของคุณจะไม่หยุด",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "เริ่มติดตามเวลา",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly สงวนลิขสิทธิ์",
   "FOOTER_PRIVACY": "นโยบายความเป็นส่วนตัว",
-  "FOOTER_TERMS": "เงื่อนไขการบริการ"
+  "FOOTER_TERMS": "เงื่อนไขการบริการ",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

@@ -7,19 +7,16 @@
   "META_KEYWORDS": "czas pracy,faktura,freelancer,stawka godzinowa,ewidencja,klient,nadgodziny,projekt,rozliczenie",
   "OG_TITLE": "WorkHourly - Ewidencja czasu dla profesjonalistów",
   "OG_DESCRIPTION": "Śledź czas dla wszystkich klientów, natychmiast obliczaj przychody i nigdy nie zapominaj o rozliczaniu nadgodzin. Działa offline z kopią zapasową iCloud.",
-
   "NAV_FEATURES": "Funkcje",
-  "NAV_INVOICES": "Faktury", 
+  "NAV_INVOICES": "Faktury",
   "NAV_WIDGETS": "Widżety",
   "NAV_PRICING": "Darmowe vs Pro",
   "NAV_FAQ": "FAQ",
   "NAV_DOWNLOAD": "Pobierz",
-  
   "HERO_TITLE": "Otrzymuj płatność za <span class=\"gradient\">każdą godzinę</span> którą <span class=\"gradient\">pracujesz</span>",
   "HERO_SUBTITLE": "Śledź czas, natychmiast obliczaj przychody, twórz faktury PDF i nigdy nie przegap nadgodzin. Wszystko w jednej aplikacji dla profesjonalistów wymagających precyzji.",
   "CTA_PRIMARY": "Zacznij",
   "CTA_SECONDARY": "Jak to działa",
-  
   "TRUST_TITLE": "Zawsze dostępne, zawsze prywatne",
   "TRUST_SUBTITLE": "Twoje dane pozostają na Twoim urządzeniu. Bez serwerów, bez przestojów, bez zmartwień.",
   "TRUST_BADGE_OFFLINE": "Offline w pierwszej kolejności",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Śledź czas, twórz raporty i zarządzaj klientami całkowicie offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "Kopia zapasowa iCloud <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Twoje dane synchronizują się prywatnie przez Twoje konto iCloud",
-  
   "FEATURES_TITLE": "Wszystko czego potrzebujesz, nic czego nie potrzebujesz",
   "FEATURES_SUBTITLE": "Pięć prostych ekranów, zaprojektowanych pod to, jak naprawdę pracujesz",
-  
   "FEATURE_TODAY_TITLE": "Dzisiaj - Śledź teraz",
   "FEATURE_TODAY_DESC": "Szybko rozpocznij dzień pracy. Śledź rzeczywisty vs planowany czas. Dodawaj notatki, wydatki i zdjęcia podczas pracy.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Harmonogram - Planuj z wyprzedzeniem", 
+  "FEATURE_SCHEDULE_TITLE": "Harmonogram - Planuj z wyprzedzeniem",
   "FEATURE_SCHEDULE_DESC": "Zobacz swój tydzień na pierwszy rzut oka. Dodawaj przyszłe spotkania robocze. Unikaj podwójnych rezerwacji.",
-  
   "FEATURE_REPORTS_TITLE": "Raporty - Otrzymuj płatność",
   "FEATURE_REPORTS_DESC": "Natychmiast generuj faktury PDF. Raporty tygodniowe lub miesięczne. Uwzględniaj wydatki i notatki z pracy.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analityka - Poznaj swoją wartość",
   "FEATURE_ANALYTICS_DESC": "Zobacz trendy i wzorce przychodów. Zrozum, którzy klienci najlepiej płacą. Śledź wzrost swojego biznesu.",
-  
   "FEATURE_SETTINGS_TITLE": "Ustawienia - Na Twój sposób",
   "FEATURE_SETTINGS_DESC": "Ustaw stawki dla każdego klienta. Dostosuj szczegóły faktury.",
-  
   "FEATURE_CLIENTS_TITLE": "Wielu klientów",
   "FEATURE_CLIENTS_DESC": "Trzymaj każdego klienta osobno. Indywidualne stawki i kontrakty. Płynnie przełączaj się między projektami.",
-  
   "PDF_TITLE": "Profesjonalne faktury PDF w sekundach",
   "PDF_SUBTITLE": "Twórz wysokiej jakości faktury, które imponują klientom i sprawiają, że otrzymujesz płatność szybciej. Każdy szczegół jest idealnie sformatowany i gotowy do wysłania",
   "PDF_FEATURE_1": "Inteligentne rozpisanie podatków i nadgodzin",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Informacje o Twojej firmie i szczegóły płatności",
   "PDF_FEATURE_4": "Zakres dat tygodniowy, miesięczny lub niestandardowy",
   "PDF_FEATURE_5": "Natychmiastowy eksport do PDF",
-  
   "WIDGETS_TITLE": "Twój harmonogram na pierwszy rzut oka",
   "WIDGETS_SUBTITLE": "Śledź nadchodzącą pracę bez otwierania aplikacji. Widżety harmonogramu pokazują Twoje następne zmiany, obecny status pracy i odliczanie na żywo - wszystko aktualizuje się automatycznie na ekranie głównym i ekranie blokady.",
   "WIDGETS_SIZES_TITLE": "Dostępne rozmiary widżetów",
   "WIDGET_SIZE_SMALL": "Mały",
   "WIDGET_SIZE_MEDIUM": "Średni",
   "WIDGET_SIZE_LOCK": "Ekran blokady",
-  
   "PRICING_TITLE": "Zacznij teraz, aktualizuj gdy <br><span class=\"gradient\">rosisz</span>",
   "PRICING_SUBTITLE": "Wszystko czego potrzebujesz do śledzenia jednego klienta jest darmowe. Na zawsze.",
   "PRICING_FREE_TITLE": "Darmowe",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Wgląd w przychody",
   "PRICING_PRO_FEAT_7": "Raporty miesięczne",
   "PRICING_TRIAL": "2 tygodnie darmowego okresu próbnego",
-  
   "FAQ_TITLE": "Często zadawane pytania",
   "FAQ_Q1": "Co czyni WorkHourly różnym od innych aplikacji do ewidencji czasu?",
   "FAQ_A1": "Większość aplikacji do ewidencji czasu została stworzona dla pracowników lub pojedynczych projektów. WorkHourly został zbudowany specjalnie dla profesjonalistów usługowych, którzy obsługują wielu klientów z różnymi stawkami i harmonogramami. Radzimy sobie z rzeczywistą złożonością Twojej pracy: śledzenie wydatków według pracy (nie według dnia), dokumentowanie pracy zdjęciami, automatyczne wykrywanie nadgodzin i tworzenie profesjonalnych faktur, które rzeczywiście zapewniają Ci płatność. Wszystko działa w trybie offline-first, więc niezależnie od tego, czy jesteś w piwnicy czy na dachu, Twoja ewidencja czasu nigdy się nie zatrzymuje.",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "Rozpocznij ewidencję czasu",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Wszystkie prawa zastrzeżone.",
   "FOOTER_PRIVACY": "Polityka prywatności",
-  "FOOTER_TERMS": "Warunki usługi"
+  "FOOTER_TERMS": "Warunki usługi",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

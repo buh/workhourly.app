@@ -8,19 +8,16 @@
   "META_KEYWORDS": "工時記錄,發票,自由工作者,時薪,出勤,加班費,客戶管理,專案,計時器,帳單",
   "OG_TITLE": "WorkHourly - 專業人士時間追蹤",
   "OG_DESCRIPTION": "追蹤所有客戶的時間，即時計算收入，永不忘記開具加班費帳單。支援iCloud備份的離線工作。",
-
   "NAV_FEATURES": "功能",
-  "NAV_INVOICES": "發票", 
+  "NAV_INVOICES": "發票",
   "NAV_WIDGETS": "小工具",
   "NAV_PRICING": "免費 vs Pro",
   "NAV_FAQ": "常見問題",
   "NAV_DOWNLOAD": "下載",
-  
   "HERO_TITLE": "為<span class=\"gradient\">工作的每個小時</span>獲得報酬",
   "HERO_SUBTITLE": "追蹤時間，即時計算收入，建立PDF發票，永不錯過加班費。為要求精確的專業人士打造的一體化應用程式。",
   "CTA_PRIMARY": "開始使用",
   "CTA_SECONDARY": "運作原理",
-  
   "TRUST_TITLE": "始終可用，始終私密",
   "TRUST_SUBTITLE": "您的資料保存在裝置上。無伺服器，無停機，無憂慮。",
   "TRUST_BADGE_OFFLINE": "離線優先",
@@ -30,28 +27,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "完全離線追蹤時間、建立報告和管理客戶",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud備份 <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "您的資料透過iCloud帳戶私密同步",
-  
   "FEATURES_TITLE": "所需的一切，<br>無需的一概沒有",
   "FEATURES_SUBTITLE": "五個簡單介面，專為您的實際工作方式設計",
-  
   "FEATURE_TODAY_TITLE": "今天 - 立即追蹤",
   "FEATURE_TODAY_DESC": "快速開始工作日。追蹤實際時間與計劃時間。工作時新增備註、費用和照片。",
-  
-  "FEATURE_SCHEDULE_TITLE": "行程表 - 提前規劃", 
+  "FEATURE_SCHEDULE_TITLE": "行程表 - 提前規劃",
   "FEATURE_SCHEDULE_DESC": "一目了然檢視整週。新增未來工作預約。避免重複預訂。",
-  
   "FEATURE_REPORTS_TITLE": "報告 - 獲得報酬",
   "FEATURE_REPORTS_DESC": "即時產生PDF發票。週報或月報。包含費用和工作備註。",
-  
   "FEATURE_ANALYTICS_TITLE": "分析 - 了解價值",
   "FEATURE_ANALYTICS_DESC": "檢視收入趨勢和模式。了解哪些客戶付費最好。追蹤業務成長。",
-  
   "FEATURE_SETTINGS_TITLE": "設定 - 按您的方式",
   "FEATURE_SETTINGS_DESC": "為每個客戶設定費率。自訂發票詳情。",
-  
   "FEATURE_CLIENTS_TITLE": "多個客戶",
   "FEATURE_CLIENTS_DESC": "保持每個客戶獨立。個人費率和合約。專案間無縫切換。",
-  
   "PDF_TITLE": "幾秒鐘內產生專業PDF發票",
   "PDF_SUBTITLE": "建立令客戶印象深刻並讓您更快獲得付款的高品質發票。每個細節都完美格式化並準備傳送",
   "PDF_FEATURE_1": "智慧稅收和加班明細",
@@ -59,14 +48,12 @@
   "PDF_FEATURE_3": "您的業務資訊和付款詳情",
   "PDF_FEATURE_4": "週、月或自訂日期範圍",
   "PDF_FEATURE_5": "即時匯出為PDF",
-  
   "WIDGETS_TITLE": "一眼看清您的行程",
   "WIDGETS_SUBTITLE": "無需開啟應用程式即可追蹤即將到來的工作。行程小工具顯示您的下次班次、目前工作狀態和即時倒數計時 - 所有內容在主畫面和鎖定畫面上自動更新。",
   "WIDGETS_SIZES_TITLE": "可用小工具尺寸",
   "WIDGET_SIZE_SMALL": "小",
   "WIDGET_SIZE_MEDIUM": "中",
   "WIDGET_SIZE_LOCK": "鎖定畫面",
-  
   "PRICING_TITLE": "現在開始，<br><span class=\"gradient\">成長</span>時升級",
   "PRICING_SUBTITLE": "追蹤一個客戶所需的一切都是免費的。永久免費。",
   "PRICING_FREE_TITLE": "免費",
@@ -88,7 +75,6 @@
   "PRICING_PRO_FEAT_6": "收入洞察",
   "PRICING_PRO_FEAT_7": "月報",
   "PRICING_TRIAL": "2週免費試用",
-  
   "FAQ_TITLE": "常見問題",
   "FAQ_Q1": "WorkHourly與其他時間追蹤應用程式有何不同？",
   "FAQ_A1": "大多數時間追蹤應用程式是為員工或單個專案製作的。WorkHourly專門為處理多個客戶、不同費率和時間表的服務專業人士而建構。我們處理您實際工作的複雜性：按工作追蹤費用（而不是按天），用照片記錄工作，自動檢測加班，建立真正能讓您獲得報酬的專業發票。一切都是離線優先的，所以無論您在地下室還是屋頂上，您的時間追蹤永不停止。",
@@ -123,5 +109,12 @@
   "FOOTER_CTA_BUTTON": "開始時間追蹤",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. 保留所有權利。",
   "FOOTER_PRIVACY": "隱私政策",
-  "FOOTER_TERMS": "服務條款"
+  "FOOTER_TERMS": "服務條款",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

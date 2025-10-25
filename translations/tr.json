@@ -7,19 +7,16 @@
   "META_KEYWORDS": "zaman takibi,fatura,serbest,saatlik ücret,mesai,müşteri,proje,puantaj,fazla mesai,ödeme",
   "OG_TITLE": "WorkHourly - Profesyoneller için Zaman Takibi",
   "OG_DESCRIPTION": "Tüm müşterileriniz için zamanı takip edin, kazancı anında hesaplayın ve mesai ücretini faturamayı asla unutmayın. iCloud yedekleme ile çevrimdışı çalışır.",
-
   "NAV_FEATURES": "Özellikler",
-  "NAV_INVOICES": "Faturalar", 
+  "NAV_INVOICES": "Faturalar",
   "NAV_WIDGETS": "Widget'lar",
   "NAV_PRICING": "Ücretsiz vs Pro",
   "NAV_FAQ": "SSS",
   "NAV_DOWNLOAD": "İndir",
-  
   "HERO_TITLE": "<span class=\"gradient\">Çalıştığınız her saat</span> için <span class=\"gradient\">ücret alın</span>",
   "HERO_SUBTITLE": "Zamanı takip edin, kazancı anında hesaplayın, PDF faturalar oluşturun ve asla mesaiyi kaçırmayın. Hassasiyet gerektiren profesyoneller için tek uygulamada hepsi.",
   "CTA_PRIMARY": "Başla",
   "CTA_SECONDARY": "Nasıl Çalışır",
-  
   "TRUST_TITLE": "Her zaman kullanılabilir, her zaman özel",
   "TRUST_SUBTITLE": "Verileriniz cihazınızda kalır. Sunucu yok, kesinti yok, endişe yok.",
   "TRUST_BADGE_OFFLINE": "Önce çevrimdışı",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Zamanı takip edin, raporlar oluşturun ve müşterileri tamamen çevrimdışı yönetin",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud Yedekleme <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Verileriniz iCloud hesabınız üzerinden özel olarak senkronize edilir",
-  
   "FEATURES_TITLE": "İhtiyacınız olan her şey, ihtiyacınız olmayan hiçbir şey",
   "FEATURES_SUBTITLE": "Gerçekten çalıştığınız şekilde tasarlanmış beş basit ekran",
-  
   "FEATURE_TODAY_TITLE": "Bugün - Şimdi Takip Et",
   "FEATURE_TODAY_DESC": "İş gününüzü hızla başlatın. Gerçek zamana karşı planlanan zamanı takip edin. Çalışırken notlar, giderler ve fotoğraflar ekleyin.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Program - Önceden Planlayın", 
+  "FEATURE_SCHEDULE_TITLE": "Program - Önceden Planlayın",
   "FEATURE_SCHEDULE_DESC": "Haftanızı bir bakışta görün. Gelecekteki iş toplantıları ekleyin. Çifte rezervasyonu önleyin.",
-  
   "FEATURE_REPORTS_TITLE": "Raporlar - Ücretinizi Alın",
   "FEATURE_REPORTS_DESC": "Anında PDF faturalar oluşturun. Haftalık veya aylık raporlar. İş giderleri ve notları dahil edin.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analitik - Değerinizi Bilin",
   "FEATURE_ANALYTICS_DESC": "Gelir trendlerini ve desenlerini görün. Hangi müşterilerin en iyi ödediğini anlayın. İş büyümenizi takip edin.",
-  
   "FEATURE_SETTINGS_TITLE": "Ayarlar - Kendi Yönteminiz",
   "FEATURE_SETTINGS_DESC": "Her müşteri için ücretleri belirleyin. Fatura detaylarını özelleştirin.",
-  
   "FEATURE_CLIENTS_TITLE": "Çoklu Müşteriler",
   "FEATURE_CLIENTS_DESC": "Her müşteriyi ayrı tutun. Bireysel ücretler ve sözleşmeler. Projeler arasında sorunsuz geçiş.",
-  
   "PDF_TITLE": "Saniyeler içinde profesyonel PDF faturalar",
   "PDF_SUBTITLE": "Müşterileri etkileyen ve ödemeleri hızlandıran yüksek kaliteli faturalar oluşturun. Her detay mükemmel biçimlendirilmiş ve gönderilmeye hazır",
   "PDF_FEATURE_1": "Akıllı vergi ve mesai bölümlemesi",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "İş bilgileriniz ve ödeme detayları",
   "PDF_FEATURE_4": "Haftalık, aylık veya özel tarih aralıkları",
   "PDF_FEATURE_5": "Anında PDF dışa aktarma",
-  
   "WIDGETS_TITLE": "Programınız bir bakışta",
   "WIDGETS_SUBTITLE": "Uygulamayı açmadan yaklaşan işleri takip edin. Program widget'ı bir sonraki vardiyayı, mevcut iş durumunu ve canlı geri sayımı gösterir - hepsi ana ekran ve kilit ekranında otomatik olarak güncellenir.",
   "WIDGETS_SIZES_TITLE": "Mevcut widget boyutları",
   "WIDGET_SIZE_SMALL": "Küçük",
   "WIDGET_SIZE_MEDIUM": "Orta",
   "WIDGET_SIZE_LOCK": "Kilit Ekranı",
-  
   "PRICING_TITLE": "Şimdi başlayın, <span class=\"gradient\">büyüdükçe</span> yükseltin",
   "PRICING_SUBTITLE": "Bir müşteriyi takip etmek için gereken her şey ücretsiz. Sonsuza kadar.",
   "PRICING_FREE_TITLE": "Ücretsiz",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Gelir içgörüleri",
   "PRICING_PRO_FEAT_7": "Aylık raporlar",
   "PRICING_TRIAL": "2 hafta ücretsiz deneme",
-  
   "FAQ_TITLE": "Sıkça Sorulan Sorular",
   "FAQ_Q1": "WorkHourly'yi diğer zaman takip uygulamalarından farklı kılan nedir?",
   "FAQ_A1": "Çoğu zaman takip uygulaması çalışanlar veya tek projeler için yapılmıştır. WorkHourly özellikle farklı ücretler ve programlarla çoklu müşterilerle çalışan hizmet profesyonelleri için inşa edilmiştir. İşinizin gerçek karmaşıklığını ele alıyoruz: giderleri iş başına takip etmek (günlük değil), işi fotoğraflarla belgelemek, otomatik mesai tespiti ve gerçekten ödeme almanızı sağlayan profesyonel faturalar oluşturmak. Her şey çevrimdışı öncelikli çalışır, yani bodrum katında veya çatıda olsanız bile zaman takibiniz asla durmaz.",
@@ -107,7 +93,7 @@
   "FAQ_A8": "Verileriniz doğrudan telefonunuzdan kişisel iCloud hesabınıza gider - biz asla görmez, dokunmaz veya erişemeyiz. Sadece sizin anahtarınızın olduğu kişisel kasa gibi düşünün. Apple tüm şifreleme ve güvenliği halleder, böylece müşteri bilgileri, gelir ve iş detaylarınız tamamen özel kalır. Telefonunuzu kaybetseniz veya yenisini alsanız bile, her şey tam bıraktığınız gibi senkronize olur. Ve unutmayın, her şey çevrimdışı öncelikli çalışır, yani verileriniz internet olsun olmasın cihazınızda her zaman güvende.",
   "FAQ_Q9": "Satın almadan önce Pro özelliklerini deneyebilir miyim?",
   "FAQ_A9": "Ücretsiz sürüm teaser değil - tek müşteri için eksiksiz zaman takip çözümü. Zamanı takip edin, giderleri kaydedin, notlar ve fotoğraflar ekleyin, her şey mükemmel çalışır. Çoğu kişi buradan başlar ve WorkHourly'nin mantıklı olduğunu fark eder. İşiniz büyüdüğünde ve çoklu müşterileri yönettiğinizde, sınırsız müşteriler ve PDF fatura dışa aktarma gibi Pro özellikler önemli hale gelir. Pro'yu iki hafta ücretsiz deneyebilir veya çözümünüzü bulduğunuzu biliyorsanız doğrudan Lifetime'a geçebilirsiniz.",
-  "FAQ_Q10": "Widget'lar ana ekranımda nasıl çalışır?",  
+  "FAQ_Q10": "Widget'lar ana ekranımda nasıl çalışır?",
   "FAQ_A10": "WorkHourly program widget'ı yaklaşan iş vardiyalarını doğrudan ana ekran ve kilit ekranında gösterir. Canlı geri sayımla otomatik güncellenir - '3 saat kaldı' '2 saat kaldı' olur, hiçbir şey yapmanıza gerek kalmaz. Tercihinize göre Küçük, Orta ve Kilit Ekranı boyutlarında mevcuttur.",
   "FAQ_Q11": "Farklı müşteriler için farklı saatlik ücretler belirleyebilir miyim?",
   "FAQ_A11": "WorkHourly'nin işinizi gerçekten anladığı nokta burası. Her müşteri farklı - baktığınız aile saatte 150 TL öder, temizlediğiniz restoran ayda 8.000 TL öder, ve hafta sonu usta müşteriniz saatte 200 TL öder, 18:00'dan sonra çifte ücretle. Her müşterinin benzersiz maaş sözleşmesini bir kez kurun, WorkHourly tüm hesaplamaları otomatik yapar. Farklı ücretler, farklı mesai kuralları, farklı vergi durumları - müşteri karışımınız ne kadar karmaşık olursa olsun her şey basit çalışır.",
@@ -122,5 +108,12 @@
   "FOOTER_CTA_BUTTON": "Zaman takibine başla",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Tüm hakları saklıdır.",
   "FOOTER_PRIVACY": "Gizlilik Politikası",
-  "FOOTER_TERMS": "Hizmet Şartları"
+  "FOOTER_TERMS": "Hizmet Şartları",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

@@ -994,6 +994,114 @@ a.download-nav:hover {
     opacity: var(--pdf-opacity);
 }
 
+/* Branding Section */
+.branding-section {
+    padding: 120px 0;
+    background: var(--bg-secondary);
+}
+
+.branding-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+    align-items: center;
+}
+
+.branding-text h2 {
+    margin-bottom: 24px;
+}
+
+.branding-subtitle {
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 40px;
+}
+
+.branding-features {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.branding-features li {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.branding-features .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    background: var(--success);
+    color: white;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700;
+    flex-shrink: 0;
+}
+
+.branding-features span:last-child {
+    color: var(--text-primary);
+    flex: 1;
+}
+
+.branding-visual .image-placeholder {
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.branding-visual .image-placeholder svg {
+    width: 100%;
+    height: auto;
+    filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.1));
+}
+
+@media (max-width: 768px) {
+    .branding-section {
+        padding: 80px 0;
+    }
+
+    .branding-content {
+        grid-template-columns: 1fr;
+        gap: 48px;
+    }
+
+    .branding-visual {
+        order: -1;
+    }
+
+    .branding-visual .screenshot {
+        max-width: 300px;
+    }
+
+    .branding-badge {
+        top: -8px;
+        right: 10px;
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+
+    .branding-subtitle {
+        font-size: 16px;
+        margin-bottom: 32px;
+    }
+
+    .branding-features li {
+        font-size: 15px;
+        margin-bottom: 16px;
+    }
+}
+
 /* FAQ Section */
 .faq {
     padding: 120px 0;

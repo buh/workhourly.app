@@ -7,19 +7,16 @@
   "META_KEYWORDS": "munkaidő,számla,szabadúszó,óradíj,ügyfél,túlóra,projekt,időkövetés,díjazás,jelenléti",
   "OG_TITLE": "WorkHourly - Időkövetés szakembereknek",
   "OG_DESCRIPTION": "Kövesse az időt minden ügyfelénél, számítsa ki azonnal a bevételeket és soha ne felejtse el elszámolni a túlórákat. Offline működik iCloud biztonsági mentéssel.",
-
   "NAV_FEATURES": "Funkciók",
-  "NAV_INVOICES": "Számlák", 
+  "NAV_INVOICES": "Számlák",
   "NAV_WIDGETS": "Widgetek",
   "NAV_PRICING": "Ingyenes vs Pro",
   "NAV_FAQ": "GYIK",
   "NAV_DOWNLOAD": "Letöltés",
-  
   "HERO_TITLE": "Kapja meg a fizetését minden <span class=\"gradient\">órájáért</span> amit <span class=\"gradient\">dolgozik</span>",
   "HERO_SUBTITLE": "Kövesse az időt, számítsa ki azonnal a bevételeket, készítsen PDF számlákat és soha ne veszítse el a túlórákat. Minden egy alkalmazásban a pontosságot igénylő szakembereknek.",
   "CTA_PRIMARY": "Kezdés",
   "CTA_SECONDARY": "Hogyan működik",
-  
   "TRUST_TITLE": "Mindig elérhető, mindig privát",
   "TRUST_SUBTITLE": "Az adatai az eszközén maradnak. Nincsenek szerverek, nincsenek leállások, nincsenek gondok.",
   "TRUST_BADGE_OFFLINE": "Offline az első",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Kövesse az időt, készítsen jelentéseket és kezelje az ügyfeleket teljesen offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloud biztonsági mentés <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Az adatai privát módon szinkronizálódnak az iCloud fiókján keresztül",
-  
   "FEATURES_TITLE": "Minden, amire szüksége van,<br>semmi, amire nincs",
   "FEATURES_SUBTITLE": "Öt egyszerű képernyő, úgy tervezve, ahogy valójában dolgozik",
-  
   "FEATURE_TODAY_TITLE": "Ma - Kövesse most",
   "FEATURE_TODAY_DESC": "Gyorsan kezdje el a munkanapot. Kövesse a tényleges vs tervezett időt. Adjon hozzá jegyzeteket, költségeket és fotókat munka közben.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Ütemezés - Tervezzen előre", 
+  "FEATURE_SCHEDULE_TITLE": "Ütemezés - Tervezzen előre",
   "FEATURE_SCHEDULE_DESC": "Lássa a hetét egy pillantásra. Adjon hozzá jövőbeli munkamegbeszéléseket. Kerülje el a dupla foglalásokat.",
-  
   "FEATURE_REPORTS_TITLE": "Jelentések - Kapja meg a fizetést",
   "FEATURE_REPORTS_DESC": "Azonnal készítsen PDF számlákat. Heti vagy havi jelentések. Tartalmazza a költségeket és munkanotésokat.",
-  
   "FEATURE_ANALYTICS_TITLE": "Analitika - Ismerje meg az értékét",
   "FEATURE_ANALYTICS_DESC": "Lássa a bevételi trendeket és mintákat. Értse meg, mely ügyfelek fizetnek a legjobban. Kövesse üzlete növekedését.",
-  
   "FEATURE_SETTINGS_TITLE": "Beállítások - A maga módján",
   "FEATURE_SETTINGS_DESC": "Állítson be árakat minden ügyfélhez. Testreszabja a számla részleteit.",
-  
   "FEATURE_CLIENTS_TITLE": "Több ügyfél",
   "FEATURE_CLIENTS_DESC": "Tartsa minden ügyfelet külön. Egyéni árak és szerződések. Simán váltson projektek között.",
-  
   "PDF_TITLE": "Professzionális PDF számlák másodpercek alatt",
   "PDF_SUBTITLE": "Készítsen magas színvonalú számlákat, amelyek lenyűgözik az ügyfeleket és gyorsítják a fizetést. Minden részlet tökéletesen formázott és küldésre kész",
   "PDF_FEATURE_1": "Okos adó- és túlóra-bontás",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Üzleti információi és fizetési adatok",
   "PDF_FEATURE_4": "Heti, havi vagy egyéni dátumtartomány",
   "PDF_FEATURE_5": "Azonnali PDF export",
-  
   "WIDGETS_TITLE": "Az ütemezése egy pillantásra",
   "WIDGETS_SUBTITLE": "Kövesse a közelgő munkát az alkalmazás megnyitása nélkül. Az ütemezés widgetek megjelenítik a következő műszakokat, a jelenlegi munkastátuszt és az élő visszaszámlálásokat - minden automatikusan frissül a kezdőképernyőn és a zárolási képernyőn.",
   "WIDGETS_SIZES_TITLE": "Elérhető widget méretek",
   "WIDGET_SIZE_SMALL": "Kicsi",
   "WIDGET_SIZE_MEDIUM": "Közepes",
   "WIDGET_SIZE_LOCK": "Zárolási képernyő",
-  
   "PRICING_TITLE": "Kezdje most, frissítsen amikor <br><span class=\"gradient\">növekszik</span>",
   "PRICING_SUBTITLE": "Minden, amire szüksége van egy ügyfél követéséhez, ingyenes. Örökre.",
   "PRICING_FREE_TITLE": "Ingyenes",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Bevételi betekintések",
   "PRICING_PRO_FEAT_7": "Havi jelentések",
   "PRICING_TRIAL": "2 hét ingyenes próbaidőszak",
-  
   "FAQ_TITLE": "Gyakran ismételt kérdések",
   "FAQ_Q1": "Mi teszi a WorkHourly-t mássá más időkövető alkalmazásoktól?",
   "FAQ_A1": "A legtöbb időkövető alkalmazás alkalmazottakhoz vagy egyedi projektekhez készült. A WorkHourly kifejezetten szolgáltatási szakemberekhez, akik több ügyféllel dolgoznak különböző áraikkal és ütemezésekkel. Kezeljük a munkája valódi komplexitását: költségek követése munkánként (nem naponta), munka dokumentálása fotókkal, automatikus túlóra-érzékelés és professzionális számlák készítése, amelyek tényleg biztosítják a fizetést. Minden offline-first módban működik, szóval akár pincében, akár tetőn van, az időkövetése soha nem áll meg.",
@@ -117,11 +103,17 @@
   "FAQ_A13": "Néha egy kép tényleg ér ezer szót - különösen, amikor egy ügyfél később megkérdőjelezi a számláját. Bármely munkanap koppintson a három pontos menüre és válassza a 'Fotó hozzáadása'-t a fényképek szekció megjelenítéséhez. Aztán koppintson a plusz gombra a 'Fotó készítése' kamerájával vagy 'Kiválasztás könyvtárból' meglévő fotókhoz közötti választáshoz. Az előtte-utána fotók bizonyítják, hogy a munka elkészült, a számla fotók tisztességesen tartják a költségkövetést, és a haladási fotók segítenek az ügyfeleknek látni a pénzüket munkában. Minden privát marad a telefonján. Ez olyan, mintha minden befejezett munkához lenne egy professzionális fotógalériája.",
   "FAQ_Q14": "Mennyire pontosak a bevételszámítások?",
   "FAQ_A14": "A WorkHourly nem kerekít vagy 'becsül' - minden percet kiszámít, amit keresett. 3 óra 45 percet dolgozik? Pontosan ez számítódik ki, nem 'körülbelül 4 óra.' Keveri a 2 órás reggeli munkát egy 8 órás délutáni ügyféllel, ami túlórát tartalmaz? A WorkHourly izzadás nélkül kezeli a komplexitást. Minden számítás közvetlenül a telefonján történik olyan algoritmusokkal, amelyeket ezer valós forgatókönyvvel teszteltünk. Amikor eljön az adóidő vagy egy ügyfél megkérdőjelezi a számlát, teljesen megbízhat minden számban.",
-  
   "FOOTER_CTA_TITLE": "A munkája számít",
   "FOOTER_CTA_SUBTITLE": "Minden óra, amit követ, minden ügyfél, akit kezel, minden számla, amit küld - minden számít.",
   "FOOTER_CTA_BUTTON": "Időkövetés kezdése",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Minden jog fenntartva.",
   "FOOTER_PRIVACY": "Adatvédelmi szabályzat",
-  "FOOTER_TERMS": "Szolgáltatási feltételek"
+  "FOOTER_TERMS": "Szolgáltatási feltételek",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

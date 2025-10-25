@@ -7,19 +7,16 @@
   "META_KEYWORDS": "タイムトラッカー,請求書,フリーランス,時給,勤怠,残業,クライアント,タイムシート,個人事業主",
   "OG_TITLE": "WorkHourly - プロフェッショナル勤怠管理",
   "OG_DESCRIPTION": "すべてのクライアントの時間を記録し、即座に収益を計算し、残業の請求を忘れることがありません。iCloudバックアップでオフライン動作。",
-
   "NAV_FEATURES": "機能",
-  "NAV_INVOICES": "請求書", 
+  "NAV_INVOICES": "請求書",
   "NAV_WIDGETS": "ウィジェット",
   "NAV_PRICING": "無料 vs Pro",
   "NAV_FAQ": "よくある質問",
   "NAV_DOWNLOAD": "ダウンロード",
-  
   "HERO_TITLE": "<span class=\"gradient\">働いたすべての時間</span>に対して報酬を受ける",
   "HERO_SUBTITLE": "時間を記録し、収益を即座に計算し、PDF請求書を作成し、残業を見逃すことがありません。精度を求めるプロフェッショナルのためのオールインワンアプリ。",
   "CTA_PRIMARY": "始める",
   "CTA_SECONDARY": "使い方",
-  
   "TRUST_TITLE": "常に利用可能、常にプライベート",
   "TRUST_SUBTITLE": "あなたのデータはデバイスに保存されます。サーバーなし、ダウンタイムなし、心配なし。",
   "TRUST_BADGE_OFFLINE": "オフラインファースト",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "時間記録、レポート作成、クライアント管理を完全にオフラインで実行",
   "TRUST_FEATURE_ICLOUD_TITLE": "iCloudバックアップ <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "あなたのデータはiCloudアカウントを通じてプライベートに同期されます",
-  
   "FEATURES_TITLE": "必要なものすべて、<br>不要なものは一切なし",
   "FEATURES_SUBTITLE": "実際の働き方に合わせて設計された5つのシンプルな画面",
-  
   "FEATURE_TODAY_TITLE": "今日 - 今すぐ記録",
   "FEATURE_TODAY_DESC": "作業日を素早く開始。実際の時間と予定時間を記録。働きながらメモ、経費、写真を追加。",
-  
-  "FEATURE_SCHEDULE_TITLE": "スケジュール - 事前計画", 
+  "FEATURE_SCHEDULE_TITLE": "スケジュール - 事前計画",
   "FEATURE_SCHEDULE_DESC": "週全体を一目で確認。将来の作業予定を追加。ダブルブッキングを避ける。",
-  
   "FEATURE_REPORTS_TITLE": "レポート - 支払いを受ける",
   "FEATURE_REPORTS_DESC": "PDF請求書を即座に作成。週次または月次レポート。経費と作業メモを含める。",
-  
   "FEATURE_ANALYTICS_TITLE": "分析 - あなたの価値を知る",
   "FEATURE_ANALYTICS_DESC": "収益のトレンドとパターンを確認。どのクライアントが最も支払いが良いかを理解。ビジネスの成長を追跡。",
-  
   "FEATURE_SETTINGS_TITLE": "設定 - あなたのやり方で",
   "FEATURE_SETTINGS_DESC": "各クライアントの料金を設定。請求書の詳細をカスタマイズ。",
-  
   "FEATURE_CLIENTS_TITLE": "複数クライアント",
   "FEATURE_CLIENTS_DESC": "各クライアントを分離して管理。個別の料金と契約。プロジェクト間をシームレスに切り替え。",
-  
   "PDF_TITLE": "数秒でプロフェッショナルなPDF請求書",
   "PDF_SUBTITLE": "クライアントに印象を与え、より迅速な支払いを実現する高品質の請求書を作成。すべての詳細が完璧にフォーマットされ、送信準備完了",
   "PDF_FEATURE_1": "スマートな税金と残業の内訳",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "ビジネス情報と支払い詳細",
   "PDF_FEATURE_4": "週次、月次、またはカスタム日付範囲",
   "PDF_FEATURE_5": "PDFへの即座エクスポート",
-  
   "WIDGETS_TITLE": "スケジュールを一目で確認",
   "WIDGETS_SUBTITLE": "アプリを開かずに今後の作業を追跡。スケジュールウィジェットは次のシフト、現在の作業状況、ライブカウントダウンを表示 - すべてホーム画面とロック画面で自動更新。",
   "WIDGETS_SIZES_TITLE": "利用可能なウィジェットサイズ",
   "WIDGET_SIZE_SMALL": "小",
   "WIDGET_SIZE_MEDIUM": "中",
   "WIDGET_SIZE_LOCK": "ロック画面",
-  
   "PRICING_TITLE": "今すぐ始めて、<br><span class=\"gradient\">成長</span>したらアップグレード",
   "PRICING_SUBTITLE": "1つのクライアントを追跡するのに必要なものはすべて無料。永続的に。",
   "PRICING_FREE_TITLE": "無料",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "収益インサイト",
   "PRICING_PRO_FEAT_7": "月次レポート",
   "PRICING_TRIAL": "2週間無料トライアル",
-  
   "FAQ_TITLE": "よくある質問",
   "FAQ_Q1": "WorkHourlyが他の時間追跡アプリと異なる点は何ですか？",
   "FAQ_A1": "ほとんどの時間追跡アプリは従業員や単一プロジェクト向けに作られています。WorkHourlyは、異なる料金とスケジュールを持つ複数のクライアントを扱うサービスプロフェッショナル向けに特別に構築されています。私たちはあなたの実際の作業の複雑さを処理します：ジョブごとの経費追跡（日ごとではなく）、写真による作業記録、自動残業検出、実際に支払いを受けられるプロフェッショナルな請求書作成。すべてがオフラインファーストで動作するため、地下室でも屋根の上でも、時間追跡が止まることはありません。",
@@ -117,11 +103,17 @@
   "FAQ_A13": "時には画像が本当に千の言葉に値します - 特にクライアントが後であなたの請求書に疑問を呈する場合。どの作業日でも、3点メニューをタップして「写真を追加」を選択して写真セクションを表示します。次に、プラスボタンをタップして、カメラで「写真を撮る」か、既存の写真の「ライブラリから選択」かを選択します。前後の写真は作業が完了したことを証明し、レシート写真は経費追跡を正直に保ち、進捗写真はクライアントが作業でお金を見るのに役立ちます。すべて電話上でプライベートのままです。完了するすべてのジョブのプロフェッショナル写真ギャラリーを持つようなものです。",
   "FAQ_Q14": "収益計算はどの程度正確ですか？",
   "FAQ_A14": "WorkHourlyは四捨五入や「推定」をしません - あなたが稼いだ毎分を計算します。3時間45分働きますか？「約4時間」ではなく、まさにそれが計算されます。2時間の朝の仕事と残業を含む8時間の午後のクライアントを混ぜますか？WorkHourlyは汗をかくことなく複雑さを処理します。すべての計算は、数千の実際のシナリオでテストしたアルゴリズムを使用して電話上で直接行われます。税務時期が来たり、クライアントが請求書に疑問を呈したりする場合、すべての数字を完全に信頼できます。",
-  
   "FOOTER_CTA_TITLE": "あなたの仕事は重要です",
   "FOOTER_CTA_SUBTITLE": "追跡するすべての時間、管理するすべてのクライアント、送信するすべての請求書 - すべてが重要です。",
   "FOOTER_CTA_BUTTON": "時間追跡を開始",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. 全権利留保。",
   "FOOTER_PRIVACY": "プライバシーポリシー",
-  "FOOTER_TERMS": "利用規約"
+  "FOOTER_TERMS": "利用規約",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

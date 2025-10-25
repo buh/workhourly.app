@@ -108,5 +108,12 @@
   "FAQ_Q13": "¿Cómo añado fotos para documentar mi trabajo?",
   "FAQ_A13": "A veces una imagen realmente vale mil palabras - especialmente cuando un cliente cuestiona tu factura después. En cualquier día de trabajo, toca el menú de tres puntos y selecciona 'Añadir una foto' para revelar la sección de Fotos. Luego toca el botón más para elegir entre 'Tomar Foto' con tu cámara o 'Elegir de la Biblioteca' para seleccionar fotos existentes. Las fotos de antes y después prueban que el trabajo se hizo, las fotos de recibos mantienen honesto el rastreo de gastos, y las fotos de progreso ayudan a los clientes a ver su dinero en trabajo. Todo se mantiene privado en tu teléfono. Es como tener una galería de fotos profesional para cada trabajo que completas.",
   "FAQ_Q14": "¿Qué tan precisos son los cálculos de ganancias?",
-  "FAQ_A14": "WorkHourly no redondea hacia abajo o 'estima' - calcula cada minuto que has ganado. ¿Trabajas 3 horas y 45 minutos? Eso es exactamente lo que se calcula, no 'aproximadamente 4 horas.' ¿Mezclas un trabajo de 2 horas en la mañana con un cliente de 8 horas en la tarde que incluye horas extra? WorkHourly maneja la complejidad sin sudar. Todas las matemáticas pasan directamente en tu teléfono usando algoritmos que hemos probado con miles de escenarios del mundo real. Cuando llega el tiempo de impuestos, o cuando un cliente cuestiona una factura, puedes confiar en cada número completamente."
+  "FAQ_A14": "WorkHourly no redondea hacia abajo o 'estima' - calcula cada minuto que has ganado. ¿Trabajas 3 horas y 45 minutos? Eso es exactamente lo que se calcula, no 'aproximadamente 4 horas.' ¿Mezclas un trabajo de 2 horas en la mañana con un cliente de 8 horas en la tarde que incluye horas extra? WorkHourly maneja la complejidad sin sudar. Todas las matemáticas pasan directamente en tu teléfono usando algoritmos que hemos probado con miles de escenarios del mundo real. Cuando llega el tiempo de impuestos, o cuando un cliente cuestiona una factura, puedes confiar en cada número completamente.",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }

@@ -7,19 +7,16 @@
   "META_KEYWORDS": "controle horas,fatura,freelancer,hora trabalhada,folha ponto,cliente,nota fiscal,projeto,tempo",
   "OG_TITLE": "WorkHourly - Gestão de Tempo para Profissionais",
   "OG_DESCRIPTION": "Registe tempo para todos os seus clientes, calcule rendimentos instantaneamente e nunca esqueça de faturar horas extras. Funciona offline com backup iCloud.",
-
   "NAV_FEATURES": "Funcionalidades",
-  "NAV_INVOICES": "Faturas", 
+  "NAV_INVOICES": "Faturas",
   "NAV_WIDGETS": "Widgets",
   "NAV_PRICING": "Grátis vs Pro",
   "NAV_FAQ": "Perguntas Frequentes",
   "NAV_DOWNLOAD": "Transferir",
-  
   "HERO_TITLE": "Seja pago por <span class=\"gradient\">cada hora</span> que <span class=\"gradient\">trabalha</span>",
   "HERO_SUBTITLE": "Registe tempo, calcule rendimentos instantaneamente, crie faturas PDF e nunca perca horas extras. Tudo numa app para profissionais que exigem precisão.",
   "CTA_PRIMARY": "Começar",
   "CTA_SECONDARY": "Como funciona",
-  
   "TRUST_TITLE": "Sempre disponível, sempre privado",
   "TRUST_SUBTITLE": "Os seus dados ficam no seu dispositivo. Sem servidores, sem interrupções, sem preocupações.",
   "TRUST_BADGE_OFFLINE": "Offline primeiro",
@@ -29,28 +26,20 @@
   "TRUST_FEATURE_OFFLINE_DESC": "Registe tempo, crie relatórios e gere clientes completamente offline",
   "TRUST_FEATURE_ICLOUD_TITLE": "Backup iCloud <span class=\"gradient\">(Pro)</span>",
   "TRUST_FEATURE_ICLOUD_DESC": "Os seus dados sincronizam privadamente através da sua conta iCloud",
-  
   "FEATURES_TITLE": "Tudo o que precisa, nada do que não precisa",
   "FEATURES_SUBTITLE": "Cinco ecrãs simples, desenhados para como realmente trabalha",
-  
   "FEATURE_TODAY_TITLE": "Hoje - Registe agora",
   "FEATURE_TODAY_DESC": "Comece rapidamente o seu dia de trabalho. Registe tempo real vs planeado. Adicione notas, despesas e fotos enquanto trabalha.",
-  
-  "FEATURE_SCHEDULE_TITLE": "Horário - Planeie com antecedência", 
+  "FEATURE_SCHEDULE_TITLE": "Horário - Planeie com antecedência",
   "FEATURE_SCHEDULE_DESC": "Veja a sua semana de relance. Adicione compromissos de trabalho futuros. Evite marcações duplas.",
-  
   "FEATURE_REPORTS_TITLE": "Relatórios - Seja pago",
   "FEATURE_REPORTS_DESC": "Gere faturas PDF instantaneamente. Relatórios semanais ou mensais. Inclua despesas e notas de trabalho.",
-  
   "FEATURE_ANALYTICS_TITLE": "Análises - Conheça o seu valor",
   "FEATURE_ANALYTICS_DESC": "Veja tendências e padrões de rendimentos. Entenda quais clientes pagam melhor. Acompanhe o crescimento do seu negócio.",
-  
   "FEATURE_SETTINGS_TITLE": "Definições - À sua maneira",
   "FEATURE_SETTINGS_DESC": "Defina tarifas para cada cliente. Personalize detalhes da fatura.",
-  
   "FEATURE_CLIENTS_TITLE": "Múltiplos clientes",
   "FEATURE_CLIENTS_DESC": "Mantenha cada cliente separado. Tarifas e contratos individuais. Mude facilmente entre projetos.",
-  
   "PDF_TITLE": "Faturas PDF profissionais em segundos",
   "PDF_SUBTITLE": "Crie faturas de alta qualidade que impressionam clientes e fazem-no ser pago mais rapidamente. Cada detalhe está perfeitamente formatado e pronto a enviar",
   "PDF_FEATURE_1": "Discriminações inteligentes de impostos e horas extras",
@@ -58,14 +47,12 @@
   "PDF_FEATURE_3": "Informações da sua empresa e detalhes de pagamento",
   "PDF_FEATURE_4": "Intervalo de datas semanal, mensal ou personalizado",
   "PDF_FEATURE_5": "Exportação instantânea para PDF",
-  
   "WIDGETS_TITLE": "O seu horário de relance",
   "WIDGETS_SUBTITLE": "Acompanhe o seu trabalho futuro sem abrir a app. Widgets de horário mostram os seus próximos turnos, estado de trabalho atual e contagens regressivas em tempo real - tudo atualiza automaticamente no seu ecrã inicial e ecrã de bloqueio.",
   "WIDGETS_SIZES_TITLE": "Tamanhos de widget disponíveis",
   "WIDGET_SIZE_SMALL": "Pequeno",
   "WIDGET_SIZE_MEDIUM": "Médio",
   "WIDGET_SIZE_LOCK": "Ecrã de bloqueio",
-  
   "PRICING_TITLE": "Comece agora, atualize quando <span class=\"gradient\">crescer</span>",
   "PRICING_SUBTITLE": "Tudo o que precisa para acompanhar um cliente é grátis. Para sempre.",
   "PRICING_FREE_TITLE": "Grátis",
@@ -87,7 +74,6 @@
   "PRICING_PRO_FEAT_6": "Insights de rendimentos",
   "PRICING_PRO_FEAT_7": "Relatórios mensais",
   "PRICING_TRIAL": "Teste grátis de 2 semanas",
-  
   "FAQ_TITLE": "Perguntas Frequentes",
   "FAQ_Q1": "O que torna o WorkHourly diferente de outras apps de controlo de tempo?",
   "FAQ_A1": "A maioria das apps de controlo de tempo são feitas para funcionários ou projetos únicos. O WorkHourly é construído especificamente para profissionais de serviços que lidam com múltiplos clientes com diferentes tarifas e horários. Lidamos com a complexidade real do seu trabalho: acompanhar despesas por trabalho (não por dia), documentar trabalho com fotos, detetar automaticamente horas extras e criar faturas profissionais que realmente o fazem ser pago. Tudo funciona offline-first, então quer esteja na cave ou no telhado, o seu registo de tempo nunca para.",
@@ -117,11 +103,17 @@
   "FAQ_A13": "Às vezes uma imagem vale realmente mil palavras - especialmente quando um cliente questiona a sua fatura mais tarde. Em qualquer dia de trabalho, toque no menu de três pontos e escolha 'Adicionar foto' para mostrar a secção de fotos. Depois toque no botão mais para escolher entre 'Tirar foto' com a sua câmara ou 'Escolher da biblioteca' para fotos existentes. Fotos antes-depois provam que o trabalho foi feito, fotos de recibos mantêm o acompanhamento de despesas honesto, e fotos de progresso ajudam clientes a ver o seu dinheiro a trabalhar. Tudo fica privado no seu telefone. É como ter uma galeria de fotos profissional para cada trabalho que completa.",
   "FAQ_Q14": "Quão precisos são os cálculos de rendimentos?",
   "FAQ_A14": "O WorkHourly não arredonda ou 'estima' - calcula cada minuto que ganhou. Trabalha 3 horas e 45 minutos? É exatamente isso que é calculado, não 'cerca de 4 horas.' Mistura um trabalho matinal de 2 horas com um cliente da tarde de 8 horas que inclui horas extras? O WorkHourly lida com a complexidade sem suar. Todos os cálculos acontecem diretamente no seu telefone com algoritmos que testámos com milhares de cenários reais. Quando chega a época dos impostos ou um cliente questiona uma fatura, pode confiar completamente em cada número.",
-  
   "FOOTER_CTA_TITLE": "O seu trabalho conta",
   "FOOTER_CTA_SUBTITLE": "Cada hora que regista, cada cliente que gere, cada fatura que envia - tudo conta.",
   "FOOTER_CTA_BUTTON": "Começar registo de tempo",
   "FOOTER_COPYRIGHT": "© 2025 WorkHourly. Todos os direitos reservados.",
   "FOOTER_PRIVACY": "Política de Privacidade",
-  "FOOTER_TERMS": "Termos de Serviço"
+  "FOOTER_TERMS": "Termos de Serviço",
+  "BRANDING_TITLE": "Make Every Invoice Unmistakably Yours",
+  "BRANDING_SUBTITLE": "Add your company logo to PDF invoices with powerful customization options. AI-powered tools make professional branding effortless.",
+  "BRANDING_FEATURE_1": "AI Background Removal: Automatic background cleanup for any logo",
+  "BRANDING_FEATURE_2": "Perfect Positioning: Choose left or right placement",
+  "BRANDING_FEATURE_3": "Color Harmony: Extract and apply colors from your logo",
+  "BRANDING_FEATURE_4": "Custom Styling: Adjust corner radius and background opacity",
+  "BRANDING_FEATURE_5": "Professional Polish: Create invoices that reflect your brand"
 }
