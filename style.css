@@ -502,6 +502,7 @@ a.download-nav:hover {
     filter: var(--shadow-soft);
     overflow: hidden;
     border-radius: 48px;
+    border: 10px solid var(--border);
 }
 
 .screenshot.small {
