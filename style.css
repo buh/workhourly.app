@@ -1015,8 +1015,13 @@ a.download-nav:hover {
     display: flex;
     align-items: center;
     gap: 12px;
-    margin-bottom: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     font-size: 16px;
+}
+
+.pricing-features li:last-child {
+    border-bottom: none;
 }
 
 .pricing-features .icon {
@@ -1057,6 +1062,41 @@ a.download-nav:hover {
 
 .pricing-card.featured .pricing-cta:hover {
     background: rgba(255, 255, 255, 0.9);
+}
+
+/* Pricing Enhancements */
+.pricing-badge {
+    display: inline-block;
+    padding: 6px 16px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+    color: white;
+}
+
+.icon-pro {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: rgba(255, 215, 0, 0.2);
+    color: #FFD700;
+    font-size: 12px;
+    margin-right: 12px;
+}
+
+.pricing-card.featured .icon {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.pricing-trial-badge {
+    margin-top: 24px;
 }
 
 /* PDF Section */
