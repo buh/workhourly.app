@@ -1236,82 +1236,51 @@ a.download-nav:hover {
     }
 }
 
-/* Invoice Examples - Compact Version */
+/* Invoice Examples - Simple Row */
 .invoice-examples-compact {
-    /* Spacing handled by flexbox gap in .pdf-preview */
-}
-
-.invoice-examples-compact h4 {
-    font-size: 18px;
-    font-weight: 600;
-    color: var(--text-primary);
-    margin: 0 0 16px 0;
-}
-
-.examples-grid-compact {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
-}
-
-.example-button-compact {
     display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.invoice-examples-compact a {
+    display: inline-flex;
     align-items: center;
-    gap: 12px;
+    color: var(--text-secondary);
     text-decoration: none;
-    padding: 12px;
-    background: var(--bg-primary);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    transition: all 0.2s ease;
+    font-size: 15px;
+    transition: color 0.2s ease;
 }
 
-.example-button-compact:hover {
-    transform: translateY(-2px);
-    border-color: var(--primary);
-    box-shadow: 0 8px 16px rgba(0, 102, 255, 0.12);
-}
-
-.example-number-compact {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 40px;
-    height: 40px;
-    background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
-    color: white;
-    font-size: 18px;
-    font-weight: 700;
-    border-radius: 50%;
-    flex-shrink: 0;
-    box-shadow: 0 2px 8px rgba(0, 102, 255, 0.2);
-}
-
-.example-label-compact {
-    font-size: 14px;
-    font-weight: 500;
+.invoice-examples-compact a:hover {
     color: var(--text-primary);
-    line-height: 1.3;
+}
+
+.invoice-examples-compact a:hover .example-icon {
+    opacity: 1;
+}
+
+.example-icon {
+    display: inline-block;
+    height: 20px;
+    margin-bottom: -4px;
+    margin-right: 4px;
+    filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+    opacity: 0.7;
 }
 
 /* Mobile adjustments */
 @media (max-width: 768px) {
-    .examples-grid-compact {
-        gap: 10px;
+    .invoice-examples-compact {
+        gap: 16px;
     }
 
-    .example-button-compact {
-        padding: 10px;
+    .invoice-examples-compact a {
+        font-size: 14px;
     }
 
-    .example-number-compact {
-        width: 36px;
-        height: 36px;
-        font-size: 16px;
-    }
-
-    .example-label-compact {
-        font-size: 13px;
+    .example-icon {
+        height: 18px;
     }
 }
 
