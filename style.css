@@ -809,6 +809,131 @@ a.download-nav:hover {
     min-height: 100px;
 }
 
+/* Smart Features Section */
+.smart-features-section {
+    padding: 120px 0;
+    background: var(--bg-secondary);
+}
+
+.smart-features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 32px;
+    max-width: 1120px;
+}
+
+.smart-feature-card {
+    background: var(--bg-primary);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 40px;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.smart-feature-card.featured {
+    border: 2px solid var(--primary);
+    background: linear-gradient(135deg,
+        rgba(0, 102, 255, 0.03) 0%,
+        rgba(0, 212, 255, 0.03) 100%);
+}
+
+.smart-feature-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 48px rgba(0, 102, 255, 0.15);
+    border-color: var(--primary);
+}
+
+.smart-feature-icon-wrapper {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 24px;
+}
+
+.smart-feature-icon-gradient {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    opacity: 0.15;
+}
+
+.smart-feature-icon-gradient.visual {
+    background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%);
+}
+
+.smart-feature-icon-gradient.precise {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+}
+
+.smart-feature-icon-gradient.sync {
+    background: linear-gradient(135deg, #00D4FF 0%, #0066FF 100%);
+}
+
+.smart-feature-icon {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    z-index: 1;
+}
+
+.smart-feature-card h3 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: var(--text-primary);
+}
+
+.smart-feature-description {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 24px;
+}
+
+.smart-feature-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.smart-feature-list li {
+    font-size: 15px;
+    color: var(--text-secondary);
+    padding: 8px 0;
+    padding-left: 24px;
+    position: relative;
+}
+
+.smart-feature-list li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--primary);
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+    .smart-features-section {
+        padding: 80px 0;
+    }
+
+    .smart-features-grid {
+        grid-template-columns: 1fr;
+        gap: 24px;
+    }
+
+    .smart-feature-card {
+        padding: 32px;
+    }
+}
+
 /* Pricing Section */
 .pricing-section {
     padding: 120px 0;
