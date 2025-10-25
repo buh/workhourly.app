@@ -5,7 +5,9 @@
   "main": "template/build.js",
   "scripts": {
     "build": "node template/build.js",
-    "build-dev": "node template/build.js --dev"
+    "build-dev": "node template/build.js --dev",
+    "validate": "node template/validate.js",
+    "build:validate": "npm run build && npm run validate"
   },
   "devDependencies": {},
   "engines": {

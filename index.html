@@ -75,8 +75,7 @@
         "applicationCategory": "BusinessApplication",
         "applicationSubCategory": "Productivity",
         "downloadUrl": "https://apps.apple.com/app/id6749011205",
-        "softwareVersion": "1.0",
-        "releaseNotes": "Professional time tracking with multi-client support, PDF invoicing, and expense management",
+        "releaseNotes": "Logo customization for invoices, client color coding, flexible workflow modes, schedule breaks, and QR codes on invoices. Professional time tracking with multi-client support, PDF invoicing, and expense management",
         "offers": [
             {
                 "@type": "Offer",
@@ -96,11 +95,17 @@
         "description": "Professional time tracking with PDF invoicing, expense management, and photo documentation. Perfect for freelancers, contractors, and service professionals.",
         "featureList": [
             "Multi-client time tracking",
-            "PDF invoice generation", 
+            "Branded PDF invoice generation",
+            "Logo customization with smart background removal",
+            "Client color coding",
+            "Flexible workflow modes (Schedule & Clock In/Out)",
+            "Schedule breaks tracking",
+            "QR codes on invoices",
             "Expense management",
             "Overtime calculation",
             "Offline functionality",
-            "33 language support"
+            "34 language support",
+            "iCloud settings backup"
         ],
         "screenshot": "https://workhourly.app/images/today@light.png",
         "aggregateRating": {
@@ -116,6 +121,7 @@
             "url": "https://workhourly.app"
         },
         "datePublished": "2024-01-01",
+        "dateModified": "2025-10-25",
         "inLanguage": ["en", "es", "fr", "de", "it", "nl", "pt", "ru", "pl", "sv", "uk", "cs", "hu", "bg", "th", "vi", "ja", "ko", "zh-CN", "zh-TW", "id", "tr", "no", "da", "ro", "fi"],
         "countryOfOrigin": "US",
         "requirements": "iOS 17.0 or later"
@@ -550,10 +556,18 @@
                     <div class="branding-visual">
                         <div class="image-placeholder">
                             <svg width="320" height="600" viewBox="0 0 320 600" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <rect width="320" height="600" rx="48" fill="var(--bg-tertiary)"/>
-                                <text x="160" y="280" text-anchor="middle" fill="var(--text-tertiary)" font-size="16" font-weight="600">Logo Customization</text>
-                                <text x="160" y="310" text-anchor="middle" fill="var(--text-tertiary)" font-size="14">Interface Preview</text>
-                                <text x="160" y="340" text-anchor="middle" fill="var(--text-quaternary)" font-size="12">Coming Soon</text>
+                                <defs>
+                                    <linearGradient id="placeholderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color:#F0F4FF;stop-opacity:1" />
+                                        <stop offset="100%" style="stop-color:#E8F0FE;stop-opacity:1" />
+                                    </linearGradient>
+                                </defs>
+                                <rect width="320" height="600" rx="48" fill="url(#placeholderGradient)"/>
+                                <rect x="40" y="40" width="240" height="180" rx="16" fill="#fff" opacity="0.6"/>
+                                <rect x="60" y="60" width="100" height="100" rx="50" fill="#0066FF" opacity="0.15"/>
+                                <text x="160" y="280" text-anchor="middle" fill="#4A5568" font-size="16" font-weight="600">Logo Customization</text>
+                                <text x="160" y="310" text-anchor="middle" fill="#718096" font-size="14">Interface Preview</text>
+                                <text x="160" y="340" text-anchor="middle" fill="#A0AEC0" font-size="12">Coming Soon</text>
                             </svg>
                         </div>
                     </div>
