@@ -475,15 +475,6 @@
                               <img src="/images/payrolls@light.png" class="screenshot small" alt="Multi-Client Screen" />
                         </picture>
                     </div>
-                    <div class="feature">
-                        <h3>{{FEATURE_WORKFLOW_TITLE}}</h3>
-                        <p>{{FEATURE_WORKFLOW_DESC}}</p>
-                        <picture>
-                              <source srcset="/images/settings@light.png" media="(prefers-color-scheme: light)">
-                              <source srcset="/images/settings@dark.png" media="(prefers-color-scheme: dark)">
-                              <img src="/images/settings@light.png" class="screenshot small" alt="Workflow Settings" />
-                        </picture>
-                    </div>
                 </div>
             </div>
         </section>
@@ -518,6 +509,10 @@
                                 <span class="icon">✓</span>
                                 <span>Anında PDF dışa aktarma</span>
                             </li>
+                            <li>
+                                <span class="icon">✓</span>
+                                <span>{{PDF_FEATURE_6}}</span>
+                            </li>
                         </ul>
                     </div>
                     <div class="pdf-preview">
@@ -541,124 +536,38 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- Invoice Capabilities Grid -->
-                <div class="invoice-capabilities">
-                    <div class="capability-card">
-                        <h4>{{PDF_CUSTOMIZATION_TITLE}}</h4>
-                        <ul class="capability-list">
-                            <li>
-                                <span class="capability-icon">✨</span>
-                                <span>{{PDF_CUSTOMIZATION_1}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">✨</span>
-                                <span>{{PDF_CUSTOMIZATION_2}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">✨</span>
-                                <span>{{PDF_CUSTOMIZATION_3}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">✨</span>
-                                <span>{{PDF_CUSTOMIZATION_4}}</span>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="capability-card">
-                        <h4>{{PDF_MODERN_TITLE}}</h4>
-                        <ul class="capability-list">
-                            <li>
-                                <span class="capability-icon">📱</span>
-                                <span>{{PDF_MODERN_1}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">📱</span>
-                                <span>{{PDF_MODERN_2}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">📱</span>
-                                <span>{{PDF_MODERN_3}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">📱</span>
-                                <span>{{PDF_MODERN_4}}</span>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="capability-card">
-                        <h4>{{PDF_ORGANIZATION_TITLE}}</h4>
-                        <ul class="capability-list">
-                            <li>
-                                <span class="capability-icon">📂</span>
-                                <span>{{PDF_ORGANIZATION_1}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">📂</span>
-                                <span>{{PDF_ORGANIZATION_2}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">📂</span>
-                                <span>{{PDF_ORGANIZATION_3}}</span>
-                            </li>
-                            <li>
-                                <span class="capability-icon">📂</span>
-                                <span>{{PDF_ORGANIZATION_4}}</span>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
             </div>
         </section>
 
         <section class="branding-section" id="branding">
             <div class="container">
-                <div class="branding-content">
+                <div class="section-header-centered">
+                    <h2>Make Every Invoice Unmistakably Yours</h2>
+                    <p class="section-subtitle">Add your company logo to PDF invoices with powerful customization options. Smart tools make professional branding effortless.</p>
+                </div>
+
+                <!-- Step 1: Upload & Customize -->
+                <div class="branding-feature">
+                    <picture>
+                        <source srcset="/images/logo_image@light.png" media="(prefers-color-scheme: light)">
+                        <source srcset="/images/logo_image@dark.png" media="(prefers-color-scheme: dark)">
+                        <img src="/images/logo_image@light.png" class="screenshot small" alt="Logo Upload Interface" />
+                    </picture>
                     <div class="branding-text">
-                        <h2>Make Every Invoice Unmistakably Yours</h2>
-                        <p class="branding-subtitle">Add your company logo to PDF invoices with powerful customization options. Smart tools make professional branding effortless.</p>
-                        <ul class="branding-features">
-                            <li>
-                                <span class="icon">✓</span>
-                                <span>Smart Background Removal: Automatic background cleanup for any logo</span>
-                            </li>
-                            <li>
-                                <span class="icon">✓</span>
-                                <span>Perfect Positioning: Choose left or right placement</span>
-                            </li>
-                            <li>
-                                <span class="icon">✓</span>
-                                <span>Color Harmony: Extract and apply colors from your logo</span>
-                            </li>
-                            <li>
-                                <span class="icon">✓</span>
-                                <span>Custom Styling: Adjust corner radius and background opacity</span>
-                            </li>
-                            <li>
-                                <span class="icon">✓</span>
-                                <span>Professional Polish: Create invoices that reflect your brand</span>
-                            </li>
-                        </ul>
+                        <h3>Upload & Customize</h3>
+                        <p>{{BRANDING_STEP_1}}</p>
+                        <p>{{BRANDING_STEP_2}}</p>
+                        <p>{{BRANDING_STEP_4}}</p>
                     </div>
-                    <div class="branding-visual">
-                        <div class="image-placeholder">
-                            <svg width="320" height="600" viewBox="0 0 320 600" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <defs>
-                                    <linearGradient id="placeholderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                                        <stop offset="0%" style="stop-color:#F0F4FF;stop-opacity:1" />
-                                        <stop offset="100%" style="stop-color:#E8F0FE;stop-opacity:1" />
-                                    </linearGradient>
-                                </defs>
-                                <rect width="320" height="600" rx="48" fill="url(#placeholderGradient)"/>
-                                <rect x="40" y="40" width="240" height="180" rx="16" fill="#fff" opacity="0.6"/>
-                                <rect x="60" y="60" width="100" height="100" rx="50" fill="#0066FF" opacity="0.15"/>
-                                <text x="160" y="280" text-anchor="middle" fill="#4A5568" font-size="16" font-weight="600">Logo Customization</text>
-                                <text x="160" y="310" text-anchor="middle" fill="#718096" font-size="14">Interface Preview</text>
-                                <text x="160" y="340" text-anchor="middle" fill="#A0AEC0" font-size="12">Coming Soon</text>
-                            </svg>
-                        </div>
+                </div>
+
+                <!-- Step 2: Preview & Apply -->
+                <div class="branding-feature reverse">
+                    <img src="/images/logo_pdf.png" class="screenshot small logo-pdf-preview" alt="PDF Preview with Logo" />
+                    <div class="branding-text">
+                        <h3>Preview & Apply</h3>
+                        <p>{{BRANDING_STEP_3}}</p>
+                        <p>{{BRANDING_STEP_5}}</p>
                     </div>
                 </div>
             </div>

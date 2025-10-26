@@ -1296,70 +1296,55 @@ a.download-nav:hover {
     background: var(--bg-secondary);
 }
 
-.branding-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 80px;
-    align-items: center;
-}
-
-.branding-text h2 {
-    margin-bottom: 24px;
-}
-
-.branding-subtitle {
-    font-size: 18px;
-    line-height: 1.7;
-    color: var(--text-secondary);
-    margin-bottom: 40px;
-}
-
-.branding-features {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.branding-features li {
+.branding-feature {
     display: flex;
-    align-items: flex-start;
-    gap: 16px;
-    margin-bottom: 20px;
-    font-size: 16px;
-    line-height: 1.6;
-}
-
-.branding-features .icon {
-    display: flex;
-    align-items: center;
     justify-content: center;
-    width: 24px;
-    height: 24px;
-    background: var(--success);
-    color: white;
-    border-radius: 50%;
-    font-size: 14px;
-    font-weight: 700;
+    align-items: center;
+    gap: 64px;
+    margin-bottom: 80px;
+}
+
+.branding-feature:last-child {
+    margin-bottom: 0;
+}
+
+.branding-feature.reverse {
+    flex-direction: row-reverse;
+}
+
+.branding-feature .screenshot {
     flex-shrink: 0;
 }
 
-.branding-features span:last-child {
-    color: var(--text-primary);
-    flex: 1;
+.branding-text {
+    max-width: 450px;
 }
 
-.branding-visual .image-placeholder {
-    width: 100%;
-    max-width: 320px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.branding-text h3 {
+    margin-bottom: 24px;
+    font-size: 24px;
 }
 
-.branding-visual .image-placeholder svg {
-    width: 100%;
-    height: auto;
-    filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.1));
+.branding-text p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+}
+
+.branding-text p:last-child {
+    margin-bottom: 0;
+}
+
+/* Dark mode opacity for PDF preview */
+.logo-pdf-preview {
+    opacity: 1;
+}
+
+@media (prefers-color-scheme: dark) {
+    .logo-pdf-preview {
+        opacity: 0.85;
+    }
 }
 
 @media (max-width: 768px) {
@@ -1367,34 +1352,27 @@ a.download-nav:hover {
         padding: 80px 0;
     }
 
-    .branding-content {
-        grid-template-columns: 1fr;
-        gap: 48px;
+    .branding-feature {
+        flex-direction: column;
+        gap: 32px;
+        margin-bottom: 64px;
     }
 
-    .branding-visual {
-        order: -1;
+    .branding-feature.reverse {
+        flex-direction: column;
     }
 
-    .branding-visual .screenshot {
-        max-width: 300px;
+    .branding-text {
+        max-width: 100%;
     }
 
-    .branding-badge {
-        top: -8px;
-        right: 10px;
-        padding: 6px 12px;
-        font-size: 13px;
-    }
-
-    .branding-subtitle {
-        font-size: 16px;
-        margin-bottom: 32px;
-    }
-
-    .branding-features li {
-        font-size: 15px;
+    .branding-text h3 {
+        font-size: 20px;
         margin-bottom: 16px;
+    }
+
+    .branding-text p {
+        font-size: 15px;
     }
 }
 
