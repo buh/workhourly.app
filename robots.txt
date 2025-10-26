@@ -37,10 +37,11 @@ Allow: /vi/
 Allow: /zh-cn/
 Allow: /zh-tw/
 
-# Block legal pages from all robots
+# Block legal pages and sample files from all robots
 Disallow: /terms_of_service.html
 Disallow: /privacy_policy.html
 Disallow: /docs_style.css
+Disallow: /pdf/
 
 # Sitemap location
 Sitemap: https://workhourly.app/sitemap.xml
