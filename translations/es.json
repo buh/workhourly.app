@@ -169,5 +169,7 @@
   "FAQ_Q18": "¿Cómo funcionan los widgets en mi pantalla principal?",
   "FAQ_A18": "Los widgets de Horario muestran próximos turnos en pantalla principal y pantalla de bloqueo. Cuentas regresivas en vivo con actualización automática ('En 3 horas' → 'En 2 horas'). Disponible en tamaños Pequeño, Mediano y Pantalla de Bloqueo.",
   "FAQ_Q19": "¿Cómo añado fotos para documentar mi trabajo?",
-  "FAQ_A19": "En cualquier día de trabajo, toca tres puntos → 'Añadir una foto' → toca botón más → elige 'Tomar Foto' o 'Elegir de la Biblioteca'. Fotos de antes/después, fotos de recibos, fotos de progreso. Todo se mantiene privado en tu teléfono."
+  "FAQ_A19": "En cualquier día de trabajo, toca tres puntos → 'Añadir una foto' → toca botón más → elige 'Tomar Foto' o 'Elegir de la Biblioteca'. Fotos de antes/después, fotos de recibos, fotos de progreso. Todo se mantiene privado en tu teléfono.",
+  "BRANDING_UPLOAD_TITLE": "Subir y Personalizar",
+  "BRANDING_PREVIEW_TITLE": "Vista Previa y Aplicar"
 }

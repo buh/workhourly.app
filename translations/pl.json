@@ -169,5 +169,7 @@
   "FAQ_Q18": "Jak działają inteligentne przypomnienia?",
   "FAQ_A18": "Poranne powiadomienie o dzisiejszej pracy. Opcjonalne przypomnienia przed rozpoczęciem zmian. Wszystko zaplanowane lokalnie na Twoim telefonie - działa bez internetu, nawet w obszarach bez sygnału.",
   "FAQ_Q19": "Jak dodać zdjęcia do dokumentacji mojej pracy?",
-  "FAQ_A19": "W każdym dniu pracy stuknij trzy kropki → 'Dodaj zdjęcie' → stuknij przycisk plus → wybierz 'Zrób Zdjęcie' lub 'Wybierz z Biblioteki'. Zdjęcia przed/po, zdjęcia paragonów, zdjęcia postępu. Wszystko pozostaje prywatne na Twoim telefonie."
+  "FAQ_A19": "W każdym dniu pracy stuknij trzy kropki → 'Dodaj zdjęcie' → stuknij przycisk plus → wybierz 'Zrób Zdjęcie' lub 'Wybierz z Biblioteki'. Zdjęcia przed/po, zdjęcia paragonów, zdjęcia postępu. Wszystko pozostaje prywatne na Twoim telefonie.",
+  "BRANDING_UPLOAD_TITLE": "Prześlij i Dostosuj",
+  "BRANDING_PREVIEW_TITLE": "Podgląd i Zastosuj"
 }

@@ -169,5 +169,7 @@
   "PDF_EXAMPLE_1_LABEL": "ใบแจ้งหนี้มาตรฐาน",
   "PDF_EXAMPLE_2_LABEL": "มีโลโก้",
   "PDF_EXAMPLE_3_LABEL": "ไทม์ชีต",
-  "PDF_EXAMPLE_4_LABEL": "รายงานค่าใช้จ่าย"
+  "PDF_EXAMPLE_4_LABEL": "รายงานค่าใช้จ่าย",
+  "BRANDING_UPLOAD_TITLE": "อัปโหลดและปรับแต่ง",
+  "BRANDING_PREVIEW_TITLE": "ดูตัวอย่างและนำไปใช้"
 }

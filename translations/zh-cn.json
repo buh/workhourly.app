@@ -169,5 +169,7 @@
   "PDF_EXAMPLE_1_LABEL": "标准发票",
   "PDF_EXAMPLE_2_LABEL": "带标志",
   "PDF_EXAMPLE_3_LABEL": "时间表",
-  "PDF_EXAMPLE_4_LABEL": "费用报告"
+  "PDF_EXAMPLE_4_LABEL": "费用报告",
+  "BRANDING_UPLOAD_TITLE": "上传和自定义",
+  "BRANDING_PREVIEW_TITLE": "预览和应用"
 }

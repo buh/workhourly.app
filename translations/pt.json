@@ -169,5 +169,7 @@
   "FAQ_Q18": "Como funcionam os lembretes inteligentes?",
   "FAQ_A18": "Notificação matinal sobre o trabalho de hoje. Lembretes opcionais antes do início dos turnos. Tudo agendado localmente no seu telefone - funciona sem internet, mesmo em áreas sem sinal.",
   "FAQ_Q19": "Como adiciono fotos para documentar o meu trabalho?",
-  "FAQ_A19": "Em qualquer dia de trabalho, toque nos três pontos → 'Adicionar uma foto' → toque no botão de mais → escolha 'Tirar foto' ou 'Escolher da biblioteca'. Fotos antes/depois, fotos de recibos, fotos de progresso. Tudo fica privado no seu telefone."
+  "FAQ_A19": "Em qualquer dia de trabalho, toque nos três pontos → 'Adicionar uma foto' → toque no botão de mais → escolha 'Tirar foto' ou 'Escolher da biblioteca'. Fotos antes/depois, fotos de recibos, fotos de progresso. Tudo fica privado no seu telefone.",
+  "BRANDING_UPLOAD_TITLE": "Carregar e Personalizar",
+  "BRANDING_PREVIEW_TITLE": "Visualizar e Aplicar"
 }

@@ -169,5 +169,7 @@
   "PDF_EXAMPLE_1_LABEL": "標準請求書",
   "PDF_EXAMPLE_2_LABEL": "ロゴ付き",
   "PDF_EXAMPLE_3_LABEL": "タイムシート",
-  "PDF_EXAMPLE_4_LABEL": "経費報告"
+  "PDF_EXAMPLE_4_LABEL": "経費報告",
+  "BRANDING_UPLOAD_TITLE": "アップロードとカスタマイズ",
+  "BRANDING_PREVIEW_TITLE": "プレビューと適用"
 }

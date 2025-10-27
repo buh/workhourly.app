@@ -169,5 +169,7 @@
   "PDF_EXAMPLE_1_LABEL": "Стандартный счёт",
   "PDF_EXAMPLE_2_LABEL": "С логотипом",
   "PDF_EXAMPLE_3_LABEL": "Табель",
-  "PDF_EXAMPLE_4_LABEL": "Отчёт о расходах"
+  "PDF_EXAMPLE_4_LABEL": "Отчёт о расходах",
+  "BRANDING_UPLOAD_TITLE": "Загрузить и Настроить",
+  "BRANDING_PREVIEW_TITLE": "Просмотр и Применить"
 }

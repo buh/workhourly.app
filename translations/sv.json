@@ -169,5 +169,7 @@
   "FAQ_Q18": "Hur fungerar widgets på min hemskärm?",
   "FAQ_A18": "Schema-widgets visar kommande skift på hemskärm och låsskärm. Automatiskt uppdaterade direkträknare (\"Om 3 timmar\" → \"Om 2 timmar\"). Tillgängliga i storlekarna Liten, Medium och Låsskärm.",
   "FAQ_Q19": "Hur lägger jag till foton för att dokumentera mitt arbete?",
-  "FAQ_A19": "På vilken arbetsdag som helst, tryck tre punkter → \"Lägg till foto\" → tryck plus-knapp → välj \"Ta foto\" eller \"Välj från bibliotek\". Före/efter-bilder, kvittobilder, förloppsfotografier. Allt förblir privat på din telefon."
+  "FAQ_A19": "På vilken arbetsdag som helst, tryck tre punkter → \"Lägg till foto\" → tryck plus-knapp → välj \"Ta foto\" eller \"Välj från bibliotek\". Före/efter-bilder, kvittobilder, förloppsfotografier. Allt förblir privat på din telefon.",
+  "BRANDING_UPLOAD_TITLE": "Ladda upp & Anpassa",
+  "BRANDING_PREVIEW_TITLE": "Förhandsgranska & Tillämpa"
 }

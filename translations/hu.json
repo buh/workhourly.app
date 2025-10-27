@@ -169,5 +169,7 @@
   "PDF_EXAMPLE_1_LABEL": "Standard számla",
   "PDF_EXAMPLE_2_LABEL": "Logóval",
   "PDF_EXAMPLE_3_LABEL": "Timesheet",
-  "PDF_EXAMPLE_4_LABEL": "Költségjelentés"
+  "PDF_EXAMPLE_4_LABEL": "Költségjelentés",
+  "BRANDING_UPLOAD_TITLE": "Feltöltés és Testreszabás",
+  "BRANDING_PREVIEW_TITLE": "Előnézet és Alkalmazás"
 }

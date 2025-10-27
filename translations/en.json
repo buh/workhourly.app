@@ -169,5 +169,7 @@
   "FAQ_Q18": "How do the smart reminders work?",
   "FAQ_A18": "Morning notification about today's work. Optional reminders before shifts start. All scheduled locally on your phone - works without internet, even in areas with no signal.",
   "FAQ_Q19": "How do I add photos to document my work?",
-  "FAQ_A19": "On any work day, tap three dots → \"Add a picture\" → tap plus button → choose \"Take Photo\" or \"Choose from Library\". Before/after shots, receipt photos, progress pics. Everything stays private on your phone."
+  "FAQ_A19": "On any work day, tap three dots → \"Add a picture\" → tap plus button → choose \"Take Photo\" or \"Choose from Library\". Before/after shots, receipt photos, progress pics. Everything stays private on your phone.",
+  "BRANDING_UPLOAD_TITLE": "Upload & Customize",
+  "BRANDING_PREVIEW_TITLE": "Preview & Apply"
 }

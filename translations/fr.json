@@ -169,5 +169,7 @@
   "FAQ_Q18": "Comment fonctionnent les widgets sur mon écran d'accueil ?",
   "FAQ_A18": "Les widgets d'horaire affichent les prochains quarts sur l'écran d'accueil et l'écran de verrouillage. Comptes à rebours en direct avec mise à jour automatique ('Dans 3 heures' → 'Dans 2 heures'). Disponible en tailles Petit, Moyen et Écran de Verrouillage.",
   "FAQ_Q19": "Comment ajouter des photos pour documenter mon travail ?",
-  "FAQ_A19": "Sur n'importe quel jour de travail, appuyez sur trois points → 'Ajouter une photo' → appuyez sur le bouton plus → choisissez 'Prendre une Photo' ou 'Choisir dans la Bibliothèque'. Photos avant/après, photos de reçus, photos de progression. Tout reste privé sur votre téléphone."
+  "FAQ_A19": "Sur n'importe quel jour de travail, appuyez sur trois points → 'Ajouter une photo' → appuyez sur le bouton plus → choisissez 'Prendre une Photo' ou 'Choisir dans la Bibliothèque'. Photos avant/après, photos de reçus, photos de progression. Tout reste privé sur votre téléphone.",
+  "BRANDING_UPLOAD_TITLE": "Télécharger et Personnaliser",
+  "BRANDING_PREVIEW_TITLE": "Aperçu et Appliquer"
 }

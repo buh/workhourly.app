@@ -169,5 +169,7 @@
   "PDF_EXAMPLE_1_LABEL": "標準發票",
   "PDF_EXAMPLE_2_LABEL": "帶標誌",
   "PDF_EXAMPLE_3_LABEL": "時間表",
-  "PDF_EXAMPLE_4_LABEL": "費用報告"
+  "PDF_EXAMPLE_4_LABEL": "費用報告",
+  "BRANDING_UPLOAD_TITLE": "上傳和自訂",
+  "BRANDING_PREVIEW_TITLE": "預覽和套用"
 }

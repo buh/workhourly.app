@@ -169,5 +169,7 @@
   "FAQ_Q18": "Hvordan fungerer widgets på min hjemmeskjerm?",
   "FAQ_A18": "Timeplan-widgets viser kommende skift på hjemmeskjerm og låseskjerm. Automatisk oppdaterende live nedtellinger (\"Om 3 timer\" → \"Om 2 timer\"). Tilgjengelig i størrelsene Liten, Medium og Låseskjerm.",
   "FAQ_Q19": "Hvordan legger jeg til bilder for å dokumentere arbeidet mitt?",
-  "FAQ_A19": "På hvilken som helst arbeidsdag, trykk tre prikker → \"Legg til bilde\" → trykk plusknapp → velg \"Ta bilde\" eller \"Velg fra bibliotek\". Før/etter-bilder, kvitteringsbilder, fremdriftsbilder. Alt forblir privat på telefonen din."
+  "FAQ_A19": "På hvilken som helst arbeidsdag, trykk tre prikker → \"Legg til bilde\" → trykk plusknapp → velg \"Ta bilde\" eller \"Velg fra bibliotek\". Før/etter-bilder, kvitteringsbilder, fremdriftsbilder. Alt forblir privat på telefonen din.",
+  "BRANDING_UPLOAD_TITLE": "Last opp & Tilpass",
+  "BRANDING_PREVIEW_TITLE": "Forhåndsvis & Bruk"
 }

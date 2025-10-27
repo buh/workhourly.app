@@ -169,5 +169,7 @@
   "FAQ_Q18": "Miten widgetit toimivat kotinäytölläni?",
   "FAQ_A18": "Aikatauluwidgetit näyttävät tulevat vuorot kotinäytöllä ja lukitusnäytöllä. Automaattisesti päivittyvät reaaliaikaiset laskurit (\"3 tunnin päästä\" → \"2 tunnin päästä\"). Saatavilla pieni, keskikokoinen ja lukitusnäyttö-koot.",
   "FAQ_Q19": "Miten lisään kuvia dokumentoidakseni työni?",
-  "FAQ_A19": "Minä tahansa työpäivänä, napauta kolmea pistettä → \"Lisää kuva\" → napauta plus-nappia → valitse \"Ota kuva\" tai \"Valitse kirjastosta\". Ennen/jälkeen-kuvat, kuittikuvat, edistymiskuvat. Kaikki pysyy yksityisenä puhelimessasi."
+  "FAQ_A19": "Minä tahansa työpäivänä, napauta kolmea pistettä → \"Lisää kuva\" → napauta plus-nappia → valitse \"Ota kuva\" tai \"Valitse kirjastosta\". Ennen/jälkeen-kuvat, kuittikuvat, edistymiskuvat. Kaikki pysyy yksityisenä puhelimessasi.",
+  "BRANDING_UPLOAD_TITLE": "Lataa & Mukauta",
+  "BRANDING_PREVIEW_TITLE": "Esikatsele & Käytä"
 }

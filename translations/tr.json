@@ -169,5 +169,7 @@
   "PDF_EXAMPLE_1_LABEL": "Standart Fatura",
   "PDF_EXAMPLE_2_LABEL": "Logolu",
   "PDF_EXAMPLE_3_LABEL": "Zaman çizelgesi",
-  "PDF_EXAMPLE_4_LABEL": "Gider Raporu"
+  "PDF_EXAMPLE_4_LABEL": "Gider Raporu",
+  "BRANDING_UPLOAD_TITLE": "Yükle ve Özelleştir",
+  "BRANDING_PREVIEW_TITLE": "Önizleme ve Uygula"
 }

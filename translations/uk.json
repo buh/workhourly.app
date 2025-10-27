@@ -169,5 +169,7 @@
   "PDF_EXAMPLE_1_LABEL": "Стандартний рахунок",
   "PDF_EXAMPLE_2_LABEL": "З логотипом",
   "PDF_EXAMPLE_3_LABEL": "Табель",
-  "PDF_EXAMPLE_4_LABEL": "Звіт про витрати"
+  "PDF_EXAMPLE_4_LABEL": "Звіт про витрати",
+  "BRANDING_UPLOAD_TITLE": "Завантажити та Налаштувати",
+  "BRANDING_PREVIEW_TITLE": "Попередній перегляд та Застосувати"
 }
