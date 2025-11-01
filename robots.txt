@@ -43,6 +43,9 @@ Disallow: /privacy_policy.html
 Disallow: /docs_style.css
 Disallow: /pdf/
 
+# Block metrics endpoints (app-only tracking)
+Disallow: /metrics/
+
 # Sitemap location
 Sitemap: https://workhourly.app/sitemap.xml
 
